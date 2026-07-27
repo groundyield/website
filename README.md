@@ -11,9 +11,11 @@ Raising real yields on the ground. Transparent data. Community first.
 | | |
 |---|---|
 | Website | [www.groundyield.org](https://www.groundyield.org) |
+| **Doc library** | [docs.html](https://www.groundyield.org/docs.html) (grouped — not the homepage dump) |
 | X | [@GroundYield](https://x.com/GroundYield) |
 | Contact | [team@groundyield.org](mailto:team@groundyield.org) |
 | This repo | [github.com/groundyield/website](https://github.com/groundyield/website) |
+| UX rules | [SITE_UX.md](SITE_UX.md) |
 
 Canonical host: **www**. Apex redirects to www.
 

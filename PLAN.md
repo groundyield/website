@@ -268,7 +268,7 @@ Trip ops ≠ unit capital: [TRIP_BUDGET.md](TRIP_BUDGET.md) vs [UNIT.md](UNIT.md
 
 | Doc | Role |
 |-----|------|
-| [index.html](index.html) / [pt.html](pt.html) / [day1.html](day1.html) | Site |
+| [index.html](index.html) / [docs.html](docs.html) / [pt.html](pt.html) / [day1.html](day1.html) | Site (+ UX: [SITE_UX.md](SITE_UX.md)) |
 | [units.html](units.html) | Registry |
 | [UPDATES.md](UPDATES.md) · [updates.rss](updates.rss) | Changelog |
 | [TRACTION.md](TRACTION.md) · [OUTREACH.md](OUTREACH.md) | Attention without hype |

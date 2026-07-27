@@ -86,15 +86,26 @@ check_typed "/field/GroundYield_Field_OnePager_EN_PT.pdf" "pdf\|octet" "25504446
 check_typed "/field/GroundYield_Field_Forms_EN_PT.pdf" "pdf\|octet" "25504446"
 check "/units.html"
 check "/day1.html"
+check "/docs.html"
 
 echo "----------------------------------------"
 curl -sL --max-time 25 "${BASE}/?${CB}" -o /tmp/gy_home.out
 
-for needle in "Jacques Theron" "pt.html" "UNIT.md" "SEASON.md" "Field one-pager" "Field forms" "FIELD_KIT" "INTEGRITY" "Fighting fraud" "Zero units" "Ground window" "units.html" "updates.rss"; do
+for needle in "Jacques Theron" "pt.html" "UNIT.md" "SEASON.md" "Field one-pager" "Field forms" "FIELD_KIT" "INTEGRITY" "Fighting fraud" "Zero units" "Ground window" "units.html" "updates.rss" "docs.html"; do
   if grep -q "$needle" /tmp/gy_home.out; then
     echo "OK   homepage contains: ${needle}"
   else
     echo "FAIL homepage missing: ${needle}"
+    FAIL=1
+  fi
+done
+
+curl -sL --max-time 25 "${BASE}/docs.html?${CB}" -o /tmp/gy_docs.out
+for needle in "Document library" "PLAN.md" "KPI_AND_DATA" "REMOTE_OPS" "FIELD_KIT"; do
+  if grep -q "$needle" /tmp/gy_docs.out; then
+    echo "OK   docs.html contains: ${needle}"
+  else
+    echo "FAIL docs.html missing: ${needle}"
     FAIL=1
   fi
 done

@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Documents — GroundYield</title>
+  <meta name="description" content="GroundYield document library: start here, field pack, design, risk, integrity. Grouped for humans, not a dump." />
+  <meta name="theme-color" content="#0f1419" />
+  <link rel="canonical" href="https://www.groundyield.org/docs.html" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <meta property="og:title" content="Documents — GroundYield" />
+  <meta property="og:description" content="Open pilot docs, grouped by what you need." />
+  <meta property="og:image" content="https://www.groundyield.org/og-image.png" />
+  <meta property="og:url" content="https://www.groundyield.org/docs.html" />
+  <style>
+    :root {
+      --bg: #0f1419; --surface: #1a2332; --text: #e8eef5;
+      --muted: #8b9cb3; --accent: #3dd68c; --border: #2a3548;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: var(--bg); color: var(--text); line-height: 1.6; min-height: 100vh;
+    }
+    a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+    .container { max-width: 720px; margin: 0 auto; padding: 0 1.5rem; }
+    header { padding: 2rem 0 1.25rem; border-bottom: 1px solid var(--border); }
+    .logo { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.03em; }
+    .logo span { color: var(--accent); }
+    .logo a { color: inherit; text-decoration: none; }
+    .nav {
+      display: flex; flex-wrap: wrap; gap: 0.65rem 1rem;
+      margin-top: 0.85rem; font-size: 0.88rem;
+    }
+    .nav a { color: var(--muted); text-decoration: none; font-weight: 500; }
+    .nav a:hover, .nav a[aria-current="page"] { color: var(--accent); }
+    main { padding: 2rem 0 4rem; }
+    h1 { font-size: 1.85rem; letter-spacing: -0.03em; margin-bottom: 0.5rem; }
+    .lead { color: var(--muted); margin-bottom: 1.75rem; max-width: 36rem; }
+    h2 {
+      font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em;
+      color: var(--accent); margin: 2rem 0 0.75rem; font-weight: 600;
+    }
+    h2:first-of-type { margin-top: 0.5rem; }
+    .card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 12px; padding: 1rem 1.15rem; margin-bottom: 0.75rem;
+    }
+    .card h3 { font-size: 1rem; margin-bottom: 0.25rem; }
+    .card p { color: var(--muted); font-size: 0.9rem; margin: 0; }
+    a { color: var(--accent); text-decoration: none; font-weight: 500; }
+    a:hover { text-decoration: underline; }
+    ul.docs { list-style: none; }
+    ul.docs li {
+      padding: 0.45rem 0; border-bottom: 1px solid var(--border);
+      font-size: 0.95rem;
+    }
+    ul.docs li:last-child { border-bottom: none; }
+    .why { color: var(--muted); font-size: 0.88rem; }
+    .note { color: var(--muted); font-size: 0.9rem; margin-top: 1.5rem; }
+    footer {
+      padding: 2rem 0 3rem; border-top: 1px solid var(--border);
+      color: var(--muted); font-size: 0.85rem;
+    }
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo"><a href="/">Ground<span>Yield</span></a></div>
+      <nav class="nav" aria-label="Site">
+        <a href="/">Home</a>
+        <a href="/docs.html" aria-current="page">Docs</a>
+        <a href="/units.html">Registry (0)</a>
+        <a href="/day1.html">Day one</a>
+        <a href="/pt.html" hreflang="pt">Português</a>
+        <a href="/#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main>
+      <h1>Document library</h1>
+      <p class="lead">
+        Everything is public on GitHub. This page is the <strong>map</strong> —
+        start with 5 docs, then open only what you need. Full list on
+        <a href="https://github.com/groundyield/website">github.com/groundyield/website</a>.
+      </p>
+
+      <h2>Start here</h2>
+      <div class="card">
+        <h3><a href="https://github.com/groundyield/website/blob/main/PLAN.md">PLAN.md</a></h3>
+        <p>Master open plan — status, phases, risks, full doc map.</p>
+      </div>
+      <div class="card">
+        <h3><a href="https://github.com/groundyield/website/blob/main/WHO.md">WHO.md</a> · <a href="https://github.com/groundyield/website/blob/main/INTEGRITY.md">INTEGRITY.md</a></h3>
+        <p>Who is accountable · anti-fraud rules (ghost units, fake baselines).</p>
+      </div>
+      <div class="card">
+        <h3><a href="https://github.com/groundyield/website/blob/main/LESSONS_MZ.md">LESSONS_MZ.md</a> · <a href="https://github.com/groundyield/website/blob/main/VALUE_AND_MONEY.md">VALUE_AND_MONEY.md</a></h3>
+        <p>Prior failure scars · why a community would work with us.</p>
+      </div>
+      <div class="card">
+        <h3><a href="https://github.com/groundyield/website/blob/main/NEXT.md">NEXT.md</a> · <a href="/units.html">units.html</a></h3>
+        <p>What to do this week · live unit count (0).</p>
+      </div>
+
+      <h2>Farm package &amp; data</h2>
+      <ul class="docs">
+        <li><a href="https://github.com/groundyield/website/blob/main/UNIT.md">UNIT.md</a> <span class="why">— BOM + cost bands</span></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/IRRIGATION.md">IRRIGATION.md</a> · <a href="https://github.com/groundyield/website/blob/main/ECONOMICS.md">ECONOMICS.md</a> · <a href="https://github.com/groundyield/website/blob/main/SEASON.md">SEASON.md</a></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/KPI_AND_DATA.md">KPI_AND_DATA.md</a> <span class="why">— what to measure, how accurate</span></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/DATA.md">DATA.md</a> · <a href="https://github.com/groundyield/website/blob/main/SOURCES.md">SOURCES.md</a> · <a href="https://github.com/groundyield/website/blob/main/CHARTER.md">CHARTER.md</a></li>
+      </ul>
+
+      <h2>Risk, theft, failures</h2>
+      <ul class="docs">
+        <li><a href="https://github.com/groundyield/website/blob/main/RISK_AND_GAPS.md">RISK_AND_GAPS.md</a> <span class="why">— full register + mitigations</span></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/WHY_OTHERS_FAILED.md">WHY_OTHERS_FAILED.md</a> · <a href="https://github.com/groundyield/website/blob/main/SECURITY_THEFT.md">SECURITY_THEFT.md</a></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/SAFETY.md">SAFETY.md</a> · <a href="https://github.com/groundyield/website/blob/main/CONSENT.md">CONSENT.md</a></li>
+      </ul>
+
+      <h2>AI, connectivity, future remote</h2>
+      <ul class="docs">
+        <li><a href="https://github.com/groundyield/website/blob/main/SYSTEM.md">SYSTEM.md</a> <span class="why">— layers: farm · Starlink · AI · truth</span></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/AI_FIELD_PATH.md">AI_FIELD_PATH.md</a> <span class="why">— demos now · experts · phone later</span></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/AI_AGRONOMY.md">AI_AGRONOMY.md</a> · <a href="https://github.com/groundyield/website/blob/main/ADVICE_SCRIPTS.md">ADVICE_SCRIPTS.md</a></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/EXISTING_TOOLS.md">EXISTING_TOOLS.md</a> <span class="why">— reuse weather apps</span></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/field/STARLINK_APPROACH.md">STARLINK_APPROACH.md</a> · <a href="https://github.com/groundyield/website/blob/main/REMOTE_OPS.md">REMOTE_OPS.md</a> <span class="why">— sensors later</span></li>
+      </ul>
+
+      <h2>Field pack (offline)</h2>
+      <ul class="docs">
+        <li><a href="/field/GroundYield_Field_OnePager_EN_PT.pdf">Field one-pager (PDF)</a> · <a href="/field/GroundYield_Field_Forms_EN_PT.pdf">Field forms (PDF)</a></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/field/FIELD_KIT.md">FIELD_KIT.md</a> — full index</li>
+        <li><a href="https://github.com/groundyield/website/blob/main/GROUND_TRIP.md">GROUND_TRIP.md</a> · <a href="https://github.com/groundyield/website/blob/main/field/GATES.md">GATES.md</a> (G0–G6)</li>
+        <li><a href="https://github.com/groundyield/website/blob/main/field/LOCAL_CONTACTS.md">LOCAL_CONTACTS.md</a> · <a href="https://github.com/groundyield/website/blob/main/SUPPLIERS.md">SUPPLIERS.md</a></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/TRIP_BUDGET.md">TRIP_BUDGET.md</a> · <a href="https://github.com/groundyield/website/blob/main/UNIT_AGREEMENT_DRAFT.md">UNIT_AGREEMENT_DRAFT.md</a></li>
+      </ul>
+
+      <h2>Community &amp; outreach</h2>
+      <ul class="docs">
+        <li><a href="https://github.com/groundyield/website/blob/main/PARTNERSHIPS.md">PARTNERSHIPS.md</a> · <a href="https://github.com/groundyield/website/blob/main/VALUE_AND_MONEY.md">VALUE_AND_MONEY.md</a></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/TRACTION.md">TRACTION.md</a> · <a href="https://github.com/groundyield/website/blob/main/OUTREACH.md">OUTREACH.md</a></li>
+        <li><a href="/day1.html">day1.html</a> · <a href="https://github.com/groundyield/website/blob/main/X_THREAD_DAY1.md">X_THREAD_DAY1.md</a></li>
+        <li><a href="/pt.html">pt.html</a> · <a href="https://github.com/groundyield/website/blob/main/PT.md">PT.md</a></li>
+      </ul>
+
+      <h2>Ops &amp; changelog</h2>
+      <ul class="docs">
+        <li><a href="https://github.com/groundyield/website/blob/main/UPDATES.md">UPDATES.md</a> · <a href="/updates.rss">updates.rss</a></li>
+        <li><a href="https://github.com/groundyield/website/blob/main/DEPLOY.md">DEPLOY.md</a> · <a href="https://github.com/groundyield/website/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a></li>
+      </ul>
+
+      <p class="note">
+        Deep operator drafts (X copy, packing lists, email templates) live in the repo under
+        <code>field/</code> and <code>X_*.md</code> — linked from FIELD_KIT and NEXT, not the homepage.
+      </p>
+    </main>
+
+    <footer>
+      <p><a href="/">← Home</a> · GroundYield · <a href="mailto:team@groundyield.org">team@groundyield.org</a></p>
+    </footer>
+  </div>
+</body>
+</html>

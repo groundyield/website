@@ -282,6 +282,61 @@
       color: var(--accent);
       text-decoration: underline;
     }
+
+    .site-nav {
+      display: flex; flex-wrap: wrap; gap: 0.55rem 1rem;
+      margin-top: 1rem; font-size: 0.88rem;
+    }
+    .site-nav a {
+      color: var(--muted); text-decoration: none; font-weight: 500;
+    }
+    .site-nav a:hover { color: var(--accent); text-decoration: none; }
+    .path-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.75rem;
+      margin: 1rem 0 0;
+    }
+    @media (max-width: 560px) {
+      .path-grid { grid-template-columns: 1fr; }
+    }
+    .path-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.1rem;
+      display: block;
+      text-decoration: none !important;
+      color: inherit;
+      font-weight: 400;
+    }
+    .path-card:hover {
+      border-color: var(--accent);
+      text-decoration: none !important;
+    }
+    .path-card strong {
+      display: block;
+      color: var(--accent);
+      margin-bottom: 0.25rem;
+      font-size: 0.95rem;
+    }
+    .path-card span {
+      color: var(--muted);
+      font-size: 0.85rem;
+      line-height: 1.45;
+    }
+    .status-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.1rem 1.25rem;
+      margin-bottom: 2rem;
+      font-size: 0.95rem;
+    }
+    .status-card p { margin-bottom: 0.5rem; }
+    .status-card p:last-child { margin-bottom: 0; }
+    .compact-list li { margin-bottom: 0.4rem; }
+
     @media (max-width: 600px) {
       h1 { font-size: 1.75rem; }
       .lead { font-size: 1.05rem; }
@@ -295,324 +350,234 @@
     <header>
       <div class="logo" role="banner">Ground<span>Yield</span></div>
       <p class="tagline">Open modular farm pilot · Vilanculos, Mozambique</p>
-      <p class="lang-bar"><a href="/pt.html" hreflang="pt">Português</a></p>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="#start">Start</a>
+        <a href="/docs.html">Docs</a>
+        <a href="/units.html">Registry (0)</a>
+        <a href="/day1.html">Day one</a>
+        <a href="/pt.html" hreflang="pt">Português</a>
+        <a href="#contact">Contact</a>
+      </nav>
     </header>
 
     <main id="main">
-      <div class="status" role="status">Foundation phase · Ground window ~next 2 weeks · Zero units · Zero baselines</div>
+      <div class="status" role="status">Foundation · Ground window open · Zero units · Zero baselines</div>
 
       <h1>Raising real yields<br>on the ground.</h1>
       <p class="lead">
-        Transparent modular high-productivity farming for smallholders.
-        Solar irrigation, improved inputs, phone agronomy, livestock modules —
-        measured and published openly <strong>when they exist</strong>.
-      </p>
-      <p class="note" style="margin-bottom:2rem;max-width:36rem">
-        <strong>Honest status (27 Jul 2026):</strong> public docs and offline field kit are live.
-        <strong>Provisional ground window: next ~2 weeks</strong> — return to people who already know Jacques (Rumbacaca / Vilanculos area).
-        Operator previously lost a large commercial farming bet here (~ZAR 10m disclosed order) and is <strong>not</strong> relaunching a silent empire.
-        Still: no GroundYield units, no new baselines measured yet. Season 1 figures are <strong>design targets</strong>, not results.
-        <a href="https://github.com/groundyield/website/blob/main/GROUND_TRIP.md">GROUND_TRIP.md</a> ·
-        <a href="https://github.com/groundyield/website/blob/main/X_FIELD_2WEEKS.md">X field posts</a> ·
-        <a href="/day1.html">Day-one essay</a> ·
-        <a href="/units.html">Registry (0)</a>
+        Modular farm units for smallholders — solar water, better inputs, honest data.
+        Public costs and failures. <strong>Nothing installed yet.</strong>
       </p>
 
+      <div class="status-card">
+        <p><strong>Honest status (27 Jul 2026)</strong></p>
+        <p class="note">
+          Docs + offline field kit are live. Next ~2 weeks: return to
+          <strong>Rumbacaca</strong> / Vilanculos. Operator lost a prior large commercial bet here
+          (~ZAR 10m order) — this pilot is small, open, and measured. Season 1 numbers are
+          <strong>design targets</strong>, not results.
+        </p>
+        <p class="note">
+          <a href="https://github.com/groundyield/website/blob/main/GROUND_TRIP.md">Trip log</a> ·
+          <a href="/units.html">Registry (0)</a> ·
+          <a href="/day1.html">Day-one essay</a> ·
+          <a href="https://github.com/groundyield/website/blob/main/NEXT.md">What to do now</a>
+        </p>
+      </div>
+
+      <section id="start" aria-labelledby="start-title">
+        <h2 id="start-title">Start here</h2>
+        <p class="note">Five paths — not forty links. Full library on <a href="/docs.html">docs.html</a>.</p>
+        <div class="path-grid">
+          <a class="path-card" href="https://github.com/groundyield/website/blob/main/PLAN.md">
+            <strong>Master plan</strong>
+            <span>PLAN.md — phases, risks, how the pilot works</span>
+          </a>
+          <a class="path-card" href="https://github.com/groundyield/website/blob/main/WHO.md">
+            <strong>Who &amp; integrity</strong>
+            <span>Jacques Theron · INTEGRITY.md · no ghost units</span>
+          </a>
+          <a class="path-card" href="https://github.com/groundyield/website/blob/main/UNIT.md">
+            <strong>Unit package</strong>
+            <span>UNIT.md · SEASON.md · ~$1.3–3k planning band</span>
+          </a>
+          <a class="path-card" href="https://github.com/groundyield/website/blob/main/VALUE_AND_MONEY.md">
+            <strong>Community deal</strong>
+            <span>What’s in it for households · capital protection</span>
+          </a>
+          <a class="path-card" href="https://github.com/groundyield/website/blob/main/RISK_AND_GAPS.md">
+            <strong>Risks &amp; theft</strong>
+            <span>RISK_AND_GAPS · SECURITY_THEFT · why others failed</span>
+          </a>
+          <a class="path-card" href="/docs.html">
+            <strong>All documents →</strong>
+            <span>Grouped library · field PDFs · AI · remote path</span>
+          </a>
+        </div>
+      </section>
+
       <section aria-labelledby="problem">
-        <h2 id="problem">The Problem</h2>
+        <h2 id="problem">Problem &amp; approach</h2>
         <p>
-          Smallholder maize yields in Mozambique are commonly reported around
-          <strong>0.4–1.3 t/ha</strong> (often near <strong>~1 t/ha</strong> nationally) —
-          well below regional peers and far below what improved seed, water, and
-          basic fertility can deliver.
-          <span class="note">Sources: <a href="https://www.fao.org/fileadmin/templates/tc/tce/pdf/Mozambique_factsheet.pdf">FAO factsheet</a>;
-          <a href="https://github.com/groundyield/website/blob/main/SOURCES.md">SOURCES.md</a>.</span>
-          The gap is not primarily knowledge or effort; it is reliable water, improved
-          inputs, basic storage, and timely advice. Most interventions remain opaque
-          and non-replicable. Our impact claims will use <strong>local baselines</strong>,
-          not national averages alone.
+          Smallholder maize in Mozambique is often ~0.4–1.3 t/ha (near ~1 t/ha nationally) —
+          below what water, seed, and fertility can deliver.
+          <span class="note">Sources: <a href="https://github.com/groundyield/website/blob/main/SOURCES.md">SOURCES.md</a>.</span>
+          Most projects are opaque. Large commercial bets also fail (logistics, cost, land, theft).
+        </p>
+        <p>
+          <strong>Our bet:</strong> small modular units, local baselines before any % claim,
+          public failures. Optional AI and Starlink support the farm — they are not the product.
         </p>
       </section>
 
-      <section aria-labelledby="approach">
-        <h2 id="approach">The Approach</h2>
-        <p>
-          Deploy standardized modular farm units that close the yield gap with
-          measurable results. Every cost, yield, income figure, and failure is
-          published. The model is designed to be copied.
+      <section aria-labelledby="package">
+        <h2 id="package">Core package</h2>
+        <ul class="compact-list">
+          <li>Solar-powered irrigation</li>
+          <li>Improved seed + micro-dose fertilizer</li>
+          <li>Phone agronomy (demos open; live rates after review)</li>
+          <li>Hermetic storage · optional poultry/goats</li>
+        </ul>
+        <p class="note">
+          BOM &amp; costs: <a href="https://github.com/groundyield/website/blob/main/UNIT.md">UNIT.md</a>
+          · Calendar: <a href="https://github.com/groundyield/website/blob/main/SEASON.md">SEASON.md</a>
+          · Economics (illustrative): <a href="https://github.com/groundyield/website/blob/main/ECONOMICS.md">ECONOMICS.md</a>
         </p>
       </section>
 
       <section aria-labelledby="charter">
-        <h2 id="charter">Public Charter</h2>
+        <h2 id="charter">Charter (short)</h2>
         <div class="card">
-          <ul>
-            <li><strong>Process (binding):</strong> publish costs, yields, failures; integrity over optics; baseline before impact claims</li>
-            <li><strong>Design aim (not measured):</strong> on the order of 30–60 units in Vilanculos <em>if</em> land, water, partners, and capital allow</li>
-            <li><strong>Design aim (hypothesis):</strong> large staple yield gains vs <em>local</em> baseline — test, don’t assume</li>
-            <li><strong>Design aim:</strong> income via cash crops / poultry where markets actually work</li>
-            <li>Open, replicable model anyone can copy</li>
+          <ul class="compact-list">
+            <li><strong>Binding:</strong> publish costs, yields, failures; baseline before impact %</li>
+            <li><strong>Aim (not measured):</strong> ~30–60 units if land/water/capital allow</li>
+            <li><strong>Aim (hypothesis):</strong> large yield gains vs <em>local</em> baseline</li>
+            <li>Open model others can copy or reject with eyes open</li>
           </ul>
-          <p class="note" style="margin-top:1rem">
-            Full anti-fraud policy:
+          <p class="note" style="margin-top:0.75rem">
+            <a href="https://github.com/groundyield/website/blob/main/CHARTER.md">CHARTER.md</a> ·
             <a href="https://github.com/groundyield/website/blob/main/INTEGRITY.md">INTEGRITY.md</a>
-            · Challenge a number:
-            <a href="https://github.com/groundyield/website/issues">open an issue</a>
-            or <a href="mailto:team@groundyield.org">team@groundyield.org</a>
           </p>
         </div>
       </section>
 
       <section aria-labelledby="integrity">
-        <h2 id="integrity">Fighting fraud from day one</h2>
+        <h2 id="integrity">Fighting fraud</h2>
         <p>
-          Development projects lose trust in predictable ways: units that exist only on paper,
-          baselines invented after harvest, pretty photos from somewhere else, and numbers that
-          quietly change. GroundYield treats that as a <strong>design problem</strong>, not a PR problem.
+          Named human for every number. No % win without baseline. Truth marks F/E/H.
+          Failures stay public. Unit registry before “N units” —
+          live count: <a href="/units.html">units.html</a> (0).
         </p>
-        <div class="card">
-          <ul>
-            <li><strong>Named human</strong> accountable for every published figure (Jacques Theron)</li>
-            <li><strong>Baseline before impact</strong> — no % win without a dated local baseline</li>
-            <li><strong>Truth marks</strong> F / E / H (fact · estimate · hearsay) in the field</li>
-            <li><strong>Failures stay public</strong> — dead ends are logged, not deleted</li>
-            <li><strong>No silent rewrites</strong> — corrections are dated in UPDATES.md</li>
-            <li><strong>Headline claims need dual evidence</strong> (weigh / photo set / witness / receipt)</li>
-            <li><strong>Unit registry</strong> before “N units deployed” — live count: <a href="/units.html">units.html</a> (0)</li>
-            <li><strong>We never ask households for a join-up fee</strong> via random agents — impostors go to team@groundyield.org</li>
-          </ul>
-          <p class="note" style="margin-top:1rem">
-            Full threat model and controls:
-            <a href="https://github.com/groundyield/website/blob/main/INTEGRITY.md">INTEGRITY.md</a>.
-            Money rules and conflicts:
-            <a href="https://github.com/groundyield/website/blob/main/WHO.md">WHO.md</a>.
-          </p>
-        </div>
+        <p class="note">
+          Full policy: <a href="https://github.com/groundyield/website/blob/main/INTEGRITY.md">INTEGRITY.md</a>.
+          Challenge a number: <a href="https://github.com/groundyield/website/issues">GitHub issue</a>
+          or <a href="mailto:team@groundyield.org">team@groundyield.org</a>.
+        </p>
       </section>
 
-      <section aria-labelledby="package">
-        <h2 id="package">Core Package</h2>
-        <ul>
-          <li>Solar-powered irrigation</li>
-          <li>Improved / hybrid seeds + micro-dosing fertilizer</li>
-          <li>Phone-based AI agronomy advice</li>
-          <li>Hermetic storage to cut post-harvest loss</li>
-          <li>Optional poultry & goat modules</li>
-        </ul>
-        <p style="margin-top:1rem;color:var(--muted);font-size:0.95rem;">
-          Full bill of materials and cost bands: <a href="https://github.com/groundyield/website/blob/main/UNIT.md">UNIT.md</a>
-          (~$1,270–$2,985 per first modular unit, planning ranges).
-        </p>
+      <section aria-labelledby="who">
+        <h2 id="who">Who</h2>
+        <div class="card">
+          <p>
+            <strong>Jacques Theron</strong> — founder / operator. Self-funded. No legal entity yet.
+            Day job: HSE, Anabeeb, KSA. Pilot return: <strong>Rumbacaca</strong>.
+          </p>
+          <p class="note">
+            Prior Vilanculos-scale farming failed/left (~ZAR 10m operator-disclosed).
+            Not claiming those hectares today.
+            <a href="https://github.com/groundyield/website/blob/main/LESSONS_MZ.md">LESSONS_MZ.md</a> ·
+            <a href="https://github.com/groundyield/website/blob/main/WHO.md">WHO.md</a>
+          </p>
+        </div>
       </section>
 
       <section aria-labelledby="roadmap">
         <h2 id="roadmap">Roadmap</h2>
         <div class="card">
-          <div class="phase"><strong>Phase 0 — Foundation (now)</strong><br>Open plan, integrity, field kit, ground window (Rumbacaca return). Quotes + baseline starts. Registry = 0.</div>
-          <div class="phase"><strong>Phase 1 — First Units</strong><br>Legitimate land access, few modular units on the public registry, real costs logged</div>
-          <div class="phase"><strong>Phase 2 — Season 1 Proof</strong><br>Full public yields/costs/failures; scale only with real rows (design aim ~30–60 if earned)</div>
-          <div class="phase"><strong>Phase 3 — Replication</strong><br>Open playbook others can run without us</div>
+          <div class="phase"><strong>0 — Foundation (now)</strong> · paper, trip, quotes · registry 0</div>
+          <div class="phase"><strong>1 — First units</strong> · few modular installs on registry</div>
+          <div class="phase"><strong>2 — Season proof</strong> · public yields/costs/failures</div>
+          <div class="phase"><strong>3 — Replication</strong> · playbook others can run</div>
         </div>
-        <p class="note" style="margin-top:1rem">Master plan: <a href="https://github.com/groundyield/website/blob/main/PLAN.md">PLAN.md</a> · Gates: <a href="https://github.com/groundyield/website/blob/main/field/GATES.md">G0–G6</a></p>
-      </section>
-
-      <section aria-labelledby="location">
-        <h2 id="location">Location</h2>
-        <p>
-          <strong>Vilanculos</strong>, Inhambane Province, Mozambique.<br>
-          Southern coast — relatively stable, existing smallholder systems,
-          tourism market for fresh produce.
+        <p class="note" style="margin-top:0.75rem">
+          <a href="https://github.com/groundyield/website/blob/main/PLAN.md">PLAN.md</a> ·
+          Gates <a href="https://github.com/groundyield/website/blob/main/field/GATES.md">G0–G6</a>
         </p>
       </section>
 
-      <section aria-labelledby="who">
-        <h2 id="who">Who Is Behind This</h2>
-        <div class="card">
-          <p>
-            <strong>Jacques Theron</strong> — founder / operator.<br>
-            <span class="note">Pilot focus: Vilanculos area, Mozambique (return to Rumbacaca community).</span>
-          </p>
-          <p class="note">
-            Not a blank CV: Jacques previously farmed at scale in this area (own operation ~3,500&nbsp;ha;
-            larger partnership-era livestock/delivery work with Toro Ranch), then
-            <strong>left after COVID-era cost pressure and bad choices</strong>, with operator-disclosed losses
-            on the order of <strong>~ZAR&nbsp;10&nbsp;million</strong>. He does <strong>not</strong> claim those
-            hectares or businesses today. GroundYield is the opposite bet: small modular units, open costs, no silent failure.
-            Full story: <a href="https://github.com/groundyield/website/blob/main/LESSONS_MZ.md">LESSONS_MZ.md</a>.
-          </p>
-          <p class="note">
-            GroundYield is <strong>self-funded</strong>. There is
-            <strong>no registered legal entity</strong> yet. Day job: HSE (shutdowns), Anabeeb, KSA.
-            Funding, conflicts, partners:
-            <a href="https://github.com/groundyield/website/blob/main/WHO.md">WHO.md</a>.
-            Corrections: <a href="mailto:team@groundyield.org">team@groundyield.org</a>.
-          </p>
-        </div>
-      </section>
-
-      <section aria-labelledby="commitment">
-        <h2 id="commitment">Open Commitment</h2>
-        <p>
-          Everything is public from day one: design, budget structure,
-          community agreements, yield data, costs, and lessons (including failures).
-          No private reports. The goal is a model that others can trust and replicate.
+      <section aria-labelledby="field">
+        <h2 id="field">Field kit</h2>
+        <p class="note">
+          <a href="/field/GroundYield_Field_OnePager_EN_PT.pdf">Field one-pager</a> ·
+          <a href="/field/GroundYield_Field_Forms_EN_PT.pdf">Field forms</a> ·
+          <a href="https://github.com/groundyield/website/blob/main/field/FIELD_KIT.md">FIELD_KIT</a> ·
+          <a href="https://github.com/groundyield/website/blob/main/GROUND_TRIP.md">GROUND_TRIP</a>
         </p>
       </section>
 
       <section aria-labelledby="docs">
-        <h2 id="docs">Public Documents</h2>
-        <ul class="docs">
-          <li><a href="https://github.com/groundyield/website/blob/main/PLAN.md">PLAN.md</a> — <strong>Master open plan</strong></li>
-          <li><a href="https://github.com/groundyield/website/blob/main/VALUE_AND_MONEY.md">VALUE_AND_MONEY.md</a> — Community deal + how money helps more villages</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/SYSTEM.md">SYSTEM.md</a> — What we do + Starlink + AI</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/field/STARLINK_APPROACH.md">STARLINK_APPROACH.md</a> — Rural schools connectivity path</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/AI_FIELD_PATH.md">AI_FIELD_PATH.md</a> — AI unfreeze, expert panel, phone/Starlink path</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/EXISTING_TOOLS.md">EXISTING_TOOLS.md</a> — Reuse weather/planting apps (don’t rebuild)</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/KPI_AND_DATA.md">KPI_AND_DATA.md</a> — KPIs, collection methods, accuracy</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/REMOTE_OPS.md">REMOTE_OPS.md</a> — Future remote sensors, cameras, solenoids</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/AI_AGRONOMY.md">AI_AGRONOMY.md</a> — Phone/AI advice design (L2 gated)</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/CHARTER.md">CHARTER.md</a> — Binding public commitments</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/UNIT.md">UNIT.md</a> — Modular Unit v0 (BOM + cost model)</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/ECONOMICS.md">ECONOMICS.md</a> — Unit economics (illustrative)</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/SEASON.md">SEASON.md</a> — Crop &amp; season calendar</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/AI_AGRONOMY.md">AI_AGRONOMY.md</a> — Phone/AI advice design</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/PARTNERSHIPS.md">PARTNERSHIPS.md</a> — Community &amp; land principles</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/IRRIGATION.md">IRRIGATION.md</a> — Per-unit kit vs shared headworks</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/WHO.md">WHO.md</a> — Accountability, funding, conflicts</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/LESSONS_MZ.md">LESSONS_MZ.md</a> — Prior MZ farming failure &amp; why this pilot is different</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/WHY_OTHERS_FAILED.md">WHY_OTHERS_FAILED.md</a> — Why so many tried before &amp; how they failed</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/SECURITY_THEFT.md">SECURITY_THEFT.md</a> — Crime, theft &amp; asset control</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/RISK_AND_GAPS.md">RISK_AND_GAPS.md</a> — Full risk assessment, gap analysis &amp; mitigations</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/INTEGRITY.md">INTEGRITY.md</a> — <strong>Anti-fraud &amp; integrity</strong> (top policy)</li>
-          <li><a href="/pt.html">pt.html</a> — Página em português</li>
-          <li><a href="/units.html">units.html</a> — <strong>Public unit registry (count = 0)</strong></li>
-          <li><a href="/day1.html">day1.html</a> — Day-one honesty essay (shareable)</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/NEXT.md">NEXT.md</a> — Operator board (what to do now)</li>
-          <li><a href="/field/GroundYield_Field_OnePager_EN_PT.pdf">Field one-pager (PDF)</a> — Offline EN+PT handout</li>
-          <li><a href="/field/GroundYield_Field_Forms_EN_PT.pdf">Field forms (PDF)</a> — Consent, interviews, baseline blanks</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/field/FIELD_KIT.md">FIELD_KIT.md</a> — Full offline pack index</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/field/LOCAL_CONTACTS.md">LOCAL_CONTACTS.md</a> — Local businesses to contact (desk list)</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/field/OUTREACH_EMAIL.md">OUTREACH_EMAIL.md</a> — Intro emails (not agronomy)</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/field/GATES.md">GATES.md</a> — Field advance gates G0–G6</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/TRACTION.md">TRACTION.md</a> — Anti-hype promotion rules</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/OUTREACH.md">OUTREACH.md</a> — Honesty-first outreach + launch gate</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/X_THREAD_DAY1.md">X_THREAD_DAY1.md</a> — Ready launch thread</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/BLOG_DAY1.md">BLOG_DAY1.md</a> — Day-one long-form</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/TRIP_BUDGET.md">TRIP_BUDGET.md</a> — Travel ops envelope</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/SAFETY.md">SAFETY.md</a> — Contingency &amp; stop rules</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/UNIT_AGREEMENT_DRAFT.md">UNIT_AGREEMENT_DRAFT.md</a> — Partnership outline (draft)</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/SUPPLIERS.md">SUPPLIERS.md</a> — Quote log template</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/ADVICE_SCRIPTS.md">ADVICE_SCRIPTS.md</a> — WhatsApp/SMS scripts (PT)</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/CONSENT.md">CONSENT.md</a> — Privacy &amp; consent</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> — How to help</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/DATA.md">DATA.md</a> — What we measure</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/SOURCES.md">SOURCES.md</a> — Citations for public claims</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/UPDATES.md">UPDATES.md</a> — Changelog (source of truth)</li>
-          <li><a href="/updates.rss">updates.rss</a> — Same log as RSS</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/GROUND_TRIP.md">GROUND_TRIP.md</a> — Field trip checklist</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/DEPLOY.md">DEPLOY.md</a> — Production = full main only</li>
-        </ul>
+        <h2 id="docs">Documents</h2>
+        <p>
+          Full grouped library (farm, risk, AI, field, ops):
+          <a href="/docs.html"><strong>docs.html</strong></a>
+        </p>
+        <p class="note">
+          Or browse the repo:
+          <a href="https://github.com/groundyield/website">github.com/groundyield/website</a>
+        </p>
       </section>
 
       <section class="contact" aria-labelledby="contact">
         <h2 id="contact">Contact</h2>
         <div class="card">
           <dl>
-            <dt>General, partnership, press</dt>
-            <dd><a href="mailto:team@groundyield.org">team@groundyield.org</a></dd>
-            <dt>Community members and suppliers in Vilanculos</dt>
+            <dt>Email</dt>
             <dd><a href="mailto:team@groundyield.org">team@groundyield.org</a> — Portuguese welcome</dd>
-            <dt>Corrections, data requests, contributions</dt>
-            <dd><a href="https://github.com/groundyield/website/issues">Open a public issue</a> · <a href="https://github.com/groundyield/website/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a></dd>
             <dt>X</dt>
             <dd><a href="https://x.com/GroundYield" rel="me noopener noreferrer">@GroundYield</a></dd>
+            <dt>Corrections &amp; challenges</dt>
+            <dd><a href="https://github.com/groundyield/website/issues">Public issue</a></dd>
           </dl>
-          <p class="note" style="margin-top:1.25rem">We aim to reply within 5 working days. Confirm this inbox receives mail before relying on it for time-critical contact.</p>
         </div>
       </section>
 
       <section aria-labelledby="updates">
-        <h2 id="updates">Updates</h2>
-        <p class="note" style="margin-bottom:1rem">Full log: <a href="https://github.com/groundyield/website/blob/main/UPDATES.md">UPDATES.md</a> · Feed: <a href="/updates.rss">updates.rss</a></p>
+        <h2 id="updates">Latest updates</h2>
+        <p class="note" style="margin-bottom:1rem">
+          Full log: <a href="https://github.com/groundyield/website/blob/main/UPDATES.md">UPDATES.md</a>
+          · <a href="/updates.rss">updates.rss</a>
+        </p>
         <article class="update">
           <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Community deal + money:</strong> <a href="https://github.com/groundyield/website/blob/main/VALUE_AND_MONEY.md">VALUE_AND_MONEY.md</a> — why Rumbacaca would work with us, kit ownership models, what protects capital, how next communities get funded (surplus, open copy, fair recovery, named grants).</p>
+          <p><strong>Site UX cleanup:</strong> homepage simplified; document library at <a href="/docs.html">docs.html</a>.</p>
         </article>
         <article class="update">
           <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Master plan refreshed:</strong> <a href="https://github.com/groundyield/website/blob/main/PLAN.md">PLAN.md</a> is the single open plan (phases, risks, doc map, Rumbacaca return, Starlink/AI roles).</p>
+          <p><strong>Remote ops path:</strong> future sensors/cameras/solenoids — <a href="https://github.com/groundyield/website/blob/main/REMOTE_OPS.md">REMOTE_OPS.md</a>.</p>
         </article>
         <article class="update">
           <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Scars, not a blank CV:</strong> operator discloses prior Vilanculos-scale farming failure and ~ZAR&nbsp;10m loss; returning to Rumbacaca. Not claiming those hectares today. <a href="https://github.com/groundyield/website/blob/main/LESSONS_MZ.md">LESSONS_MZ.md</a>.</p>
+          <p><strong>KPIs + existing apps:</strong> <a href="https://github.com/groundyield/website/blob/main/KPI_AND_DATA.md">KPI_AND_DATA.md</a> · <a href="https://github.com/groundyield/website/blob/main/EXISTING_TOOLS.md">EXISTING_TOOLS.md</a>.</p>
         </article>
         <article class="update">
           <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>System map:</strong> <a href="https://github.com/groundyield/website/blob/main/SYSTEM.md">SYSTEM.md</a> — physical units, Starlink (school hubs first), AI (ops now / farmer advice after review). Neither tech replaces land, water, or baselines.</p>
+          <p><strong>AI staged unfreeze:</strong> L1 demos open; rates gated — <a href="https://github.com/groundyield/website/blob/main/AI_FIELD_PATH.md">AI_FIELD_PATH.md</a>.</p>
         </article>
         <article class="update">
           <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Ground window:</strong> operator on the corridor in the <strong>next ~2 weeks</strong> (provisional ~27 Jul – 10 Aug 2026). Daily X field-note templates in <a href="https://github.com/groundyield/website/blob/main/X_FIELD_2WEEKS.md">X_FIELD_2WEEKS.md</a>. Still zero units / baselines until measured.</p>
-        </article>
-        <article class="update">
-          <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Big wins board:</strong> ranked sprint in <a href="https://github.com/groundyield/website/blob/main/NEXT.md">NEXT.md</a> — post thread, quote requests, field notes. G0 done; G1/G2 need outbound + trip.</p>
-        </article>
-        <article class="update">
-          <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Next board + day1 page:</strong> shareable <a href="/day1.html">day1.html</a>, PT launch blurb, contact log. Paper done — field/outreach is the bottleneck.</p>
-        </article>
-        <article class="update">
-          <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Ops rails:</strong> public <a href="/units.html">unit registry (0)</a>, GitHub CI on data/site files, <code>ship-check</code> script, outreach email templates, field gates G0–G6. Still no units on the ground.</p>
-        </article>
-        <article class="update">
-          <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Correction + restraint:</strong> early “shipped” claims briefly outran live HTTP 200s (fixed same day). Charter targets restated as <em>aspirational</em>. Agronomy rates to enrolled farmers still gated (G5-A); L1 choice demos open — <a href="https://github.com/groundyield/website/blob/main/AI_FIELD_PATH.md">AI_FIELD_PATH</a>. WHO: runway/stop scenario named as a gap. No field results yet — by design honesty.</p>
-        </article>
-        <article class="update">
-          <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Integrity first:</strong> public anti-fraud policy — ghost units, fake baselines, procurement, impostors, dual evidence for headlines. <a href="https://github.com/groundyield/website/blob/main/INTEGRITY.md">INTEGRITY.md</a>.</p>
-        </article>
-        <article class="update">
-          <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Trip ops layer:</strong> <a href="https://github.com/groundyield/website/blob/main/TRIP_BUDGET.md">budget envelope</a>, <a href="https://github.com/groundyield/website/blob/main/SAFETY.md">safety checklist</a>, packing list, daily log, buyer interview, and unit partnership draft. Dates still open.</p>
-        </article>
-        <article class="update">
-          <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Field kit ready:</strong> interview scripts, consent card, baseline form, quote CSV, WhatsApp pocket copy, and printable <a href="/field/GroundYield_Field_Forms_EN_PT.pdf">4-page forms PDF</a>. Index: <a href="https://github.com/groundyield/website/blob/main/field/FIELD_KIT.md">FIELD_KIT.md</a>.</p>
-        </article>
-        <article class="update">
-          <time datetime="2026-07-27">27 Jul 2026</time>
-          <p>Vercel production linked to <strong>groundyield/website</strong> <code>main</code> (full-tree deploys). OG image, icons, favicon, and field PDFs verified live.</p>
-        </article>
-        <article class="update">
-          <time datetime="2026-07-27">27 Jul 2026</time>
-          <p>Offline field handout: <a href="/field/GroundYield_Field_OnePager_EN_PT.pdf">EN+PT one-pager PDF</a> for first contact without signal — local baseline framing, planning costs, no ask for money today.</p>
-        </article>
-        <article class="update">
-          <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><a href="/pt.html">Portuguese page</a>, irrigation design, supplier quote template, WhatsApp advice scripts. Operator notification path confirmed.</p>
-        </article>
-        <article class="update">
-          <time datetime="2026-07-27">27 Jul 2026</time>
-          <p><strong>Jacques Theron</strong> named as founder / operator. Trust layer + UNIT cost band ~$1.3–3k. Public launch: Plan, Charter, Data. Trip planned: South Africa → Zimbabwe → Mozambique.</p>
+          <p><strong>Risks &amp; community deal:</strong> <a href="https://github.com/groundyield/website/blob/main/RISK_AND_GAPS.md">RISK_AND_GAPS.md</a> · <a href="https://github.com/groundyield/website/blob/main/VALUE_AND_MONEY.md">VALUE_AND_MONEY.md</a>.</p>
         </article>
       </section>
 
       <div class="cta">
-        <p>
-          This is the public home of the pilot.<br>
-          Follow progress · <a href="https://github.com/groundyield/website/blob/main/CONTRIBUTING.md">Contribute</a> · Replicate later.
-        </p>
+        <p>Public home of the pilot · Zero units until the registry says otherwise.</p>
         <div class="links">
+          <a href="/docs.html">Docs →</a>
+          <a href="/units.html">Registry (0) →</a>
+          <a href="/pt.html" hreflang="pt">Português →</a>
           <a href="https://x.com/GroundYield" rel="me noopener noreferrer">X →</a>
           <a href="https://github.com/groundyield/website" rel="noopener noreferrer">GitHub →</a>
           <a href="mailto:team@groundyield.org">Email →</a>
-          <a href="https://github.com/groundyield/website/blob/main/UNIT.md" rel="noopener noreferrer">Unit Design →</a>
-          <a href="/pt.html" hreflang="pt">Português →</a>
-          <a href="/day1.html">Day one →</a>
-          <a href="/units.html">Registry (0) →</a>
         </div>
       </div>
     </main>

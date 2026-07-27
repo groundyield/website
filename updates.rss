@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 09:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Site UX cleanup — docs library, simpler home</title>
+      <link>https://www.groundyield.org/docs.html</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-site-ux</guid>
+      <pubDate>Tue, 28 Jul 2026 10:15:00 +0000</pubDate>
+      <description>Homepage simplified: primary nav, six start paths, short status, fewer update teasers. Full document list moved to docs.html by category. SITE_UX.md rules to keep landing usable while the repo stays deep.</description>
+    </item>
     <item>
       <title>Remote ops roadmap — sensors, cameras, control</title>
       <link>https://github.com/groundyield/website/blob/main/REMOTE_OPS.md</link>

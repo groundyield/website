@@ -9,6 +9,13 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Site UX cleanup (less messy)
+
+- **Problem:** homepage became a long flat dump (40+ doc links, many same-day updates) while building fast.
+- **Fix:** simplified **[index.html](index.html)** — nav, short status card, **6 start paths**, short sections, ~5 latest updates only.
+- **New [docs.html](docs.html)** — full library grouped (start / farm / risk / AI / field / ops).
+- **[SITE_UX.md](SITE_UX.md)** — rules so we don’t re-mess the landing page. PT + units nav tightened. sitemap + live-verify include docs.html.
+
 ## 27 Jul 2026 — Remote ops path (sensors, cameras, solenoids)
 
 - **[REMOTE_OPS.md](REMOTE_OPS.md)** — future design to track/verify units from afar (e.g. KSA): stages **R0 manual → R1 phone → R2 sensors → R3 camera → R4 solenoid control → R5 fleet**.
