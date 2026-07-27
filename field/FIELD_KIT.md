@@ -16,6 +16,7 @@
 | [OUTREACH_EMAIL.md](OUTREACH_EMAIL.md) | Markdown | Intro emails (not agronomy) |
 | [GATES.md](GATES.md) | Markdown | Advance gates G0–G6 |
 | [CONTACT_LOG.md](CONTACT_LOG.md) | Markdown | Outreach log (no private phones) |
+| [QUOTE_REQUESTS.md](QUOTE_REQUESTS.md) | Markdown | Ready-to-send supplier quote emails |
 | [../units.html](../units.html) | HTML | Public unit count (0 until real) |
 | [../SUPPLIERS.md](../SUPPLIERS.md) | Markdown | Quote tables (capital + operating) |
 | [../data/quotes-template.csv](../data/quotes-template.csv) | CSV | Machine-readable quote rows |

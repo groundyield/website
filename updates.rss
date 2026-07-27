@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 01:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 02:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Big-wins board: quote requests, trip scenarios, X follow-ups</title>
+      <link>https://github.com/groundyield/website/blob/main/NEXT.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-big-wins</guid>
+      <pubDate>Tue, 28 Jul 2026 02:15:00 +0000</pubDate>
+      <description>NEXT.md ranked wins + 7-day sprint. QUOTE_REQUESTS.md ready emails for G2. Trip scenarios A/B/C. X_FOLLOWUPS after Day-1 thread. Desk ready; human outbound is the bottleneck.</description>
+    </item>
     <item>
       <title>Asset re-verify, one-pager PDF fix, supplier desk leads</title>
       <link>https://github.com/groundyield/website/blob/main/SUPPLIERS.md</link>

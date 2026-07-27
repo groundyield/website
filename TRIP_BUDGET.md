@@ -23,7 +23,7 @@ Mark each line **F** (fixed quote) · **E** (estimate) · **H** (hearsay).
 
 | Category | Plan low | Plan mid | Plan high | Currency | Truth | Notes |
 |----------|----------|----------|-----------|----------|-------|-------|
-| Transport (flights / bus / fuel / border) | | | | | E | |
+| Transport (flights / bus / fuel / border) | | | | USD eq. | E | |
 | Lodging | | | | | E | |
 | Food & local transit | | | | | E | |
 | Communications (SIM, data, power bank) | | | | | E | |
@@ -33,6 +33,14 @@ Mark each line **F** (fixed quote) · **E** (estimate) · **H** (hearsay).
 | **Travel ops subtotal** | | | | | | |
 | Sample inputs for demos (if any) | | | | | E | Not full unit kits |
 | **Trip envelope total** | | | | | | |
+
+### How to fill without inventing authority
+
+1. Pick scenario A/B/C in [GROUND_TRIP.md](GROUND_TRIP.md).  
+2. Get **one real transport quote** (airline/bus) → mark that cell **F**.  
+3. Lodging: 2–3 night checks in Vilanculos → **E** until booked.  
+4. Contingency: 15% of subtotal is a reasonable **E** default until you prefer another.  
+5. Publish mid total as “planning ceiling,” not a fundraise target.
 
 **Self-funded by Jacques Theron** until stated otherwise ([WHO.md](WHO.md)).  
 This envelope is **not** a fundraise ask.

@@ -20,6 +20,22 @@ This document is public. It will be updated with dates, findings, and course cor
 
 When dates lock, replace *TBD* here and add a line under **Public log** the same day.
 
+### Decision helper (pick a scenario — don’t invent precision)
+
+| Scenario | Shape | Choose if… | Trade-off |
+|----------|--------|------------|-----------|
+| **A — Scout-first** | Short MZ focus (Vilanculos), light SA transit | Time-limited; want G1/G2 fast | Less ZW learning |
+| **B — Full corridor** | SA → ZW → MZ as planned | Want regional context + suppliers en route | Longer / costlier |
+| **C — Desk + remote first** | Delay travel; 2–4 weeks outbound email/calls | Inbox/quotes first | Slower ground truth |
+
+**Decision log (fill one line when chosen):**
+
+| Date | Scenario A/B/C | Provisional window | Notes |
+|------|----------------|--------------------|-------|
+| | | e.g. “2026-Q3 / month TBD” | |
+
+Provisional is better than silent. Refine dates; don’t fake exact days.
+
 ---
 
 ## Purpose
@@ -133,10 +149,19 @@ Master index: **[field/FIELD_KIT.md](field/FIELD_KIT.md)**
 
 ---
 
+## Public log
+
+_No field or outreach public entries yet._  
+When G1 starts, add dated one-liners here (role/org type OK; no private phones).
+
+| Date | Note (public-safe) | Gate |
+|------|--------------------|------|
+| | | |
+
 ## Notes Log
 
 _No field entries yet._
 
 ---
 
-Last updated: 27 July 2026 (trip ops: budget, safety, packing, agreements)
+Last updated: 27 July 2026 (trip scenarios A/B/C + public log table)

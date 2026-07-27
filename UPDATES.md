@@ -9,6 +9,15 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Big-wins board: quote-request pack, trip scenarios, X follow-ups
+
+- **[NEXT.md](NEXT.md)** rewritten as ranked big wins + 7-day sprint (human actions over more docs).
+- **[field/QUOTE_REQUESTS.md](field/QUOTE_REQUESTS.md)** — ready-to-send quote emails for irrigation/seed/storage leads (G2 path).
+- **[X_FOLLOWUPS.md](X_FOLLOWUPS.md)** — post-launch X posts (integrity, irrigation, stage, asks).
+- **[GROUND_TRIP.md](GROUND_TRIP.md)** — trip scenarios A/B/C decision helper + public log table.
+- **[TRIP_BUDGET.md](TRIP_BUDGET.md)** — how to fill envelope without inventing authority.
+- Production/share cards already green; next leverage is post + outbound.
+
 ## 27 Jul 2026 — Asset re-verify + PDF fix + supplier desk leads
 
 - **Assets re-checked with curl (not tool sandbox):** `/favicon.svg`, `/og-image.png`, `/apple-touch-icon.png`, `/icon-512.png` return HTTP 200, correct `Content-Type`, valid magic bytes, and **byte-match** repo files. The third “assets are 404” report appears to be a **false positive** from a fetch environment that mishandles binary bodies — not a production outage.
