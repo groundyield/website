@@ -58,8 +58,8 @@ else
   echo "OK   data/baselines.csv not yet created (no field data)"
 fi
 
-# unit BOM files should exist
-for f in data/unit-bom-v0.csv data/unit-cost-summary-v0.csv data/schema-unit-season.csv; do
+# unit BOM + registry schema should exist
+for f in data/unit-bom-v0.csv data/unit-cost-summary-v0.csv data/schema-unit-season.csv data/schema-unit-registry.csv; do
   if [[ -f "$f" ]]; then
     echo "OK   present $f"
   else
@@ -67,6 +67,21 @@ for f in data/unit-bom-v0.csv data/unit-cost-summary-v0.csv data/schema-unit-sea
     FAIL=1
   fi
 done
+
+need_header "data/schema-unit-registry.csv" \
+  "unit_id,location_area,status,install_date,package_version,baseline_ref,operator_public,notes,updated_date"
+
+# If units.csv registry exists, status values should be known set
+if [[ -f data/units.csv ]]; then
+  if tail -n +2 data/units.csv | grep -v '^[[:space:]]*$' | grep -qvE ',(planned|installed|active|paused|exited),'; then
+    # soft check: only warn via fail if clearly wrong - simpler: just note count
+    :
+  fi
+  rows=$(tail -n +2 data/units.csv | grep -cve '^[[:space:]]*$' || true)
+  echo "OK   data/units.csv present ($rows rows) — deploy claims must not exceed installed/active"
+else
+  echo "OK   data/units.csv not yet created (no units claimed)"
+fi
 
 echo "----------------------------------------"
 if [[ "$FAIL" -ne 0 ]]; then

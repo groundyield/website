@@ -5,7 +5,8 @@
 **Status:** Planned (not yet underway)
 
 This document is public. It will be updated with dates, findings, and course corrections.  
-**Truth rule:** Prefer incomplete honest notes over polished silence. Dead ends stay in the log.
+**Truth rule:** Prefer incomplete honest notes over polished silence. Dead ends stay in the log.  
+**Integrity:** [INTEGRITY.md](INTEGRITY.md) — F/E/H marks, no invented baselines, dual evidence before headline claims.
 
 ---
 

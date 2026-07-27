@@ -9,6 +9,13 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Integrity & anti-fraud (top policy)
+
+- **[INTEGRITY.md](INTEGRITY.md)** published as a top-level public policy: threat model (ghost units, fake baselines, cherry-picked yields, procurement abuse, photo theater, impostors), controls, measurement protocol, and how to report errors/`IMPOSTOR`.
+- Charter commitment **#6 — Integrity over optics**; homepage section “Fighting fraud from day one”.
+- Linked from WHO, DATA, README, field kit hard rules.
+- Headline claim rule: dual evidence before using % wins in press/fundraising.
+
 ## 27 Jul 2026 — Trip ops layer (budget, safety, agreements)
 
 - [TRIP_BUDGET.md](TRIP_BUDGET.md) — travel ops envelope separate from unit capital; actuals table empty until return.

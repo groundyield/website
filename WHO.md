@@ -90,10 +90,19 @@ We aim to reply within **5 working days**. Replies in Portuguese may be slower.
 
 Mistakes get a **dated correction** in [UPDATES.md](UPDATES.md) and, where needed, a note on the original document. We do not silently rewrite published numbers. Material corrections may also appear on the website Updates section.
 
+## Integrity & anti-fraud
+
+How we fight ghost units, fake baselines, procurement abuse, impostors, and silent rewrites — **from day one**:
+
+→ **[INTEGRITY.md](INTEGRITY.md)** (top-level policy)
+
+Report errors or impostors: team@groundyield.org or [GitHub issues](https://github.com/groundyield/website/issues) (subject `IMPOSTOR` if relevant).
+
 ---
 
 ## Related
 
+- [INTEGRITY.md](INTEGRITY.md) — anti-fraud controls  
 - [PARTNERSHIPS.md](PARTNERSHIPS.md) — how we work with communities  
 - [CONSENT.md](CONSENT.md) — data, photos, household privacy  
 - [CONTRIBUTING.md](CONTRIBUTING.md) — how to help  

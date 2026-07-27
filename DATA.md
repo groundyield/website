@@ -28,6 +28,7 @@ How GroundYield will publish numbers.
 4. Updates are added to the public record rather than rewritten history
 5. Household and personal data follow [CONSENT.md](CONSENT.md)
 6. Secondary statistics used on the site are listed in [SOURCES.md](SOURCES.md)
+7. Anti-fraud / integrity rules (ghost units, dual evidence for headlines, truth marks F/E/H) are in **[INTEGRITY.md](INTEGRITY.md)** — treat that doc as binding for data claims
 
 ## Current Status
 

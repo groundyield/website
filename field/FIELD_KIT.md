@@ -37,5 +37,8 @@
 - Planning cost band ≠ payment offer  
 - No ask for money on first community meeting  
 - Private names stay private unless consent + need  
+- **F / E / H** on every number · never invent `0`  
+- Dead ends logged · no silent rewrites  
+- Full anti-fraud policy: [INTEGRITY.md](../INTEGRITY.md)  
 
 Last reviewed: 27 July 2026

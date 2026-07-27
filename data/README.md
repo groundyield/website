@@ -16,7 +16,8 @@ See [DATA.md](../DATA.md):
 - Baseline before impact claims  
 - Clear units and currency  
 - Append updates; do not rewrite history silently  
-- Prefer unit IDs over full names ([CONSENT.md](../CONSENT.md))
+- Prefer unit IDs over full names ([CONSENT.md](../CONSENT.md))  
+- Integrity / anti-fraud rules: [INTEGRITY.md](../INTEGRITY.md)
 
 ## Files
 
@@ -24,6 +25,7 @@ See [DATA.md](../DATA.md):
 |------|---------|
 | `schema-baseline.csv` | Header for pre-intervention baseline rows |
 | `baseline-examples.csv` | **EXAMPLE-ONLY** rows showing shape — not real yields |
+| `schema-unit-registry.csv` | Ghost-unit killer — planned/installed/active units ([INTEGRITY.md](../INTEGRITY.md)) |
 | `schema-unit-season.csv` | Per-unit per-season inputs, yields, income |
 | `quotes-template.csv` | Dated supplier quotes (machine-readable) |
 | `unit-bom-v0.csv` | Modular unit BOM (planning) |

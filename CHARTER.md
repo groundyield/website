@@ -19,6 +19,9 @@ This is the binding public commitment of the pilot.
 5. **Open by default**  
    Design documents, methods, and lessons are public unless there is a clear privacy or safety reason not to publish.
 
+6. **Integrity over optics**  
+   We design against ghost units, fake baselines, cherry-picked yields, hidden related-party deals, and silent rewrites. Full policy: [INTEGRITY.md](INTEGRITY.md). Anyone may challenge a published number; material corrections are dated and public.
+
 ## Season 1 Targets
 
 - 30–60 modular units in the Vilanculos area
@@ -32,7 +35,7 @@ This is the binding public commitment of the pilot.
 - It does not claim zero failures
 - It does not claim to solve world hunger in one pilot
 
-It claims only this: we will run a transparent, measurable, replicable pilot and publish the results.
+It claims only this: we will run a transparent, measurable, replicable pilot and publish the results — including the ugly ones — under the integrity rules in [INTEGRITY.md](INTEGRITY.md).
 
 ---
 

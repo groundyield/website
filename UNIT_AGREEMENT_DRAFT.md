@@ -23,7 +23,8 @@ Related: [PARTNERSHIPS.md](PARTNERSHIPS.md) · [CHARTER.md](CHARTER.md) · [CONS
 1. Deploy a **measured modular package** (irrigation + inputs + advice + storage as agreed).  
 2. Record **baseline** before claiming improvement.  
 3. Publish **costs, yields, and failures** using unit IDs — not humiliating personal detail.  
-4. Leave the household **better able to continue**, not dependent on secrecy.
+4. Leave the household **better able to continue**, not dependent on secrecy.  
+5. Follow [INTEGRITY.md](INTEGRITY.md): no fake baselines, no ghost units, honest reporting both ways.
 
 ---
 

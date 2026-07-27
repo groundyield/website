@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 22:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Integrity &amp; anti-fraud — top policy from day one</title>
+      <link>https://github.com/groundyield/website/blob/main/INTEGRITY.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-integrity</guid>
+      <pubDate>Mon, 27 Jul 2026 23:00:00 +0000</pubDate>
+      <description>INTEGRITY.md: fight ghost units, fake baselines, cherry-picked yields, procurement abuse, impostors. Charter #6, homepage section, dual evidence for headline claims, public challenge path.</description>
+    </item>
     <item>
       <title>Trip ops — budget, safety, packing, partnership draft</title>
       <link>https://github.com/groundyield/website/blob/main/GROUND_TRIP.md</link>

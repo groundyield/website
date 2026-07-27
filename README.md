@@ -3,7 +3,8 @@
 **Open modular high-productivity farm pilot**  
 Vilanculos, Inhambane Province, Mozambique
 
-Raising real yields on the ground. Transparent data. Community first.
+Raising real yields on the ground. Transparent data. Community first.  
+**Integrity over optics** — [INTEGRITY.md](INTEGRITY.md) (anti-fraud from day one).
 
 ## Live
 
@@ -43,6 +44,7 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 | [AI_AGRONOMY.md](AI_AGRONOMY.md) | Phone/AI advice design |
 | [PARTNERSHIPS.md](PARTNERSHIPS.md) | Community & land principles |
 | [WHO.md](WHO.md) | Accountability, funding, conflicts |
+| [**INTEGRITY.md**](INTEGRITY.md) | **Anti-fraud & integrity (top policy)** |
 | [PT.md](PT.md) / [pt.html](pt.html) | **Resumo em português** (site + markdown) |
 | [SUPPLIERS.md](SUPPLIERS.md) | Quote log template for field prices |
 | [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) | WhatsApp/SMS scripts (PT) v0 |
