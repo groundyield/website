@@ -6,7 +6,21 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:30:00 +0000</lastBuildDate>
+    <item>
+      <title>Irrigation options + live-verify script</title>
+      <link>https://github.com/groundyield/website/blob/main/IRRIGATION.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-irrigation</guid>
+      <pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
+      <description>IRRIGATION.md: per-unit kit vs shared headworks. scripts/live-verify.sh automates the DEPLOY.md URL checklist. Site documents list links IRRIGATION + DEPLOY.</description>
+    </item>
+    <item>
+      <title>Deploy process locked in docs</title>
+      <link>https://github.com/groundyield/website/blob/main/DEPLOY.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-deploy</guid>
+      <pubDate>Mon, 27 Jul 2026 17:00:00 +0000</pubDate>
+      <description>DEPLOY.md added: Git → Vercel as the only supported production path; live-verify checklist; explicit ban on partial uploads. Ops remaining: connect Vercel to main so og-image.png and icons return 200 on the domain.</description>
+    </item>
     <item>
       <title>Portuguese page, supplier template, advice scripts</title>
       <link>https://www.groundyield.org/pt.html</link>
