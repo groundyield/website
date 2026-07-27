@@ -20,6 +20,8 @@ A project that asks people to trust its numbers has to say who is producing them
 
 If published data is wrong, **Jacques Theron** is responsible for correcting it. Corrections and contact also run through **team@groundyield.org** and this repository’s issues.
 
+**Inbox status (27 Jul 2026):** GitHub project notifications for `groundyield/website` are reaching Jacques (merge mail for PR #1 confirmed). Public contact address remains **team@groundyield.org** — keep forwarding healthy for partnership mail.
+
 ---
 
 ## Legal status

@@ -49,7 +49,8 @@ When dates lock, replace *TBD* here and add a line under **Public log** the same
 - [ ] Prepare baseline sheet (`data/schema-baseline.csv`)
 - [ ] Budget envelope for trip (publish after reconciliation)
 - [ ] Safety and contingency plan
-- [ ] Confirm `team@groundyield.org` receives test mail
+- [x] Confirm notification path to operator (GitHub merge mail for PR #1 received 27 Jul 2026)
+- [ ] Spot-check direct mail to `team@groundyield.org` (partnership inbox)
 
 ---
 

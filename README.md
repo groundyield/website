@@ -33,7 +33,9 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 | [AI_AGRONOMY.md](AI_AGRONOMY.md) | Phone/AI advice design |
 | [PARTNERSHIPS.md](PARTNERSHIPS.md) | Community & land principles |
 | [WHO.md](WHO.md) | Accountability, funding, conflicts |
-| [PT.md](PT.md) | **Resumo em português** |
+| [PT.md](PT.md) / [pt.html](pt.html) | **Resumo em português** (site + markdown) |
+| [SUPPLIERS.md](SUPPLIERS.md) | Quote log template for field prices |
+| [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) | WhatsApp/SMS scripts (PT) v0 |
 | [CONSENT.md](CONSENT.md) | Privacy, consent, safeguarding |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to help |
 | [DATA.md](DATA.md) | What we measure and how we publish it |
