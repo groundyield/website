@@ -9,7 +9,9 @@ This document is public by design. It will be updated as reality changes.
 
 ## The Problem
 
-Smallholders in southern Mozambique (and much of sub-Saharan Africa) operate far below potential yields. The gap is not primarily knowledge or effort — it is access to reliable water, improved inputs, basic storage, and timely advice. Most interventions are opaque, slow, and non-replicable.
+Smallholders in southern Mozambique (and much of sub-Saharan Africa) operate far below potential yields. Published figures put Mozambican maize commonly in the **~0.4–1.3 t/ha** range (often near **~1 t/ha** at national level) — see [SOURCES.md](SOURCES.md). The gap is not primarily knowledge or effort — it is access to reliable water, improved inputs, basic storage, and timely advice. Most interventions are opaque, slow, and non-replicable.
+
+**Charter rule:** Season 1 impact claims use **local baselines** measured with participating units, not national averages alone.
 
 ## The Approach
 

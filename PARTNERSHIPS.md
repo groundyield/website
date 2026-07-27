@@ -85,9 +85,9 @@ Exact model will be chosen with communities. Options to evaluate on the ground t
 
 ## Contact
 
-Partnerships, introductions, land conversations: **team@groundyield.org**
+Partnerships, introductions, land conversations: **team@groundyield.org** (Portuguese welcome)
 
 ---
 
 **Status:** v0 — principles before field MOUs  
-**Related:** [CHARTER.md](CHARTER.md) · [GROUND_TRIP.md](GROUND_TRIP.md) · [PLAN.md](PLAN.md)
+**Related:** [CHARTER.md](CHARTER.md) · [CONSENT.md](CONSENT.md) · [WHO.md](WHO.md) · [GROUND_TRIP.md](GROUND_TRIP.md) · [PLAN.md](PLAN.md)

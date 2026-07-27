@@ -3,99 +3,97 @@
 **Public accountability page**  
 Last updated: 27 July 2026
 
-Transparency without a named person is incomplete. This page exists so anyone can evaluate who is running the pilot.
-
-> **Status:** Name and location placeholders remain until the operator publishes them. Until then, treat accountability as incomplete — not as anonymous branding.
+A project that asks people to trust its numbers has to say who is producing them. This page names the person accountable, states where money comes from, and how to reach us.
 
 ---
 
-## Primary contact
+## Accountable operator
 
 | | |
 |---|---|
-| **Name** | *[To be published — do not treat as named accountability until filled]* |
+| **Name** | **Jacques Theron** |
 | **Role** | Founder / operator of the GroundYield pilot |
-| **Based** | *[City, country — to be published]* |
-| **Email** | **team@groundyield.org** |
+| **Pilot focus** | Vilanculos, Inhambane Province, Mozambique |
+| **Email** | [team@groundyield.org](mailto:team@groundyield.org) |
 | **X** | [@GroundYield](https://x.com/GroundYield) |
 | **GitHub** | [github.com/groundyield](https://github.com/groundyield) |
+
+If published data is wrong, **Jacques Theron** is responsible for correcting it. Contact also runs through **team@groundyield.org** and this repository’s issues.
 
 ---
 
 ## Legal status
 
-There is **no registered legal entity yet**.
+**Current:** no registered legal entity.
 
-GroundYield is currently a self-funded open pilot. No company, foundation, or NGO has been incorporated. When a legal entity is formed it will be recorded here with jurisdiction and registration number.
+GroundYield is a personally funded open pilot operated by Jacques Theron. No company, foundation, or NGO has been incorporated under this name. When an entity exists, this section will list jurisdiction and registration number — not before.
 
-This is stated plainly because the project’s entire pitch is transparency. Softening it would undercut the claim.
+We would rather publish “no entity yet” than imply an institution that does not exist.
+
+**Planned:** structure and jurisdiction to be decided after ground trip and early partnerships (possible Mozambican association / non-profit or other fit). No timeline claim until filed.
 
 ---
 
-## Funding status
+## Funding
 
-| Source | Status | Notes |
-|--------|--------|-------|
-| Self-funded (founder) | Current | Operating costs to date |
-| Grants / institutional | None | — |
-| Private investment | None | — |
-| Crowdfunding / public donations | None | — |
+| Source | Amount | Status |
+|--------|--------|--------|
+| Founder self-funding (Jacques Theron) | Not yet itemized publicly | Current |
+| Grants | — | None received |
+| Donations | — | Not currently soliciting |
+| Investors | — | None |
 
-**Disclosure rule:** Any single grant, donation, or investment of **USD 500 or more** (or equivalent), and any amount with conditions attached, will be listed here with source, amount, date, and conditions within 14 days of receipt.
+### Commitments on money
+
+1. Every funding source above **USD 500** (or any amount with conditions) will be listed here with source, amount, date, and conditions **within 14 days of receipt**, and before that money is spent on pilot activities when possible.
+2. No funder gets pre-publication review of results. Data is published whether or not it flatters the funder.
+3. If a funder has a commercial interest in an input we test (seed, solar, storage, feed), it is disclosed in the same document as the related result.
+4. Unit cost bands in [UNIT.md](UNIT.md) are planning ranges, not a raised budget.
 
 ---
 
 ## Conflicts of interest
 
-None declared at this time.
+**None declared as of 27 July 2026.**
 
-**Rules:**
-- Any financial interest in a seed company, irrigation supplier, fertilizer brand, poultry input firm, or related venture must be disclosed on this page **before** that supplier is recommended or preferred in public materials.
-- Prefer open competitive quotes over exclusive lock-in. If exclusivity is used, disclose why.
+If Jacques Theron later has a financial interest in a supplier, input company, land vehicle, or related venture, it will be disclosed on this page **before** related procurement or partnership decisions.
 
 ---
 
-## Partners
+## Local partners
+
+Named only when agreements exist and partners consent.
 
 | Partner | Role | Status |
 |---------|------|--------|
-| — | — | **Nothing signed** |
-
-When MOUs or formal agreements exist, they will be listed here (name, role, date). Empty is honest.
+| — | — | No agreements yet |
 
 ---
 
 ## How to reach us
 
-| Audience | Route |
-|----------|-------|
-| Community / land introductions (Mozambique) | team@groundyield.org |
-| Researchers / data reuse | GitHub issues or team@groundyield.org |
-| Press / partnerships | team@groundyield.org |
-| Corrections / public challenges | team@groundyield.org or public reply on X |
-| Code / docs contributions | [github.com/groundyield/website](https://github.com/groundyield/website) |
+| You are | Use |
+|---------|-----|
+| Smallholder or community member near Vilanculos | team@groundyield.org — **Portuguese welcome** |
+| Potential local partner or supplier | team@groundyield.org |
+| Researcher wanting raw data | [GitHub issues](https://github.com/groundyield/website/issues) |
+| You think a published number is wrong | [GitHub issue](https://github.com/groundyield/website/issues) or team@groundyield.org — corrections are public |
+| Press / general | team@groundyield.org |
 
-Only **team@groundyield.org** is published as the project mailbox. Do not assume other addresses are monitored.
+We aim to reply within **5 working days**. Replies in Portuguese may be slower.
 
 ---
 
 ## Corrections policy
 
-Material errors on the site or in the repo will be:
-
-1. Corrected in the source file
-2. Noted in the public Updates log with **date** and **what changed**
-3. Not silently rewritten as if the error never existed
-
-Email team@groundyield.org or open a GitHub issue to report errors.
+Mistakes get a **dated correction** in [UPDATES.md](UPDATES.md) and, where needed, a note on the original document. We do not silently rewrite published numbers. Material corrections may also appear on the website Updates section.
 
 ---
 
-## Portuguese
+## Related
 
-Uma versão em português desta página e do resumo do projeto será publicada após o trabalho de campo em Vilanculos. Até lá, o contacto principal é team@groundyield.org.
+- [PARTNERSHIPS.md](PARTNERSHIPS.md) — how we work with communities  
+- [CONSENT.md](CONSENT.md) — data, photos, household privacy  
+- [CONTRIBUTING.md](CONTRIBUTING.md) — how to help  
 
----
-
-**This page will be updated as the project formalizes.**  
-Named accountability is incomplete until the primary contact fields above are filled with real identity details.
+**This page will be updated as the project formalizes.**

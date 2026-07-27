@@ -6,7 +6,21 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Trust layer, Portuguese summary, cited yield range</title>
+      <link>https://www.groundyield.org/#updates</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-trust</guid>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
+      <description>Social share image, accountability rules in WHO.md, PT.md, CONSENT, CONTRIBUTING, SOURCES. Maize yield range cited. UNIT cost band ~$1.3–3k.</description>
+    </item>
+    <item>
+      <title>Unit design stack: BOM, economics, season, AI, partnerships</title>
+      <link>https://www.groundyield.org/#updates</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-unit-stack</guid>
+      <pubDate>Mon, 27 Jul 2026 10:00:00 +0000</pubDate>
+      <description>Public v0 docs for modular unit BOM, illustrative economics, crop calendar, AI agronomy design, and community partnership principles.</description>
+    </item>
     <item>
       <title>Public launch — foundation phase begins</title>
       <link>https://www.groundyield.org/#updates</link>

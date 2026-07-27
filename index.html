@@ -6,25 +6,57 @@
   <title>GroundYield — Open Modular Farm Pilot</title>
   <meta name="description" content="GroundYield is an open, transparent modular high-productivity farm pilot in Vilanculos, Mozambique. Raising real yields with public data." />
   <meta name="theme-color" content="#0f1419" />
+  <meta name="color-scheme" content="dark" />
   <meta name="author" content="GroundYield" />
   <link rel="canonical" href="https://www.groundyield.org/" />
 
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="alternate" type="application/rss+xml" title="GroundYield Updates" href="/updates.rss" />
+  <link rel="alternate" hreflang="pt" href="https://github.com/groundyield/website/blob/main/PT.md" />
+
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="GroundYield" />
   <meta property="og:url" content="https://www.groundyield.org/" />
   <meta property="og:title" content="GroundYield — Open Modular Farm Pilot" />
-  <meta property="og:description" content="Transparent modular high-productivity farming for smallholders in Vilanculos, Mozambique. Costs, yields, and failures published openly." />
-  <meta property="og:site_name" content="GroundYield" />
-  <meta property="og:locale" content="en_US" />
+  <meta property="og:description" content="Transparent modular farming for smallholders in Vilanculos, Mozambique. Costs, yields and failures published from day one." />
+  <meta property="og:image" content="https://www.groundyield.org/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="GroundYield — raising real yields on the ground. Vilanculos, Mozambique." />
+  <meta property="og:locale" content="en_GB" />
 
-  <!-- Twitter / X -->
-  <meta name="twitter:card" content="summary" />
+  <!-- X / Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@GroundYield" />
+  <meta name="twitter:creator" content="@GroundYield" />
   <meta name="twitter:title" content="GroundYield — Open Modular Farm Pilot" />
-  <meta name="twitter:description" content="Transparent modular high-productivity farming for smallholders in Vilanculos, Mozambique. Costs, yields, and failures published openly." />
+  <meta name="twitter:description" content="Transparent modular farming for smallholders in Vilanculos, Mozambique. Costs, yields and failures published from day one." />
+  <meta name="twitter:image" content="https://www.groundyield.org/og-image.png" />
+  <meta name="twitter:image:alt" content="GroundYield — raising real yields on the ground. Vilanculos, Mozambique." />
 
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-  <link rel="alternate" type="application/rss+xml" title="GroundYield Updates" href="/updates.rss" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "GroundYield",
+    "url": "https://www.groundyield.org/",
+    "logo": "https://www.groundyield.org/icon-512.png",
+    "image": "https://www.groundyield.org/og-image.png",
+    "description": "Open modular high-productivity farm pilot for smallholders in Vilanculos, Inhambane Province, Mozambique. Costs, yields, incomes and failures published openly.",
+    "email": "team@groundyield.org",
+    "foundingDate": "2026",
+    "areaServed": {
+      "@type": "Place",
+      "name": "Vilanculos, Inhambane Province, Mozambique"
+    },
+    "sameAs": [
+      "https://x.com/GroundYield",
+      "https://github.com/groundyield/website"
+    ]
+  }
+  </script>
 
   <style>
     :root {
@@ -207,6 +239,23 @@
     .docs li {
       margin-bottom: 0.5rem;
     }
+    .note {
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+    .contact dl { margin: 0; }
+    .contact dt {
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-top: 1rem;
+    }
+    .contact dt:first-child { margin-top: 0; }
+    .contact dd { margin: 0.15rem 0 0; }
+    .lang-bar {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-top: 0.75rem;
+    }
     .cta {
       margin-top: 2.5rem;
       padding-top: 2rem;
@@ -245,6 +294,7 @@
     <header>
       <div class="logo" role="banner">Ground<span>Yield</span></div>
       <p class="tagline">Open modular farm pilot · Vilanculos, Mozambique</p>
+      <p class="lang-bar"><a href="https://github.com/groundyield/website/blob/main/PT.md" hreflang="pt">Português (resumo)</a></p>
     </header>
 
     <main id="main">
@@ -260,11 +310,16 @@
       <section aria-labelledby="problem">
         <h2 id="problem">The Problem</h2>
         <p>
-          Smallholders in Mozambique average roughly <strong>0.8–1.0 t/ha</strong> of maize —
-          well below regional potential and far below what improved seed, water, and
-          basic fertility can deliver. The gap is not primarily knowledge or effort;
-          it is reliable water, improved inputs, basic storage, and timely advice.
-          Most interventions remain opaque and non-replicable.
+          Smallholder maize yields in Mozambique are commonly reported around
+          <strong>0.4–1.3 t/ha</strong> (often near <strong>~1 t/ha</strong> nationally) —
+          well below regional peers and far below what improved seed, water, and
+          basic fertility can deliver.
+          <span class="note">Sources: <a href="https://www.fao.org/fileadmin/templates/tc/tce/pdf/Mozambique_factsheet.pdf">FAO factsheet</a>;
+          <a href="https://github.com/groundyield/website/blob/main/SOURCES.md">SOURCES.md</a>.</span>
+          The gap is not primarily knowledge or effort; it is reliable water, improved
+          inputs, basic storage, and timely advice. Most interventions remain opaque
+          and non-replicable. Our impact claims will use <strong>local baselines</strong>,
+          not national averages alone.
         </p>
       </section>
 
@@ -326,12 +381,20 @@
 
       <section aria-labelledby="who">
         <h2 id="who">Who Is Behind This</h2>
-        <p>
-          GroundYield is currently a self-funded open pilot. There is no registered
-          legal entity yet. Full named accountability, funding status, and conflict
-          disclosures are published in
-          <a href="https://github.com/groundyield/website/blob/main/WHO.md">WHO.md</a>.
-        </p>
+        <div class="card">
+          <p>
+            GroundYield is a <strong>self-funded</strong> open pilot. There is
+            <strong>no registered legal entity</strong> yet — stated plainly on purpose.
+          </p>
+          <p class="note">
+            The operator’s full legal name will be published in
+            <a href="https://github.com/groundyield/website/blob/main/WHO.md">WHO.md</a>
+            <strong>before the first field baseline</strong> is posted. Until then, contact
+            and corrections run through
+            <a href="mailto:team@groundyield.org">team@groundyield.org</a>.
+            Funding rules, conflicts of interest, and partner status live in the same file.
+          </p>
+        </div>
       </section>
 
       <section aria-labelledby="commitment">
@@ -349,41 +412,59 @@
           <li><a href="https://github.com/groundyield/website/blob/main/PLAN.md">PLAN.md</a> — Full plan, phases, principles</li>
           <li><a href="https://github.com/groundyield/website/blob/main/CHARTER.md">CHARTER.md</a> — Binding public commitments</li>
           <li><a href="https://github.com/groundyield/website/blob/main/UNIT.md">UNIT.md</a> — Modular Unit v0 (BOM + cost model)</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/WHO.md">WHO.md</a> — Named accountability and funding status</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/DATA.md">DATA.md</a> — What we measure and how we publish it</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/GROUND_TRIP.md">GROUND_TRIP.md</a> — Trip plan and field checklist</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/ECONOMICS.md">ECONOMICS.md</a> — Unit economics (illustrative)</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/WHO.md">WHO.md</a> — Accountability, funding, conflicts</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/PT.md">PT.md</a> — Resumo em português</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/CONSENT.md">CONSENT.md</a> — Privacy &amp; consent</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> — How to help</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/DATA.md">DATA.md</a> — What we measure</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/SOURCES.md">SOURCES.md</a> — Citations for public claims</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/UPDATES.md">UPDATES.md</a> — Changelog (source of truth)</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/GROUND_TRIP.md">GROUND_TRIP.md</a> — Field trip checklist</li>
         </ul>
       </section>
 
-      <section aria-labelledby="contact">
+      <section class="contact" aria-labelledby="contact">
         <h2 id="contact">Contact</h2>
         <div class="card">
-          <ul>
-            <li>Email: <a href="mailto:team@groundyield.org">team@groundyield.org</a></li>
-            <li>X: <a href="https://x.com/GroundYield">@GroundYield</a></li>
-            <li>GitHub: <a href="https://github.com/groundyield/website">groundyield/website</a></li>
-          </ul>
+          <dl>
+            <dt>General, partnership, press</dt>
+            <dd><a href="mailto:team@groundyield.org">team@groundyield.org</a></dd>
+            <dt>Community members and suppliers in Vilanculos</dt>
+            <dd><a href="mailto:team@groundyield.org">team@groundyield.org</a> — Portuguese welcome</dd>
+            <dt>Corrections, data requests, contributions</dt>
+            <dd><a href="https://github.com/groundyield/website/issues">Open a public issue</a> · <a href="https://github.com/groundyield/website/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a></dd>
+            <dt>X</dt>
+            <dd><a href="https://x.com/GroundYield" rel="me noopener noreferrer">@GroundYield</a></dd>
+          </dl>
+          <p class="note" style="margin-top:1.25rem">We aim to reply within 5 working days. Confirm this inbox receives mail before relying on it for time-critical contact.</p>
         </div>
       </section>
 
       <section aria-labelledby="updates">
         <h2 id="updates">Updates</h2>
+        <p class="note" style="margin-bottom:1rem">Full log: <a href="https://github.com/groundyield/website/blob/main/UPDATES.md">UPDATES.md</a></p>
         <article class="update">
           <time datetime="2026-07-27">27 Jul 2026</time>
-          <p>Public launch complete. Plan, Charter, Unit design (v0), Data standards, and accountability page published. Foundation phase. Trip planned: South Africa → Zimbabwe → Mozambique.</p>
+          <p>Trust layer: social share image, accountability rules, Portuguese summary, consent &amp; contributing docs. Cited maize yield range. UNIT cost band ~$1.3–3k.</p>
+        </article>
+        <article class="update">
+          <time datetime="2026-07-27">27 Jul 2026</time>
+          <p>Public launch. Plan, Charter, Unit design (v0), Data standards. Foundation phase. Trip planned: South Africa → Zimbabwe → Mozambique.</p>
         </article>
       </section>
 
       <div class="cta">
         <p>
           This is the public home of the pilot.<br>
-          Follow progress · Contribute · Replicate later.
+          Follow progress · <a href="https://github.com/groundyield/website/blob/main/CONTRIBUTING.md">Contribute</a> · Replicate later.
         </p>
         <div class="links">
-          <a href="https://x.com/GroundYield" rel="noopener noreferrer">X →</a>
+          <a href="https://x.com/GroundYield" rel="me noopener noreferrer">X →</a>
           <a href="https://github.com/groundyield/website" rel="noopener noreferrer">GitHub →</a>
           <a href="mailto:team@groundyield.org">Email →</a>
           <a href="https://github.com/groundyield/website/blob/main/UNIT.md" rel="noopener noreferrer">Unit Design →</a>
+          <a href="https://github.com/groundyield/website/blob/main/PT.md" hreflang="pt" rel="noopener noreferrer">Português →</a>
         </div>
       </div>
     </main>

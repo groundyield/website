@@ -26,6 +26,8 @@ How GroundYield will publish numbers.
 2. Units are identified consistently (even if anonymized for privacy)
 3. Currency and units are stated clearly
 4. Updates are added to the public record rather than rewritten history
+5. Household and personal data follow [CONSENT.md](CONSENT.md)
+6. Secondary statistics used on the site are listed in [SOURCES.md](SOURCES.md)
 
 ## Current Status
 
