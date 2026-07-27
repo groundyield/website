@@ -27,7 +27,7 @@ jobs:
             field/FIELD_KIT.md \
             field/GroundYield_Field_OnePager_EN_PT.pdf \
             field/GroundYield_Field_Forms_EN_PT.pdf \
-            units.html
+            units.html day1.html NEXT.md
           do
             test -f "$f" || { echo "MISSING $f"; exit 1; }
             echo "OK $f"
