@@ -54,6 +54,13 @@ Detalhe: [LESSONS_MZ.md](LESSONS_MZ.md). Regresso à comunidade de **Rumbacaca**
 Por primeira unidade completa (ano 0): cerca de **1.270–2.985 USD**.  
 Detalhe: [UNIT.md](UNIT.md).
 
+## Porquê trabalhar connosco · dinheiro
+
+- **Para a família:** mais comida/água/caixa *se* o pacote funcionar; terra continua sua; podem recusar; resultados sem humilhação.  
+- **Para o capital:** anexo escrito, modelos de propriedade (doação piloto / co-investimento / empréstimo / transferência faseada), portas de saída, sem dívida predatória.  
+- **Para ajudar mais aldeias:** a família autofinancia a época 2 → dados abertos para outros copiarem → recuperação justa do kit → doadores nomeados — não “ficar rico em silêncio”.  
+Detalhe: [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) (inglês).
+
 ## Estado
 
 **Fase de fundação.** Documentos e kit de campo prontos.  

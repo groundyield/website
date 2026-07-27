@@ -9,6 +9,12 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Community value + money model
+
+- **[VALUE_AND_MONEY.md](VALUE_AND_MONEY.md)** — from the community’s POV: why work with us, what’s in it for them, what protects capital/operator, how surplus and open replication fund the next community.
+- Ownership models A–D (grant pilot, co-invest, loan kit, phased transfer). Forbidden: debt traps, fake yields for grants, join-up fees.
+- Linked from PLAN, ECONOMICS, PARTNERSHIPS, UNIT_AGREEMENT, README, homepage, PT summary.
+
 ## 27 Jul 2026 — Portuguese site review + pt.html parity
 
 - Full PT audit: [docs/PT_REVIEW.md](docs/PT_REVIEW.md).

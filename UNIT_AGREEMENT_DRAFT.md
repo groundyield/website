@@ -60,10 +60,11 @@ Exact money and items are **never verbal-only** — write a short annex per unit
 
 | Topic | Rule |
 |-------|------|
-| Kit ownership | State whether items are gift, loan, co-owned, or phased transfer |
+| Kit ownership | State whether items are gift, loan, co-owned, or phased transfer (models A–D in [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md)) |
 | Side deals | None that contradict public cost tables |
 | Failure | Equipment failure is documented; blame is not the product |
 | Exit | Either party can end; equipment and data handling written in the annex |
+| Next units | Recovery / self-fund / named capital only under open rules — no hidden debt traps |
 
 ---
 

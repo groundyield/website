@@ -206,6 +206,8 @@ Data rules: [DATA.md](DATA.md) · Consent: [CONSENT.md](CONSENT.md)
 
 Trip ops ≠ unit capital: [TRIP_BUDGET.md](TRIP_BUDGET.md) vs [UNIT.md](UNIT.md)
 
+**Why communities join · what protects spend · how next communities get funded:** [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md)
+
 ---
 
 ## 11. Document map (master index)

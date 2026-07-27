@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 05:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Community deal + money model (VALUE_AND_MONEY)</title>
+      <link>https://github.com/groundyield/website/blob/main/VALUE_AND_MONEY.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-value-money</guid>
+      <pubDate>Tue, 28 Jul 2026 06:15:00 +0000</pubDate>
+      <description>Why communities engage, household benefits and risks, capital protection, ownership models A–D, and how next villages get funded without extraction or fake charity math.</description>
+    </item>
     <item>
       <title>Portuguese site review — pt.html honesty parity</title>
       <link>https://www.groundyield.org/pt.html</link>

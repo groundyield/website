@@ -68,6 +68,8 @@ Approach, constraints, and outreach draft: [field/STARLINK_APPROACH.md](field/ST
 - No hidden side deals that contradict public cost tables  
 - If subsidies exist, label them so replication math stays honest  
 
+**Full community POV + capital protection + scale economics:** [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md)
+
 ---
 
 ## Engagement sequence (Phase 0 → 1)

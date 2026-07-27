@@ -8,6 +8,8 @@ This document turns [UNIT.md](UNIT.md) cost bands into **illustrative** income a
 
 **Critical dependency (stated up front):** planning payback often needs **dry-season irrigated vegetables / cash crops**, not maize uplift alone. Tourism and local market **price and volume are unverified** until buyer interviews and quotes exist ([field/BUYER_INTERVIEW.md](field/BUYER_INTERVIEW.md)). Do not treat vegetable margin tables as Vilanculos facts.
 
+**Community deal + sustainability loops** (why they join, capital protection, how next community is funded): **[VALUE_AND_MONEY.md](VALUE_AND_MONEY.md)**.
+
 Currency: **USD** unless noted. Exchange for MZN will be restated when we publish real quotes.
 
 ---
