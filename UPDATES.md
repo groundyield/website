@@ -40,7 +40,7 @@ Newest first. Do not silently edit old entries — append corrections.
 ## 27 Jul 2026 — Trust + social assets
 
 - WHO.md: funding rules, COI, partner table, corrections policy.
-- OG/Twitter assets in repo; live domain must serve `/og-image.png` after full Git deploy.
+- OG/Twitter large card image, apple-touch and 512 icons, JSON-LD Organization.
 - CONTRIBUTING.md, CONSENT.md, Portuguese summary (PT.md), UPDATES.md, 404 page.
 - Yield-gap claim linked to published sources (FAO / national analysis range).
 

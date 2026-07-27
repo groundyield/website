@@ -36,13 +36,6 @@ check "/apple-touch-icon.png"
 check "/icon-512.png"
 
 echo "----------------------------------------"
-# Content signals on homepage
-if ! grep -q "Jacques Theron" /tmp/gy_verify.out 2>/dev/null; then
-  # re-fetch home for content check
-  curl -sL --max-time 25 "${BASE}/" -o /tmp/gy_home.out
-else
-  cp /tmp/gy_verify.out /tmp/gy_home.out 2>/dev/null || curl -sL --max-time 25 "${BASE}/" -o /tmp/gy_home.out
-fi
 curl -sL --max-time 25 "${BASE}/" -o /tmp/gy_home.out
 
 for needle in "Jacques Theron" "pt.html" "UNIT.md" "SEASON.md"; do
