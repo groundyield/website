@@ -61,7 +61,8 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 | [TRACTION.md](TRACTION.md) | Anti-hype promotion strategy |
 | [OUTREACH.md](OUTREACH.md) | Honesty-first outreach playbook |
 | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) | Ready X launch thread (copy-paste) |
-| [BLOG_DAY1.md](BLOG_DAY1.md) | Day-one long-form post |
+| [BLOG_DAY1.md](BLOG_DAY1.md) / [day1.html](day1.html) | Day-one essay (md + shareable page) |
+| [NEXT.md](NEXT.md) | **What to do next** (operator board) |
 | [field/](field/) | **Offline field kit** — PDFs, interviews, forms |
 | [DEPLOY.md](DEPLOY.md) | **How production is deployed (Git → Vercel)** |
 | [data/](data/) | CSV schemas + BOM tables |

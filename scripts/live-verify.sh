@@ -37,6 +37,7 @@ check "/icon-512.png"
 check "/field/GroundYield_Field_OnePager_EN_PT.pdf"
 check "/field/GroundYield_Field_Forms_EN_PT.pdf"
 check "/units.html"
+check "/day1.html"
 
 echo "----------------------------------------"
 curl -sL --max-time 25 "${BASE}/" -o /tmp/gy_home.out

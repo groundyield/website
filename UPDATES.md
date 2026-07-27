@@ -9,6 +9,14 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Next board, day1.html, PT launch, contact log
+
+- **[NEXT.md](NEXT.md)** — ordered human actions to unlock G1 (intro) and G2 (quote); success metrics for the week.
+- **[/day1.html](day1.html)** — shareable HTML of the day-one essay (OG tags) for X/long-form link.
+- **[X_THREAD_DAY1_PT.md](X_THREAD_DAY1_PT.md)** — short Portuguese launch copy.
+- **[field/CONTACT_LOG.md](field/CONTACT_LOG.md)** — public-safe outreach tracking (no private phones in git).
+- Desk work is not the bottleneck; posting + outreach is.
+
 ## 27 Jul 2026 — Launch pack: OUTREACH + X thread + day-one blog
 
 - **[OUTREACH.md](OUTREACH.md)** — promote process/honesty, not unproven charter numbers; specific non-money asks; ship-check gate before posting.

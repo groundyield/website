@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 00:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 01:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Next board, day1.html essay page, PT launch, contact log</title>
+      <link>https://www.groundyield.org/day1.html</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-next-day1</guid>
+      <pubDate>Tue, 28 Jul 2026 01:15:00 +0000</pubDate>
+      <description>NEXT.md operator board for G1/G2. Shareable day1.html. Portuguese launch blurb. CONTACT_LOG for outreach without private numbers. Paper complete; human outreach is next.</description>
+    </item>
     <item>
       <title>Launch pack: honesty-first OUTREACH, X thread, day-one blog</title>
       <link>https://github.com/groundyield/website/blob/main/OUTREACH.md</link>
