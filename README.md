@@ -20,6 +20,8 @@ Raising real yields on the ground. Transparent data. Community first.
 | [PLAN.md](PLAN.md) | Full public plan — problem, approach, phases |
 | [CHARTER.md](CHARTER.md) | Binding public commitments and Season 1 targets |
 | [DATA.md](DATA.md) | What we measure and how we publish it |
+| [GROUND_TRIP.md](GROUND_TRIP.md) | Field trip plan and checklist |
+| [data/](data/) | Public datasets and CSV schemas |
 | [LICENSE](LICENSE) | MIT — open by design |
 
 ## What this is
@@ -47,6 +49,20 @@ Everything is published openly: design, costs, yields, incomes, and failures.
 **Foundation phase.**  
 Public identity and plan are live.  
 Next: ground trip (South Africa → Zimbabwe → Mozambique), land options, community engagement, baseline data.
+
+## Contact
+
+- Website: [groundyield.org](https://groundyield.org)
+- X: [@GroundYield](https://x.com/GroundYield)
+- Email: [team@groundyield.org](mailto:team@groundyield.org)
+
+## Local preview
+
+Static site — open `index.html` in a browser, or:
+
+```bash
+npx serve .
+```
 
 ---
 
