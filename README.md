@@ -5,10 +5,11 @@ Vilanculos, Inhambane Province, Mozambique
 
 Raising real yields on the ground. Transparent data. Community first.
 
-## Live site
+## Live
 
-→ [groundyield.org](https://groundyield.org)  
-→ [groundyield.vercel.app](https://groundyield.vercel.app)
+- Website: [groundyield.org](https://groundyield.org)
+- X: [@GroundYield](https://x.com/GroundYield)
+- GitHub: [github.com/groundyield/website](https://github.com/groundyield/website)
 
 ## What this is
 
