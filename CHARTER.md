@@ -45,6 +45,20 @@ These are **planning goals** for design and fundraising honesty, **not** field r
 
 [ECONOMICS.md](ECONOMICS.md) states that staple uplift alone may not carry the model — dry-season vegetables / tourism demand must be checked on the ground. Until those prices and volumes are **F**-grade local facts, income claims stay provisional.
 
+### How this coexists with “commercial farming is near-impossible”
+
+The operator’s lived view ([LESSONS_MZ.md](LESSONS_MZ.md)): **large-scale commercial** farming under the conditions he hit felt **structurally very hard**.  
+
+That is **not** a secret second charter. It is a scope warning:
+
+| Near-impossible (lived) | Still on the table (unproven) |
+|-------------------------|--------------------------------|
+| Opaque multi-thousand-ha commercial empires | **0.25–0.5 ha modular** packages with public measurement |
+| Guaranteed investor returns | Food + learning + open data even if cash offtake fails |
+| Scale-first | **Few units first**; 30–60 only if earned |
+
+If markets or capital fail, **success** can still mean: honest few units + open autopsy — not hitting 30–60 ([VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) Plan B · [STRATEGIC_GAPS.md](STRATEGIC_GAPS.md)).
+
 ## What This Charter Does Not Claim
 
 - It does not claim the model is already proven at scale  
@@ -57,4 +71,4 @@ It claims only this: we will run a transparent, measurable, replicable pilot **w
 
 ---
 
-Last updated: 27 July 2026 (targets clarified as aspirational; process remains binding)
+Last updated: 27 July 2026 (targets aspirational; reconciled with lived commercial difficulty; process binding)

@@ -72,14 +72,34 @@ Approach, constraints, and outreach draft: [field/STARLINK_APPROACH.md](field/ST
 
 ---
 
+## Household selection (fairness — design v0)
+
+Risk: selection that only favors people the operator already knows (elite capture / jealousy).  
+Personal history in Rumbacaca is a **door**, not automatic entitlement to choose winners alone.
+
+| Step | Who | Output |
+|------|-----|--------|
+| 1. Publish simple criteria | GroundYield + local witness | Water access, willingness, land OK, care capacity — plain PT/EN |
+| 2. Name the **witness body** | Village association / elders / church or school committee | Written names/roles in annex (with consent) |
+| 3. Shortlist | Households apply or are proposed openly | List kept private; process public |
+| 4. Decision | Witness + Jacques (veto if integrity risk) | Recorded reason category (not gossip) |
+| 5. Dispute | Complainant → witness → team@groundyield.org | **Pause** install if unresolved |
+| 6. Unit 2+ | Prefer at least one household **outside** closest personal circle | Written note |
+
+If **no** legitimate local forum will witness: stay at listen/demo — **no multi-household rollout**.
+
+More: [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) §2.1 · [STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §6.
+
+---
+
 ## Engagement sequence (Phase 0 → 1)
 
 1. Introductions through trusted local channels  
-2. Listen: constraints, history of failed projects, priorities  
+2. Listen: constraints, history of failed projects, priorities, **memory of prior wind-down**  
 3. Share charter and unit design in plain language (Portuguese)  
-4. Co-define first 1–few units, not 60 on day one  
+4. Co-define first 1–few units, not 60 on day one — **after** selection process above  
 5. Baseline measurement with consent  
-6. Install → advise → publish  
+6. Install → advise → publish (install **not** default on first re-entry trip)
 
 ---
 

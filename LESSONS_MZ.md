@@ -32,6 +32,54 @@ Related: [WHO.md](WHO.md) · [INTEGRITY.md](INTEGRITY.md) · [SYSTEM.md](SYSTEM.
 
 ---
 
+## 1b. Wind-down — what locals may ask (incomplete)
+
+The **rand figure** is not always the question that opens doors. Often it is: *were people paid? what happened to the animals and the shop?*
+
+**Status: not fully answered in public yet.** Operator must fill with truth (E until records). Do **not** invent.
+
+| Question | Public answer (fill) | Mark |
+|----------|----------------------|------|
+| Were **workers / local staff** paid what they were owed at wind-down? | *TBD — Jacques* | |
+| Were **local partners / suppliers** left with unpaid debts GroundYield should know about? | *TBD* | |
+| What happened to the **~2,000 cattle / goats / sheep** (sold, moved, lost, partner-held)? | *TBD high-level* | |
+| What happened to the **delivery / shop** operation? | *TBD* | |
+| Any **ongoing dispute** that could poison Rumbacaca re-entry? | *TBD* | |
+
+If the honest answer is “settled / paid,” **say so before the trip** — it is higher local value than restating ~ZAR 10m.  
+If unsettled, **do not pretend**; adjust trip tone and promises.
+
+---
+
+## 1c. Land after abandonment (ambiguous)
+
+| Question | Public answer (fill) |
+|----------|----------------------|
+| Who **uses or claims** the ~3,500 ha area now (if known)? | *TBD — occupied / fallow / unknown / not our business to reclaim* |
+| Any **active dispute** involving Jacques personally? | *TBD* |
+| Does “return to Rumbacaca” imply any claim on old commercial land? | **No.** Abandoned ≠ free for re-take. Pilot uses **current** household/community legitimacy only. |
+
+Until filled: treat land status as **unknown**, not as empty opportunity.
+
+---
+
+## 1d. “Near impossible” vs modular aims (no contradiction if scoped)
+
+Lived view: **large commercial SA-style farming** under the cost/gov/logistics conditions hit felt **structurally very hard / near impossible**.
+
+That does **not** automatically mean:
+
+- small modular packages cannot help **one household’s food**, or  
+- measured experiments are worthless.
+
+It **does** mean:
+
+- Charter aims (e.g. 30–60 units, large % uplift) are **hard, unproven hypotheses** — not a claim that empire farming suddenly works.  
+- Default if markets or capital fail: **few units + open autopsy** ([VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) Plan B).  
+- Full reconciliation language: [CHARTER.md](CHARTER.md) · [STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §4.
+
+---
+
 ## 2. Should we use this? **Yes — this way**
 
 | Use it for | Don’t use it for |
@@ -72,11 +120,15 @@ Related: [WHO.md](WHO.md) · [INTEGRITY.md](INTEGRITY.md) · [SYSTEM.md](SYSTEM.
 
 ## 5. Trip focus (updated)
 
+**Scope decision:** this trip is **listen + recon first** — not “re-earn trust *and* install in the same fortnight” by default ([STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §2).
+
 1. **Rumbacaca** — re-meet; listen; no money ask; no Starlink promises.  
 2. Map what they need vs what a **small modular unit** can honestly do.  
-3. Quotes and baselines — not a re-launch of cattle empire.  
-4. Optional: school connectivity path separate and school-led.  
-5. Publish what the return feels like — including if doors are colder than memory.
+3. Quotes and baseline **starts** if natural — not a re-launch of cattle empire.  
+4. Hear local memory of wind-down (pay, land) carefully — update §1b/1c.  
+5. Optional: school connectivity path separate and school-led.  
+6. Publish what the return feels like — including if doors are colder than memory.  
+7. **Install:** only if extraordinary readiness; else **second visit**.
 
 ---
 

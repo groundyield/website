@@ -83,6 +83,20 @@ People do not “let us help” out of charity. They engage if **they gain more 
 | Dignity | Failures published without shaming families |
 | No mystery agents | Official contact team@groundyield.org only |
 
+### 2.1 Household selection (fairness)
+
+Personal history in Rumbacaca is a **door**, not a **crown**. Selection that only rewards “people Jacques already likes” recreates elite capture (risk C3).
+
+| Principle | Practice (v0) |
+|-----------|----------------|
+| **Transparent criteria** | Water access, household willingness, land use OK, ability to care for kit — written in plain language |
+| **Local witness** | Named association / elders / church or school committee — **who** is written in annex for that village |
+| **Not only old friends** | At least discuss one household **outside** the closest personal circle for unit 2+ |
+| **Dispute** | Written: complain to local witness + team@groundyield.org; pause install if unresolved |
+| **Publish process** | Summary of *how* chosen (not private gossip) after consent |
+
+Detail: [PARTNERSHIPS.md](PARTNERSHIPS.md). If no legitimate local forum exists, **do not multi-household roll out** — stay at demo/listen.
+
 ---
 
 ## 3. What protects Jacques and the money spent
@@ -152,6 +166,19 @@ If the only acceptable return is “get rich in Moz farming,” history already 
 
 **No entity yet** = weaker legal shield. Compensate with **small scale**, **written annexes**, **public process**.
 
+### 3.6 Personal financial ceiling (required before unit capital)
+
+“No continuous dependency” is empty without a number Jacques will not exceed.
+
+| Rule | Detail |
+|------|--------|
+| **Before unit money leaves** | Publish on [WHO.md](WHO.md): max pilot kit capital for **2026** (exact or band) **or** state “ceiling not set — **no unit install**” |
+| **What it covers** | Modular unit kit + season-1 inputs on annex — not unlimited repairs forever |
+| **What it does not cover** | Unlimited Starlink for every school; empire rebuild |
+| **If hit** | Stop new units; support only what annex already promises; public note |
+
+**Current:** ceiling **not yet published** — therefore **no unit capital** until set. (Open bracket is intentional honesty, not permission to spend unbounded.)
+
 ---
 
 ## 4. The economy — how money keeps helping *more* communities
@@ -193,6 +220,22 @@ From [ECONOMICS.md](ECONOMICS.md) mid planning bands:
 - Food security gains may matter more than fast cash payback.  
 - Cash to fund “next community” needs **cash crops + markets** *or* **outside capital** (named grants) *or* **replication by others**.  
 - Do not promise “each unit pays for three more” until field numbers exist.
+
+### 4.5 Plan B if cash crops / tourism offtake fail
+
+The path past unit one **must not** silently assume lodge menus and perfect veg markets.
+
+| If… | Then… |
+|-----|--------|
+| Offtake prices thin or zero | Unit 1 is still valid as **food + learning + public data** (Plan A food-security) |
+| Household cannot self-fund season 2 inputs | **Do not shame**; pilot may fund a second input season **only** if ceiling allows and annex says so — or stop cleanly |
+| No grant appears | **Default: stop scaling.** Publish season autopsy. Open BOM remains the “next community” offer |
+| Operator cannot fund unit 2 | Say so on WHO; **no ghost pipeline** of “coming soon” units |
+| Markets work (F prices) | Revisit Loop 1 surplus and optional recovery (Loop 3) with real numbers |
+
+**Honest end-state if Plan B is forever:** a handful of measured units and an open playbook — **not** 30–60 units. That is success for integrity even if it fails the charter *aim*.
+
+See also [STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §1.
 
 ### 4.3 Funding the next community (priority order)
 
@@ -237,27 +280,30 @@ From [ECONOMICS.md](ECONOMICS.md) mid planning bands:
 
 ---
 
-## 6. Sequence on this trip (money + trust)
+## 6. Sequence — this trip vs later (money + trust)
 
-| Step | Community | Capital |
-|------|-----------|---------|
-| 1 | Listen in Rumbacaca | $0 kit |
-| 2 | Baseline interest | Notebook / forms |
-| 3 | Co-design 1 unit annex | Quotes first |
-| 4 | Install only if gates pass | Kit spend |
-| 5 | Season support (honest time) | OpEx |
-| 6 | Publish | Data = return |
-| 7 | Decide recovery vs grant for unit 2 | Next $ |
+**Trip decision:** this window is **listen + recon first** ([STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §2). Re-earning trust after a large failure is **not** the same job as install.
+
+| Step | This trip (~2 weeks) | Later visit / window |
+|------|----------------------|----------------------|
+| 1 | Listen in Rumbacaca · $0 kit | — |
+| 2 | Baseline **interest** / forms started | Full baselines |
+| 3 | Quotes (G2 stretch) | Annex co-design |
+| 4 | Water/theft notes | Water F + legitimacy written |
+| 5 | **No install default** | Install only if RISK §5.2 green |
+| 6 | Publish what return felt like | Season data |
+| 7 | — | Unit 2 only under Plan A/B honesty |
 
 ---
 
-## 7. Open questions (fill on the ground)
+## 7. Open questions (fill on the ground / by operator)
 
 - [ ] Preferred ownership model A/B/C/D for first unit  
-- [ ] Max operator can fund in 2026 (private → publish when set)  
-- [ ] Local offtake prices (F) for veg/maize  
+- [ ] **Max operator can fund in 2026** — publish on WHO before unit capital  
+- [ ] Local offtake prices (F) for veg/maize — **if thin, Plan B**  
 - [ ] Who maintains pump when Jacques is in KSA  
-- [ ] Association role in selecting next households (fairness)  
+- [ ] Named local witness body for selection (fairness)  
+- [ ] Wind-down questions in [LESSONS_MZ.md](LESSONS_MZ.md) §1b (pay / herds / land)
 
 ---
 

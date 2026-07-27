@@ -70,16 +70,18 @@ We would rather publish “no entity yet” than imply an institution that does 
 3. If a funder has a commercial interest in an input we test (seed, solar, storage, feed), it is disclosed in the same document as the related result.
 4. Unit cost bands in [UNIT.md](UNIT.md) are planning ranges, not a raised budget.
 
-### Runway and stop scenario (honest gap)
+### Runway, ceiling, and stop scenario (honest gap)
 
 | Question | Public answer (27 Jul 2026) |
 |----------|----------------------------|
 | Total pilot budget | **Not itemized publicly yet** |
+| **Max kit capital Jacques will fund in 2026** | **Not set publicly** — **no unit install / kit spend** until published as a number or band ([VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) §3.6) |
 | Runway (months of self-funding left) | **Not disclosed as a number yet** — will be stated before any household depends on continuous support |
 | What if funding stops mid-season? | We **pause new installs**, publish a dated stop note in [UPDATES.md](UPDATES.md), and do **not** promise farmers money or kit we cannot deliver. Existing relationships get an honest status, not radio silence. |
 | Household dependency | We design against enrolling people into inputs they cannot replace; see [CHARTER.md](CHARTER.md) commitment 7 |
+| Growth if markets fail | **Plan B:** stop at few learning units + open autopsy — not fake scale ([VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) §4.5) |
 
-Until a runway figure is published, treat GroundYield as **founder-risk capital only** — not a funded programme with guaranteed continuity.
+Until a runway **and ceiling** figure is published, treat GroundYield as **founder-risk capital only** — not a funded programme with guaranteed continuity.
 
 ### External accountability (honest gap)
 

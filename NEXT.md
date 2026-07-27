@@ -23,18 +23,27 @@ Since this board last mattered, the repo already gained white paper, roadmap, ri
 
 ---
 
+## Trip = listen first (decision)
+
+Do **not** try to re-earn trust *and* install in the same ~2 weeks.  
+**Must-hit:** G1. **Stretch:** G2 + baseline starts + water/theft notes.  
+**Default off:** unit install (second visit). See [STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) · [GROUND_TRIP.md](GROUND_TRIP.md).
+
+**Before leaving (operator, private then public):** fill LESSONS §1b if you can — *were people paid?* often matters more locally than ~ZAR 10m.
+
 ## Big wins this window (human)
 
 | Rank | Win | You do | Artifact |
 |------|-----|--------|----------|
-| **1** | **Post Day-1 thread** (scars included) | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) **now includes LESSONS** | X URL → UPDATES |
-| **2** | **Post leaving + success def** | [X_FIELD_2WEEKS.md](X_FIELD_2WEEKS.md) P1–P2 | X |
+| **1** | **Post Day-1 thread** (scars included) | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) | X URL → UPDATES |
+| **2** | **Post leaving + success def** (listen-first trip) | [X_FIELD_2WEEKS.md](X_FIELD_2WEEKS.md) P1–P2 | X |
 | **3** | **Daily field notes** | X template + GROUND_TRIP | Honest empty days OK |
 | **4** | **G1 — real intro** | Rumbacaca listen; field kit | Dated GROUND_TRIP line |
-| **5** | **G2 — written quote** | Photo + SUPPLIERS | Price row |
+| **5** | **G2 — written quote** (stretch) | Photo + SUPPLIERS | Price row |
 | **6** | **Baseline form started** | No % claims | Draft / form |
-| **7** | **Water + theft notes** | Site walk | Trip log / SECURITY checklist |
+| **7** | **Water + theft + offtake recon** | Site / market walk | Trip log — feeds Plan B |
 | **8** | **End wrap** | X_FIELD_2WEEKS W1–W4 | Honest zeros OK |
+| **9** | **Publish ceiling or “no unit capital yet”** | WHO.md | Before any kit spend |
 
 Starlink / expert recruit / AI demos = **optional side** only if they don’t steal days from 4–7.
 

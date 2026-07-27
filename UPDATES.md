@@ -9,6 +9,12 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Strategic gaps closed in writing (Plan B, trip scope, scars, ceiling)
+
+- Cross-read of VALUE_AND_MONEY / LESSONS / SECURITY / WHY_FAILED surfaced **thinking** holes, not polish.
+- **[STRATEGIC_GAPS.md](STRATEGIC_GAPS.md)** companion: growth **Plan B** (stop at few units if markets fail); trip = **listen-first** (no install default); LESSONS open tables for **pay/herds/land** (operator must fill — not invented); charter vs “near impossible” reconciled; selection fairness process; **financial ceiling required before unit capital**.
+- Patches: VALUE_AND_MONEY, LESSONS_MZ, CHARTER, PARTNERSHIPS, GROUND_TRIP, NEXT, WHO.
+
 ## 27 Jul 2026 — Review fixes: PT parity, shared nav, scars in X/blog
 
 - **PT:** risk/theft summary, docs library + white paper/roadmap links, recent updates teaser, shared nav.
