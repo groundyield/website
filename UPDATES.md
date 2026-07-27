@@ -9,6 +9,13 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Launch pack: OUTREACH + X thread + day-one blog
+
+- **[OUTREACH.md](OUTREACH.md)** — promote process/honesty, not unproven charter numbers; specific non-money asks; ship-check gate before posting.
+- **[X_THREAD_DAY1.md](X_THREAD_DAY1.md)** — 8-post launch thread (≤280), AI disclosure as its own beat, unit registry = 0.
+- **[BLOG_DAY1.md](BLOG_DAY1.md)** — long-form day-one post including adversarial-review findings and AI disclosure.
+- Linked from TRACTION + README + homepage docs. **Do not log “thread live” until the X URL exists.**
+
 ## 27 Jul 2026 — Ops rails: unit registry page, CI, ship-check, outreach
 
 - **[/units.html](units.html)** — public unit registry with count **0** (ghost-unit killer; no rows until install).

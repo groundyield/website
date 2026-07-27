@@ -58,6 +58,10 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 | [TRIP_BUDGET.md](TRIP_BUDGET.md) | Travel ops budget envelope |
 | [SAFETY.md](SAFETY.md) | Trip safety & contingency |
 | [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) | Partnership outline (draft, not a contract) |
+| [TRACTION.md](TRACTION.md) | Anti-hype promotion strategy |
+| [OUTREACH.md](OUTREACH.md) | Honesty-first outreach playbook |
+| [X_THREAD_DAY1.md](X_THREAD_DAY1.md) | Ready X launch thread (copy-paste) |
+| [BLOG_DAY1.md](BLOG_DAY1.md) | Day-one long-form post |
 | [field/](field/) | **Offline field kit** — PDFs, interviews, forms |
 | [DEPLOY.md](DEPLOY.md) | **How production is deployed (Git → Vercel)** |
 | [data/](data/) | CSV schemas + BOM tables |

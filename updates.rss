@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 00:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Launch pack: honesty-first OUTREACH, X thread, day-one blog</title>
+      <link>https://github.com/groundyield/website/blob/main/OUTREACH.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-launch-pack</guid>
+      <pubDate>Tue, 28 Jul 2026 00:45:00 +0000</pubDate>
+      <description>OUTREACH.md, X_THREAD_DAY1.md (8 posts), BLOG_DAY1.md. Lead with unproven stage and AI disclosure, not yield %. Post only after ship-check.</description>
+    </item>
     <item>
       <title>Ops rails: public unit registry (0), CI, ship-check, outreach</title>
       <link>https://www.groundyield.org/units.html</link>

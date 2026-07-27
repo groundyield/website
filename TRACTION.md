@@ -166,13 +166,28 @@ Amplification before real data is mostly noise. We accept lower visibility now i
 
 ---
 
+## Ready-to-use launch copy
+
+| File | Use |
+|------|-----|
+| [OUTREACH.md](OUTREACH.md) | Playbook: honesty-first angle, pre-post gate, specific asks |
+| [X_THREAD_DAY1.md](X_THREAD_DAY1.md) | 8-post X thread (≤280 each) — **post only after ship-check** |
+| [BLOG_DAY1.md](BLOG_DAY1.md) | Long-form day-one post (incl. AI disclosure + adversarial review) |
+| [field/OUTREACH_EMAIL.md](field/OUTREACH_EMAIL.md) | PT/EN intro emails for local/supplier/buyer contact |
+
+**Angle:** “Built in public. Here’s day one. Here’s what’s unproven. Pressure-test us.”  
+**Not:** charter yield % or unit counts as if proven.
+
+---
+
 ## Related documents
 
-- [INTEGRITY.md](INTEGRITY.md) — anti-fraud rules that also govern public claims
-- [WHO.md](WHO.md) — who is accountable
-- [CHARTER.md](CHARTER.md) — what we publicly committed to
-- [CONTRIBUTING.md](CONTRIBUTING.md) — how others can help
-- [UPDATES.md](UPDATES.md) — changelog
+- [OUTREACH.md](OUTREACH.md) — promotion sequencing + asks  
+- [INTEGRITY.md](INTEGRITY.md) — anti-fraud rules that also govern public claims  
+- [WHO.md](WHO.md) — who is accountable  
+- [CHARTER.md](CHARTER.md) — binding process vs design aims  
+- [CONTRIBUTING.md](CONTRIBUTING.md) — how others can help  
+- [UPDATES.md](UPDATES.md) — changelog  
 
 ---
 
