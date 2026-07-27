@@ -175,8 +175,7 @@
       padding-left: 1rem;
       margin-bottom: 1.25rem;
     }
-    .update time,
-    .update-date {
+    .update time {
       display: block;
       font-size: 0.8rem;
       color: var(--muted);
@@ -193,14 +192,16 @@
     }
     .docs a,
     .links a,
-    .cta a {
+    .cta a,
+    a {
       color: var(--accent);
       text-decoration: none;
       font-weight: 500;
     }
     .docs a:hover,
     .links a:hover,
-    .cta a:hover {
+    .cta a:hover,
+    a:hover {
       text-decoration: underline;
     }
     .docs li {
@@ -259,9 +260,11 @@
       <section aria-labelledby="problem">
         <h2 id="problem">The Problem</h2>
         <p>
-          Smallholders operate far below potential yields. The gap is not primarily
-          knowledge or effort — it is reliable water, improved inputs, basic storage,
-          and timely advice. Most interventions are opaque and non-replicable.
+          Smallholders in Mozambique average roughly <strong>0.8–1.0 t/ha</strong> of maize —
+          well below regional potential and far below what improved seed, water, and
+          basic fertility can deliver. The gap is not primarily knowledge or effort;
+          it is reliable water, improved inputs, basic storage, and timely advice.
+          Most interventions remain opaque and non-replicable.
         </p>
       </section>
 
@@ -294,14 +297,18 @@
           <li>Improved / hybrid seeds + micro-dosing fertilizer</li>
           <li>Phone-based AI agronomy advice</li>
           <li>Hermetic storage to cut post-harvest loss</li>
-          <li>Optional poultry &amp; goat modules</li>
+          <li>Optional poultry & goat modules</li>
         </ul>
+        <p style="margin-top:1rem;color:var(--muted);font-size:0.95rem;">
+          Full bill of materials and cost bands: <a href="https://github.com/groundyield/website/blob/main/UNIT.md">UNIT.md</a>
+          (~$1,270–$2,985 per first modular unit, planning ranges).
+        </p>
       </section>
 
       <section aria-labelledby="roadmap">
         <h2 id="roadmap">Roadmap</h2>
         <div class="card">
-          <div class="phase"><strong>Phase 0 — Foundation (now)</strong><br>Public identity, open plan, ground trip, land &amp; community engagement</div>
+          <div class="phase"><strong>Phase 0 — Foundation (now)</strong><br>Public identity, open plan, ground trip, land & community engagement</div>
           <div class="phase"><strong>Phase 1 — First Units</strong><br>Secure land, deploy initial modules, establish baselines, start public data</div>
           <div class="phase"><strong>Phase 2 — Season 1 Proof</strong><br>Scale to 30–60 units, full public reporting, iterate openly</div>
           <div class="phase"><strong>Phase 3 — Replication</strong><br>Open playbook released. Others can copy with confidence.</div>
@@ -314,6 +321,16 @@
           <strong>Vilanculos</strong>, Inhambane Province, Mozambique.<br>
           Southern coast — relatively stable, existing smallholder systems,
           tourism market for fresh produce.
+        </p>
+      </section>
+
+      <section aria-labelledby="who">
+        <h2 id="who">Who Is Behind This</h2>
+        <p>
+          GroundYield is currently a self-funded open pilot. There is no registered
+          legal entity yet. Full named accountability, funding status, and conflict
+          disclosures are published in
+          <a href="https://github.com/groundyield/website/blob/main/WHO.md">WHO.md</a>.
         </p>
       </section>
 
@@ -331,20 +348,20 @@
         <ul class="docs">
           <li><a href="https://github.com/groundyield/website/blob/main/PLAN.md">PLAN.md</a> — Full plan, phases, principles</li>
           <li><a href="https://github.com/groundyield/website/blob/main/CHARTER.md">CHARTER.md</a> — Binding public commitments</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/UNIT.md">UNIT.md</a> — Modular Unit v0 (BOM + cost model)</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/WHO.md">WHO.md</a> — Named accountability and funding status</li>
           <li><a href="https://github.com/groundyield/website/blob/main/DATA.md">DATA.md</a> — What we measure and how we publish it</li>
           <li><a href="https://github.com/groundyield/website/blob/main/GROUND_TRIP.md">GROUND_TRIP.md</a> — Trip plan and field checklist</li>
-          <li><a href="https://github.com/groundyield/website/blob/main/data/README.md">data/</a> — Public dataset folder (baselines coming)</li>
         </ul>
       </section>
 
-      <section aria-labelledby="involve">
-        <h2 id="involve">Get Involved</h2>
+      <section aria-labelledby="contact">
+        <h2 id="contact">Contact</h2>
         <div class="card">
           <ul>
-            <li>Follow field updates on <a href="https://x.com/GroundYield">X</a></li>
-            <li>Read and comment on docs in the <a href="https://github.com/groundyield/website">GitHub repo</a></li>
-            <li>Email <a href="mailto:team@groundyield.org">team@groundyield.org</a> for partnerships, land, or community introductions</li>
-            <li>Replicate later — the model is MIT-licensed and open by design</li>
+            <li>Email: <a href="mailto:team@groundyield.org">team@groundyield.org</a></li>
+            <li>X: <a href="https://x.com/GroundYield">@GroundYield</a></li>
+            <li>GitHub: <a href="https://github.com/groundyield/website">groundyield/website</a></li>
           </ul>
         </div>
       </section>
@@ -353,7 +370,7 @@
         <h2 id="updates">Updates</h2>
         <article class="update">
           <time datetime="2026-07-27">27 Jul 2026</time>
-          <p>Public launch complete. Plan, Charter and Data standards published. Foundation phase. Trip planned: South Africa → Zimbabwe → Mozambique.</p>
+          <p>Public launch complete. Plan, Charter, Unit design (v0), Data standards, and accountability page published. Foundation phase. Trip planned: South Africa → Zimbabwe → Mozambique.</p>
         </article>
       </section>
 
@@ -366,13 +383,13 @@
           <a href="https://x.com/GroundYield" rel="noopener noreferrer">X →</a>
           <a href="https://github.com/groundyield/website" rel="noopener noreferrer">GitHub →</a>
           <a href="mailto:team@groundyield.org">Email →</a>
-          <a href="https://github.com/groundyield/website/blob/main/PLAN.md" rel="noopener noreferrer">Full Plan →</a>
+          <a href="https://github.com/groundyield/website/blob/main/UNIT.md" rel="noopener noreferrer">Unit Design →</a>
         </div>
       </div>
     </main>
 
     <footer>
-      <p>GroundYield · Open by design · 2026 · <a href="https://github.com/groundyield/website/blob/main/LICENSE">MIT</a></p>
+      <p>GroundYield · Open by design · 2026 · <a href="mailto:team@groundyield.org">team@groundyield.org</a> · <a href="https://github.com/groundyield/website/blob/main/LICENSE">MIT</a></p>
     </footer>
   </div>
 </body>
