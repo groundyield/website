@@ -1,47 +1,66 @@
 # X launch thread — Day 1 honesty (copy-paste)
 
 **Account:** @GroundYield  
-**Rule:** Lead with process, not unproven yields.  
-**Pre-post:** `./scripts/ship-check.sh` must pass (OG + favicon + units.html).  
-**Char count:** each post ≤280 plain text (URLs kept short; re-check in composer).
+**Rule:** Lead with process + scars, not unproven yields.  
+**Pre-post:** `./scripts/ship-check.sh` must pass.  
+**Also use:** [X_RETURN.md](X_RETURN.md) for extra scar/Rumbacaca posts after this thread.  
+**Char count:** each post ≤280 plain text (re-check in composer).
 
 Links:
 - https://www.groundyield.org  
+- https://www.groundyield.org/whitepaper.html  
+- https://www.groundyield.org/roadmap.html  
 - https://www.groundyield.org/units.html  
 - https://github.com/groundyield/website  
 
 ---
 
-## 1/8
+## 1/9
 
 ```
 GroundYield is public from day one.
 
 Open modular farm pilot · Vilanculos aim · Mozambique.
-Site + docs live. Operator named.
+Site + living white paper + roadmap live. Operator named.
 
-Also true: no land, no farmers enrolled, no quotes, no local baseline, no trip date.
+Also true: 0 units, 0 baselines, 0 field quotes.
 
 That’s the stage — not soft-launched results.
 
 www.groundyield.org
 ```
 
-## 2/8
+## 2/9 — scars (do not skip)
+
+```
+I’m not a tourist in Vilanculos.
+
+I farmed big there (~3,500 ha own era; larger partnership/Toro scale before).
+After COVID: costs + bad choices. Left. Loss order ~ZAR 10m (my disclosure).
+
+I do NOT claim those hectares today.
+I work HSE shutdowns in KSA. Pilot is self-funded + time-honest.
+
+Full scar: LESSONS_MZ on the site.
+```
+
+## 3/9
 
 ```
 What’s real now:
 
-• Open unit design (BOM + planning cost bands)
-• Integrity rules before first unit
-• Offline field kit (EN+PT)
-• Public unit registry with count = 0
+• Living white paper + roadmap (revise with data)
+• Unit BOM + planning cost bands
+• Integrity rules (no ghost units / fake %)
+• Risk + theft design
+• Offline field kit EN+PT
+• Registry count = 0
 
-We won’t claim “N deployed” without rows.
 www.groundyield.org/units.html
+www.groundyield.org/whitepaper.html
 ```
 
-## 3/8
+## 4/9
 
 ```
 What’s NOT real yet:
@@ -49,69 +68,70 @@ What’s NOT real yet:
 • 0 units in the ground
 • 0 measured local baselines
 • 0 written field quotes
+• No expert panel staffed yet
 • Scale/yield figures = design aims, not results
 
-Any % yield win must cite a dated baseline method — or call it a bug.
+Any % yield win must cite a dated baseline — or it’s a bug.
 ```
 
-## 4/8
+## 5/9
 
 ```
-How this was built: AI-assisted drafting (incl. tools like Grok). Jacques Theron is accountable for every public claim.
+Why go back small?
 
-If it reads machine-helped, it often was. Said first so it’s not concealment.
+Empire-scale opaque farming already failed me once.
+GroundYield: modular units, open costs, failures public.
+Return focus: Rumbacaca — people who know me. Listen first.
 
-“No BS” = honest stage + numbers, and dated corrections when we miss.
+Not rebuilding a cattle empire in silence.
 ```
 
-## 5/8
+## 6/9
+
+```
+How this was built: AI-assisted drafting (incl. tools like Grok).
+Jacques Theron is accountable for every public claim.
+
+AI farmer rates: still gated. Demos/choice only until review.
+“No BS” = honest stage + numbers + dated corrections.
+```
+
+## 7/9
 
 ```
 Why publish before the trip?
 
-Measurement rules before the temptation to invent wins.
-Ghost units, photo theater, fake baselines — designed against, not apologized for later.
+Rules before the temptation to invent wins.
+Ghost units, photo theater, fake baselines — designed against.
 
-Threat model:
-github.com/groundyield/website (INTEGRITY.md)
+Threat model + full docs:
+github.com/groundyield/website
 ```
 
-## 6/8
+## 8/9
 
 ```
-What we want (not money):
+What we want (not money in this post):
 
-• Vilanculos/Inhambane intro (legit contact)
-• Agronomist review of WhatsApp drafts BEFORE any farmer is messaged
+• Vilanculos/Inhambane intro (legit)
+• Agronomist review before any farmer WhatsApp rates
 • Written supplier quotes
-• Ruthless critique of UNIT / ECONOMICS
+• Ruthless critique of UNIT / risks
 
 team@groundyield.org · GitHub issues
 ```
 
-## 7/8
+## 9/9
 
 ```
-Hard lines:
+Hard lines: no FOMO, no join-up fees via random agents.
+If self-funding stops, we say so publicly.
 
-• No FOMO / “limited spots”
-• No join-up fees via random agents
-• Agronomy scripts FROZEN until review
-• If self-funding stops, we say so publicly
-
-Operator: Jacques Theron. Self-funded. No legal entity yet.
-```
-
-## 8/8
-
-```
 If this only produces docs and never measures a plot, we failed — and we’ll say so.
-
-If it works, data is public either way.
 
 www.groundyield.org
 Registry (0): www.groundyield.org/units.html
-Repo: github.com/groundyield/website
+Roadmap: www.groundyield.org/roadmap.html
 
 Pressure-test us.
 ```
@@ -120,10 +140,12 @@ Pressure-test us.
 
 ## Optional media
 
-- Homepage status: “Zero units · Zero baselines”  
+- Homepage or white paper  
 - `/units.html` showing **0**  
-- No stock farm photos as if they were pilot photos  
+- No stock farm photos as if pilot photos  
+- OG card is brand text only (no fake farm photo) — fine for share  
 
 ## After posting
 
-Append to UPDATES.md: date + URL of thread root. Only after live.
+Append to UPDATES.md: date + URL of thread root. Only after live.  
+Then optional [X_RETURN.md](X_RETURN.md) R3–R4 for Rumbacaca / open-source food.

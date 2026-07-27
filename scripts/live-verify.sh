@@ -89,6 +89,7 @@ check "/day1.html"
 check "/docs.html"
 check "/whitepaper.html"
 check "/roadmap.html"
+check "/site-nav.css"
 
 echo "----------------------------------------"
 curl -sL --max-time 25 "${BASE}/?${CB}" -o /tmp/gy_home.out

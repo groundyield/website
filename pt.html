@@ -9,6 +9,7 @@
   <meta name="author" content="Jacques Theron" />
   <link rel="canonical" href="https://www.groundyield.org/pt.html" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/site-nav.css" />
   <link rel="alternate" hreflang="en" href="https://www.groundyield.org/" />
   <link rel="alternate" hreflang="pt" href="https://www.groundyield.org/pt.html" />
   <meta property="og:type" content="website" />
@@ -96,15 +97,17 @@
 <body>
   <div class="container">
     <header>
-      <div class="logo">Ground<span>Yield</span></div>
+      <div class="logo"><a href="/pt.html" style="color:inherit;text-decoration:none">Ground<span>Yield</span></a></div>
       <p class="tagline">Piloto agrícola modular aberto · Vilanculos, Moçambique</p>
-      <p class="lang-bar">
-        <a href="/" hreflang="en">English</a> · Português ·
-        <a href="/whitepaper.html">White paper</a> ·
-        <a href="/roadmap.html">Roadmap</a> ·
-        <a href="/docs.html">Docs (EN)</a> ·
+      <nav class="site-nav" aria-label="Principal">
+        <a href="/" hreflang="en">English</a>
+        <a href="/pt.html" aria-current="page">Português</a>
+        <a href="/whitepaper.html">White paper</a>
+        <a href="/roadmap.html">Roadmap</a>
+        <a href="/docs.html">Docs</a>
         <a href="/units.html">Registo (0)</a>
-      </p>
+        <a href="/day1.html">Day one</a>
+      </nav>
     </header>
 
     <main>
@@ -222,26 +225,60 @@
       </section>
 
       <section>
-        <h2>Documentos</h2>
+        <h2>Riscos e roubo (resumo)</h2>
+        <p>
+          Roubo de painéis e bombas é risco real na região. Controlos: stake antes do aço, kit removível,
+          serials públicos, anexo escrito — sem marca de “guardas armados” por defeito.
+          Muitos projectos falharam por logística, custos, terra, formação e roubo.
+        </p>
         <p class="note">
-          Biblioteca completa (em inglês, por temas):
+          Detalhe (EN):
+          <a href="https://github.com/groundyield/website/blob/main/RISK_AND_GAPS.md">RISK_AND_GAPS.md</a> ·
+          <a href="https://github.com/groundyield/website/blob/main/SECURITY_THEFT.md">SECURITY_THEFT.md</a> ·
+          <a href="https://github.com/groundyield/website/blob/main/WHY_OTHERS_FAILED.md">WHY_OTHERS_FAILED.md</a>
+        </p>
+      </section>
+
+      <section>
+        <h2>Documentos e biblioteca</h2>
+        <p class="note">
+          Biblioteca completa por temas (maioria em inglês):
           <a href="/docs.html"><strong>docs.html</strong></a>
+          · Tese: <a href="/whitepaper.html">whitepaper.html</a>
+          · Fases: <a href="/roadmap.html">roadmap.html</a>
         </p>
         <ul class="docs">
           <li><a href="https://github.com/groundyield/website/blob/main/PT.md">PT.md</a> — resumo em português</li>
           <li><a href="https://github.com/groundyield/website/blob/main/PLAN.md">PLAN.md</a> — plano mestre</li>
           <li><a href="https://github.com/groundyield/website/blob/main/LESSONS_MZ.md">LESSONS_MZ.md</a> — falha anterior</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/RISK_AND_GAPS.md">RISK_AND_GAPS.md</a> — riscos e mitigações</li>
           <li><a href="https://github.com/groundyield/website/blob/main/INTEGRITY.md">INTEGRITY.md</a> — anti-fraude</li>
           <li><a href="https://github.com/groundyield/website/blob/main/UNIT.md">UNIT.md</a> — BOM e custos</li>
           <li><a href="/units.html">Registo (0)</a> · <a href="/field/GroundYield_Field_OnePager_EN_PT.pdf">Folha de campo PDF</a></li>
         </ul>
       </section>
 
+      <section>
+        <h2>Actualizações recentes</h2>
+        <p class="note">
+          Log completo (EN):
+          <a href="https://github.com/groundyield/website/blob/main/UPDATES.md">UPDATES.md</a>
+          · <a href="/updates.rss">RSS</a>
+        </p>
+        <ul class="docs">
+          <li>White paper + roadmap vivos (mudam com dados)</li>
+          <li>Site reorganizado: docs.html + navegação partilhada</li>
+          <li>Desenho de riscos, roubo, KPIs e caminho de IA (estágios)</li>
+          <li>Registo público continua em <strong>0</strong></li>
+        </ul>
+      </section>
+
       <div class="links">
         <a href="/docs.html">Docs →</a>
+        <a href="/whitepaper.html">White paper →</a>
+        <a href="/roadmap.html">Roadmap →</a>
         <a href="mailto:team@groundyield.org">Email →</a>
         <a href="https://x.com/GroundYield">X →</a>
-        <a href="https://github.com/groundyield/website">GitHub →</a>
         <a href="/units.html">Registo (0) →</a>
         <a href="/" hreflang="en">English →</a>
       </div>

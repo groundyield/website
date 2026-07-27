@@ -14,6 +14,18 @@ If you only remember one thing: **nothing has been measured on a pilot plot.** Z
 
 ---
 
+## Scars first (not a blank CV)
+
+I am **not** a tourist in Vilanculos. I previously farmed at scale in this area (own operation on the order of **~3,500 ha**; partnership-era context much larger, including livestock and national delivery work). After COVID-era cost pressure and **bad choices**, I left. Operator-disclosed loss order: **~ZAR 10 million**.
+
+I do **not** claim those hectares or businesses today. I currently work **HSE shutdowns in Saudi Arabia (Anabeeb)** — livelihood and time constraint, disclosed so remote-operator risk is not a surprise. Community return focus: **Rumbacaca**, people who already know me. Listen first.
+
+Full public summary: [LESSONS_MZ.md](LESSONS_MZ.md). Why others failed more broadly: [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md). Risks: [RISK_AND_GAPS.md](RISK_AND_GAPS.md).
+
+GroundYield is the opposite bet: **small modular units, open costs, public failures** — not a silent empire rebuild.
+
+---
+
 ## What exists
 
 - A public site and open repository: design notes, charter, integrity rules, Portuguese page, offline field pack (forms + one-pager).  
@@ -25,7 +37,7 @@ If you only remember one thing: **nothing has been measured on a pilot plot.** Z
 
 - Land access secured for the pilot  
 - Farmers enrolled  
-- Agronomy WhatsApp going to real phones (scripts are **frozen** until a qualified review)  
+- Agronomy rates to enrolled farmers (L2/L3) — **gated** until G5-A/B; L1 choice demos only ([AI_FIELD_PATH.md](AI_FIELD_PATH.md))  
 - An independent auditor, board, or NGO co-signer verifying claims  
 - A disclosed multi-month runway number (the stop scenario is described; the dollar figure is still a gap)
 
@@ -97,7 +109,11 @@ Contact: team@groundyield.org · [GitHub issues](https://github.com/groundyield/
 
 | Link | Why |
 |------|-----|
-| https://www.groundyield.org | Status + docs |
+| https://www.groundyield.org | Status + start paths |
+| https://www.groundyield.org/whitepaper.html | Living thesis |
+| https://www.groundyield.org/roadmap.html | Living phases |
+| https://www.groundyield.org/docs.html | Full doc library |
+| [LESSONS_MZ.md](LESSONS_MZ.md) | Prior failure scars |
 | https://www.groundyield.org/units.html | Registry = 0 |
 | [INTEGRITY.md](INTEGRITY.md) | Anti-fraud rules |
 | [CHARTER.md](CHARTER.md) | Binding process vs aims |

@@ -9,6 +9,14 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Review fixes: PT parity, shared nav, scars in X/blog
+
+- **PT:** risk/theft summary, docs library + white paper/roadmap links, recent updates teaser, shared nav.
+- **Shared nav:** `site-nav.css` on public pages (home, docs, whitepaper, roadmap, units, day1, pt).
+- **Scars before post:** [X_THREAD_DAY1.md](X_THREAD_DAY1.md) now includes LESSONS (~ZAR 10m / KSA / not claiming ha) as post 2/9; [BLOG_DAY1.md](BLOG_DAY1.md) + [day1.html](day1.html) scars section.
+- **NEXT.md:** paper freeze — no more strategy docs this window; G1/G2 human only.
+- OG image eyeballed: brand text card, no fake farm photo (OK for share).
+
 ## 27 Jul 2026 — Living white paper + proposed roadmap
 
 - **[WHITEPAPER.md](WHITEPAPER.md)** / **[whitepaper.html](whitepaper.html)** — v0.1-draft living thesis: problem, method, current evidence (0 units), open questions. Revises with data; revision log + UPDATES.

@@ -58,12 +58,26 @@ GitHub *.md       → deep detail (PLAN, RISK, field/, …)
 
 ---
 
+## Shared navigation
+
+All public pages load **`/site-nav.css`** and a common nav:
+Home · White paper · Roadmap · Docs · Registry (0) · Day one · Português  
+(Home also has Start + Contact anchors.)
+
+## OG image (eyeballed)
+
+`og-image.png` (1200×630): dark brand card — “Raising real yields on the ground.” + groundyield.org.  
+**No fake farm photo.** Fine for shares; optional later: add “Registry: 0” line if we redesign.
+
+## Paper freeze
+
+See [NEXT.md](NEXT.md): stop new strategy docs unless field-blocked. Human steps only.
+
 ## Still optional later
 
-- Shared CSS file (less copy-paste across HTML)  
 - Collapsible “for operators” on docs  
 - Auto-generate docs.html from a small YAML index  
-- Portuguese docs hub stub  
+- Full PT white paper pack  
 
 ---
 
