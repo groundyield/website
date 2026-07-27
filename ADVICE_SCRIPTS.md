@@ -2,7 +2,8 @@
 
 **Language:** Portuguese primary (Mozambique). English notes for operators.  
 **Channel:** Manual WhatsApp first ([AI_AGRONOMY.md](AI_AGRONOMY.md)).  
-**Status:** Draft scripts — not automated; no field users enrolled yet.
+**Status:** Draft scripts — not automated; no field users enrolled yet.  
+**Offline pocket copy:** [field/POCKET_SCRIPTS.md](field/POCKET_SCRIPTS.md) · full kit [field/FIELD_KIT.md](field/FIELD_KIT.md)
 
 ---
 

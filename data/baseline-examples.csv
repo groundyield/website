@@ -1,0 +1,3 @@
+unit_id,location,crop,local_yield_value,local_yield_unit,yield_kg_ha_estimate,season_year,water_source,seed_type,fertilizer_used,storage_method,notes,recorded_date,source
+EXAMPLE-ONLY-01,Vilanculos area (demo row — not real field data),maize,8,saco_50kg_est,,2024-25,rainfed,saved_seed,none,poly_bag_home,"EXAMPLE ROW — delete or ignore. Shows CSV shape. Conversion to kg/ha not done (E).",2026-07-27,example_template
+EXAMPLE-ONLY-02,Vilanculos area (demo row — not real field data),cassava,,,,"EXAMPLE: leave blanks when unknown. Do not invent 0.",2026-07-27,example_template

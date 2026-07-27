@@ -41,17 +41,35 @@ When dates lock, replace *TBD* here and add a line under **Public log** the same
 
 ---
 
+## Offline field pack (ready)
+
+Master index: **[field/FIELD_KIT.md](field/FIELD_KIT.md)**
+
+| Print / load on phone | Purpose |
+|----------------------|---------|
+| [field/GroundYield_Field_OnePager_EN_PT.pdf](field/GroundYield_Field_OnePager_EN_PT.pdf) | First contact handout EN+PT |
+| [field/GroundYield_Field_Forms_EN_PT.pdf](field/GroundYield_Field_Forms_EN_PT.pdf) | Consent + interview + baseline + quote blanks |
+| [field/INTERVIEW.md](field/INTERVIEW.md) | Full scripts |
+| [field/BASELINE_FORM.md](field/BASELINE_FORM.md) · [data/schema-baseline.csv](data/schema-baseline.csv) | Capture → CSV |
+| [field/CONSENT_SCRIPT.md](field/CONSENT_SCRIPT.md) | Plain-language consent |
+| [field/POCKET_SCRIPTS.md](field/POCKET_SCRIPTS.md) | WhatsApp pocket copy |
+| [SUPPLIERS.md](SUPPLIERS.md) · [data/quotes-template.csv](data/quotes-template.csv) | Quote log |
+
+---
+
 ## Pre-Trip
 
 - [ ] Confirm travel dates and route logistics → update table above
 - [ ] List candidate land / community contacts (private notes OK; public summary later)
-- [ ] Draft interview questions for farmers and local partners
-- [ ] Prepare baseline sheet (`data/schema-baseline.csv`)
+- [x] Draft interview questions for farmers and local partners → [field/INTERVIEW.md](field/INTERVIEW.md)
+- [x] Prepare baseline sheet (`data/schema-baseline.csv` + [field/BASELINE_FORM.md](field/BASELINE_FORM.md) + examples)
+- [x] Prepare quote capture (`data/quotes-template.csv` + SUPPLIERS.md)
+- [x] Consent script for field → [field/CONSENT_SCRIPT.md](field/CONSENT_SCRIPT.md)
 - [ ] Budget envelope for trip (publish after reconciliation)
 - [ ] Safety and contingency plan
 - [x] Confirm notification path to operator (GitHub merge mail for PR #1 received 27 Jul 2026)
 - [ ] Spot-check direct mail to `team@groundyield.org` (partnership inbox)
-- [x] Print [field/GroundYield_Field_OnePager_EN_PT.pdf](field/GroundYield_Field_OnePager_EN_PT.pdf) (EN+PT offline handout)
+- [x] Print / offline-load [field/](field/) pack (one-pager + forms PDFs)
 
 ---
 
@@ -103,4 +121,4 @@ _No field entries yet._
 
 ---
 
-Last updated: 27 July 2026
+Last updated: 27 July 2026 (field kit + forms PDF)

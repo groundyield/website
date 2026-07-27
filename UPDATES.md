@@ -9,6 +9,13 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Field kit (offline ops pack)
+
+- Full offline pack under [field/FIELD_KIT.md](field/FIELD_KIT.md): interview scripts (leader / farmer / supplier), plain-language consent, baseline paper form → CSV, WhatsApp pocket scripts.
+- Printable **[field/GroundYield_Field_Forms_EN_PT.pdf](field/GroundYield_Field_Forms_EN_PT.pdf)** (4 pages): consent ticks, interview prompts, baseline blanks, quote table.
+- Data templates: [data/quotes-template.csv](data/quotes-template.csv), [data/baseline-examples.csv](data/baseline-examples.csv) (example-only rows).
+- GROUND_TRIP pre-trip items for interviews/baseline/consent/quotes marked ready; dates and budget still open.
+
 ## 27 Jul 2026 — Vercel Git connected to groundyield/website
 
 - Production project **groundyield** is linked to **`github.com/groundyield/website`** (not the sluiper fork), production branch **`main`**.
