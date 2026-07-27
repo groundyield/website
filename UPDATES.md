@@ -9,6 +9,13 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Traction strategy published
+
+- **[TRACTION.md](TRACTION.md)** added: public promotion rules (anti-hype, evidence-first).
+- Defines primary audiences, X content pillars, long-form approach, direct outreach style, and metrics we actually care about.
+- Explicit bans on FOMO language, paid amplification before real data, and manufacturing progress.
+- Linked from README documents table.
+
 ## 27 Jul 2026 — Correction: early “shipped” claims + charter restraint
 
 - **Correction (append-only):** On day one, some UPDATES/site claims briefly treated assets or pages as live while production still returned 404 (partial deploys / wrong Git link). That violated our own “HTTP 200 before shipped” rule. Production now equals `groundyield/website` `main` and passes `scripts/live-verify.sh` — but the process miss stands as a real data point.
