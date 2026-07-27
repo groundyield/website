@@ -99,6 +99,17 @@ for needle in "Jacques Theron" "pt.html" "UNIT.md" "SEASON.md" "Field one-pager"
   fi
 done
 
+echo "----------------------------------------"
+curl -sL --max-time 25 "${BASE}/pt.html?${CB}" -o /tmp/gy_pt.out
+for needle in "Jacques Theron" "zero unidades" "Rumbacaca" "INTEGRITY" "PLAN.md" "LESSONS" "congelado" "Registo"; do
+  if grep -qi "$needle" /tmp/gy_pt.out; then
+    echo "OK   pt.html contains: ${needle}"
+  else
+    echo "FAIL pt.html missing: ${needle}"
+    FAIL=1
+  fi
+done
+
 curl -sL --max-time 25 "${BASE}/updates.rss?${CB}" -o /tmp/gy_rss.out
 rss_items=$(grep -c '<item>' /tmp/gy_rss.out || true)
 if [[ "${rss_items}" -lt 4 ]]; then

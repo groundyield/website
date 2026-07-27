@@ -9,6 +9,13 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Portuguese site review + pt.html parity
+
+- Full PT audit: [docs/PT_REVIEW.md](docs/PT_REVIEW.md).
+- **Finding:** [PT.md](PT.md) was mostly honest; **[pt.html](pt.html)** lagged badly (status, scars, freeze, PLAN/LESSONS, doc list).
+- **Fix:** rebuild pt.html to match EN critical claims (zero units, Rumbacaca, ~ZAR 10m disclosure, AI freeze, design aims, master plan links).
+- Deep technical docs remain English with PT entry points (intentional). Optional next: PLAN/CHARTER/WHO/LESSONS short PT packs for field paper.
+
 ## 27 Jul 2026 — Master open plan consolidation (gap fix)
 
 - **[PLAN.md](PLAN.md)** rewritten as the **master open plan**: status snapshot, mission, package, binding vs aims, phases with exit criteria, risks/gaps, capital/time honesty, full doc map, success/failure definitions, non-goals.

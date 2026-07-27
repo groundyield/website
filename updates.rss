@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 05:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 05:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Portuguese site review — pt.html honesty parity</title>
+      <link>https://www.groundyield.org/pt.html</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-pt-review</guid>
+      <pubDate>Tue, 28 Jul 2026 05:45:00 +0000</pubDate>
+      <description>Audit of PT surfaces. pt.html rebuilt to match EN critical honesty (0 units, Rumbacaca, operator loss disclosure, AI freeze). PT.md was already ahead. Deep docs stay EN.</description>
+    </item>
     <item>
       <title>Master open plan consolidated (PLAN.md)</title>
       <link>https://github.com/groundyield/website/blob/main/PLAN.md</link>
