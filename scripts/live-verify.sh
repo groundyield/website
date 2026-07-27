@@ -101,7 +101,7 @@ done
 
 echo "----------------------------------------"
 curl -sL --max-time 25 "${BASE}/pt.html?${CB}" -o /tmp/gy_pt.out
-for needle in "Jacques Theron" "zero unidades" "Rumbacaca" "INTEGRITY" "PLAN.md" "LESSONS" "congelado" "Registo"; do
+for needle in "Jacques Theron" "zero unidades" "Rumbacaca" "INTEGRITY" "PLAN.md" "LESSONS" "AI_FIELD_PATH" "Registo"; do
   if grep -qi "$needle" /tmp/gy_pt.out; then
     echo "OK   pt.html contains: ${needle}"
   else
