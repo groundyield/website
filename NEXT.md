@@ -36,10 +36,21 @@ Offline pack: print [one-pager](field/GroundYield_Field_OnePager_EN_PT.pdf) + [f
 
 ## Still frozen / forbidden
 
-- Agronomy WhatsApp to farmers ([ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md))  
+- **L2/L3** agronomy rates to enrolled farmers ([ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md)) until G5-A/B  
 - Yield % as results  
 - Unit count > 0 without [units.html](https://www.groundyield.org/units.html) rows  
 - Stock photos as “this pilot”  
+- Claiming “AI is live for the pilot” from L1 demos alone  
+
+## AI unfreeze (allowed now)
+
+| Do | Doc |
+|----|-----|
+| **L1 CHOICE demo** — show how phone helps *choose* (not prescribe chemicals) | [AI_FIELD_PATH.md](AI_FIELD_PATH.md) |
+| Recruit **expert panel** (email + WHO table when accepted) | AI_FIELD_PATH §4 · [WHO.md](WHO.md) |
+| Log demos in GROUND_TRIP | Trip log |
+
+Instant phone/Starlink answers for farmers = **G5-B**, after experts + G5-A.  
 
 ---
 

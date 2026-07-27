@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 08:45:00 +0000</lastBuildDate>
+    <item>
+      <title>AI staged unfreeze — demos, experts, field phone</title>
+      <link>https://github.com/groundyield/website/blob/main/AI_FIELD_PATH.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-ai-field-path</guid>
+      <pubDate>Tue, 28 Jul 2026 08:45:00 +0000</pubDate>
+      <description>AI_FIELD_PATH.md: L0–L1 open (ops + CHOICE demos that show how AI helps farmers decide). L2 reviewed WhatsApp after G5-A with expert panel. L3 instant phone/Starlink answers with expert escalation after G5-B. Panel recruiting — not claimed staffed yet. No unsupervised chemical rates.</description>
+    </item>
     <item>
       <title>Full risk assessment and gap analysis</title>
       <link>https://github.com/groundyield/website/blob/main/RISK_AND_GAPS.md</link>

@@ -37,7 +37,7 @@ Not: AI + Starlink as a substitute for land and water.
 | Written field supplier quotes | **0** (desk leads only) |
 | Legal entity | **None yet** |
 | Starlink agreement | **None** |
-| Live farmer AI advice | **Frozen** until G5 |
+| Live farmer AI advice | **L0–L1 open** (demos) · **L2/L3 closed** until G5-A/B ([AI_FIELD_PATH.md](AI_FIELD_PATH.md)) |
 | Prior large farming in area | **Yes — failed/left** (~ZAR 10m operator-disclosed loss) |
 | Community return focus | **Rumbacaca** (people who know Jacques) |
 
@@ -81,7 +81,7 @@ Calendar (indicative): [SEASON.md](SEASON.md)
 | Layer | Role | Doc |
 |-------|------|-----|
 | Connectivity | School-first Starlink hubs (1–3) if path real | [SYSTEM.md](SYSTEM.md) · [field/STARLINK_APPROACH.md](field/STARLINK_APPROACH.md) |
-| Intelligence | AI drafts; humans own rates | [AI_AGRONOMY.md](AI_AGRONOMY.md) |
+| Intelligence | CHOICE demos now; AI drafts + experts later | [AI_FIELD_PATH.md](AI_FIELD_PATH.md) · [AI_AGRONOMY.md](AI_AGRONOMY.md) |
 | Public truth | Registry, UPDATES, integrity | [INTEGRITY.md](INTEGRITY.md) |
 
 Full stack map: **[SYSTEM.md](SYSTEM.md)**
@@ -126,7 +126,7 @@ Gates G0–G6: [field/GATES.md](field/GATES.md)
 | Supplier quotes (G2) | ≥1 written price |
 | Baseline **starts** | Forms/CSV begun (not % claims) |
 | Starlink: map schools + power only | No community promises without path |
-| AI: ops only | Advice freeze holds |
+| AI: L0–L1 demos + expert recruit | L2 rates still closed |
 
 ### Phase 1 — First units
 
@@ -193,7 +193,7 @@ Data rules: [DATA.md](DATA.md) · Consent: [CONSENT.md](CONSENT.md)
 | No external auditor yet | Integrity process + public challenge path |
 | Gov/cost ramps (lived) | Small units; real quotes; exit dignity |
 | Tourism offtake unproven | Buyer interviews; ECONOMICS placeholders labeled |
-| AI legal/agronomy exposure | **Freeze** until review |
+| AI legal/agronomy exposure | Staged: L0–L1 open (demos); L2/L3 after G5-A/B + experts — [AI_FIELD_PATH.md](AI_FIELD_PATH.md) |
 | Starlink hype / dependency | School-first; who pays month 13 written first |
 | Over-promising on return to community | Listen first; no free-kit promises |
 | **Crime / theft of panels, pumps, harvest** | First-class design: [SECURITY_THEFT.md](SECURITY_THEFT.md) — stake before steel, moveable kit, serials, annex, few units |
@@ -244,7 +244,8 @@ Trip ops ≠ unit capital: [TRIP_BUDGET.md](TRIP_BUDGET.md) vs [UNIT.md](UNIT.md
 | [ECONOMICS.md](ECONOMICS.md) | Illustrative economics |
 | [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) | Community deal + capital protection |
 | [SEASON.md](SEASON.md) | Crop calendar |
-| [AI_AGRONOMY.md](AI_AGRONOMY.md) | Advice design (frozen send) |
+| [AI_FIELD_PATH.md](AI_FIELD_PATH.md) | **AI unfreeze · experts · phone/Starlink** |
+| [AI_AGRONOMY.md](AI_AGRONOMY.md) | Advice design (L2 send gated) |
 | [PARTNERSHIPS.md](PARTNERSHIPS.md) | Community principles |
 | [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) | Draft terms (not a contract) |
 

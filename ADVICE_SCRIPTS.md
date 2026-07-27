@@ -6,18 +6,26 @@
 
 ---
 
-## FREEZE — do not send to farmers yet
+## Freeze status (staged — see [AI_FIELD_PATH.md](AI_FIELD_PATH.md))
+
+| Level | Status | Meaning |
+|-------|--------|---------|
+| **L0** Ops AI | **Open** | Internal drafting, translate, plan work |
+| **L1** Show & choose demo | **Open** | Community demos of CHOICE helper; **no** enrolled-unit chemical rates as “pilot advice” |
+| **L2** AI draft + human send | **CLOSED** until **G5-A** | Scripts below not cleared for live enrolled units |
+| **L3** Instant field + experts | **CLOSED** until **G5-B** | No unsupervised instant rates |
 
 | | |
 |---|---|
-| **Status** | **DRAFT ONLY — NOT CLEARED FOR LIVE SEND** |
-| **Why** | No enrolled users; no local agronomist sign-off; no Mozambique legal review of advice or data practice |
-| **Allowed** | Internal design discussion; rewriting with qualified reviewers |
-| **Not allowed** | Messaging real farmers with fertilizer/pesticide/water rates from these drafts |
+| **Live enrolled send (L2)** | **DRAFT ONLY — NOT CLEARED** |
+| **Why still closed** | No enrolled users; no named agronomy reviewer on WHO yet; no legal review of advice/data practice |
+| **Allowed now** | Internal rewrite; expert recruitment; **L1 demos** (show how AI helps choose — see AI_FIELD_PATH) |
+| **Not allowed** | Messaging real farmers with fertilizer/pesticide/water **rates** from these drafts as GroundYield service |
 
 Safety bullets below are **intent**, not a substitute for licensed extension advice or legal counsel ([CONSENT.md](CONSENT.md)).
 
-When freeze lifts, this section will say who reviewed (name/org + date) before first send.
+When **G5-A** lifts, replace this table with: reviewer name/org + date + “L2 open”.  
+When **G5-B** lifts: add expert SLA + “L3 open”.
 
 ---
 

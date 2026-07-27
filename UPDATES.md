@@ -9,6 +9,14 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — AI staged unfreeze (show value · experts · phone)
+
+- **[AI_FIELD_PATH.md](AI_FIELD_PATH.md)** — how AI helps farmers **choose** (CHOICE framework); staged levels **L0–L1 open now**, **L2/L3 gated**.
+- **L1:** community/school demos — phone helps options + when to ask a person; **not** live chemical rates for enrolled units.
+- **Expert panel:** recruit agronomy (+ optional water/markets); ticket path when crop or AI is stuck; seats tracked on [WHO.md](WHO.md) when accepted.
+- **L3 target:** instant on-phone answers when there is signal or Starlink hub Wi‑Fi, with auto-escalate on hard cases — only after **G5-B**.
+- Gates split: **G5-A** (reviewed send) / **G5-B** (instant + experts). SYSTEM, ADVICE_SCRIPTS, AI_AGRONOMY, PLAN, NEXT, risks updated. Honest: panel **not staffed yet**.
+
 ## 27 Jul 2026 — Full risk assessment + gap analysis
 
 - **[RISK_AND_GAPS.md](RISK_AND_GAPS.md)** — scored risk register (strategy, community/land, theft, agronomy, markets, finance, integrity, AI/Starlink, trip); trap map from history; gap table vs G0–G6; trip actions §5.1; **hard checklist before unit capital** §5.2; kill criteria; residual risks we accept; one-page operator card.

@@ -50,7 +50,8 @@ Funding, conflicts, corrections: **[WHO.md](WHO.md)**.
 | [UNIT.md](UNIT.md) | Modular unit BOM + cost bands |
 | [IRRIGATION.md](IRRIGATION.md) · [ECONOMICS.md](ECONOMICS.md) · [SEASON.md](SEASON.md) | Design deep dives |
 | [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) | **Why communities join · capital protection · scale funding** |
-| [AI_AGRONOMY.md](AI_AGRONOMY.md) · [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) | Advice design (**send frozen**) |
+| [AI_FIELD_PATH.md](AI_FIELD_PATH.md) | **AI unfreeze path · expert panel · field phone** |
+| [AI_AGRONOMY.md](AI_AGRONOMY.md) · [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) | Advice design (L2 send until G5-A) |
 | [PARTNERSHIPS.md](PARTNERSHIPS.md) · [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) | Community / terms draft |
 | [GROUND_TRIP.md](GROUND_TRIP.md) · [TRIP_BUDGET.md](TRIP_BUDGET.md) · [SAFETY.md](SAFETY.md) | Trip |
 | [field/](field/) | Offline kit, contacts, Starlink approach, gates |

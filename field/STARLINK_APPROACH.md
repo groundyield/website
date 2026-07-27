@@ -131,6 +131,7 @@ If a pilot runs, publish monthly:
 | Power source & failures | Real rural constraint |
 | Students/teachers with scheduled access hours | Not “connected” vanity |
 | Incidents (theft, damage, abuse) | Integrity |
+| AI demos / later photo upload for advice | [AI_FIELD_PATH.md](../AI_FIELD_PATH.md) — hub Wi‑Fi can host L1 demos and later L3 access; does **not** auto-open G5 |
 | Cost per month (who paid) | Replicability |
 
 No fake student counts.

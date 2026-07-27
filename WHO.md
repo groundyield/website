@@ -27,6 +27,21 @@ If published data is wrong, **Jacques Theron** is responsible for correcting it.
 
 ---
 
+## Expert panel (agronomy advice) — recruiting
+
+**Status:** **Not staffed yet.** Target seats and process: [AI_FIELD_PATH.md](AI_FIELD_PATH.md).
+
+| Seat | Person / org | Status | Public credit OK? |
+|------|--------------|--------|-------------------|
+| Agronomy reviewer | — | Open | — |
+| Irrigation (optional) | — | Open | — |
+| Markets (optional) | — | Open | — |
+
+When someone accepts, add name (with consent), role, and date here **before** claiming G5-A.  
+Contact: [team@groundyield.org](mailto:team@groundyield.org) · subject “Expert panel”.
+
+---
+
 ## Legal status
 
 **Current:** no registered legal entity.

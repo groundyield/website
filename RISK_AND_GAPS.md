@@ -151,8 +151,8 @@ Update scores after trip when L/I change (dated note in §9).
 
 | ID | Risk | L | I | P | Mitigation | Residual | Owner | Gate / trigger |
 |----|------|---|---|---|------------|----------|-------|----------------|
-| X1 | **Wrong agronomy advice harms crop/people** | 3 | 4 | 12 | **AI send frozen** until G5; human review | 3 | Jacques | Freeze until lift date public |
-| X2 | **Legal exposure of advice** | 3 | 3 | 9 | No live advice; scripts labeled draft | 4 | Jacques | Legal review before G5 |
+| X1 | **Wrong agronomy advice harms crop/people** | 3 | 4 | 12 | Staged unfreeze: L1 demo only now; L2/L3 need G5-A/B + experts ([AI_FIELD_PATH](AI_FIELD_PATH.md)) | 4 | Jacques | No L2 rates until named reviewer |
+| X2 | **Legal exposure of advice** | 3 | 3 | 9 | No enrolled live rates; scripts draft; expert panel path | 4 | Jacques | Legal posture before G5-A |
 | X3 | **Starlink as substitute for farm package** | 2 | 3 | 6 | School-first; farm is water+seed | 3 | Jacques | STARLINK_APPROACH |
 | X4 | **Connectivity bill unpaid month 13** | 3 | 3 | 9 | Who pays written before install | 4 | School + Jacques | No install without payer |
 | X5 | **Deploy / site drift** (partial uploads, broken assets) | 2 | 2 | 4 | DEPLOY = main; ship-check | 2 | Jacques | CI + ship-check |
@@ -195,7 +195,7 @@ Climate (A6) residual stays **high** — we **accept** and size small, not “mi
 | Written supplier quotes | G2 / UNIT band | **0 priced** | Desk leads only | QUOTE_REQUESTS → SUPPLIERS |
 | Local baseline yields | G3 / any % | **0** | No measured plots | BASELINE_FORM on ground |
 | Named multi-household partner | G4 rollout language | **None** | No consenting partner on WHO | After trust + written terms |
-| Live farmer AI advice | G5 | **Frozen** | Review + legal | Do **not** close early |
+| Live farmer AI advice (L2/L3) | G5-A/B | **Closed** | L0–L1 open; need experts | [AI_FIELD_PATH](AI_FIELD_PATH.md) |
 | Installed units | G6 | **0** | Entire physical pilot | After A1/C2/T1/A4 |
 | Legal entity | Contracts, multi-unit money | **None** | Liability & banking | Plan when multi-unit justified |
 | External audit | Hard third-party trust | **None** | Self-report only | Integrity + later auditor if capital grows |
@@ -258,7 +258,7 @@ Climate (A6) residual stays **high** — we **accept** and size small, not “mi
 - [ ] Serial/photo inventory template ready (T1/T2)  
 - [ ] Offtake hypothesis written (even “household eat first”) (M1)  
 - [ ] Capital available for **this unit** without starving trip/life (F1)  
-- [ ] AI still **frozen** unless G5 lifted (X1)  
+- [ ] AI L2 still **closed** unless G5-A lifted (X1); L1 demo OK  
 - [ ] No free Starlink promise attached to farm unit (X3)  
 
 ### 5.3 After first install (season)
@@ -344,7 +344,7 @@ BEFORE UNIT MONEY LEAVES:
 □ Annex model A–D  □ Care path if I'm in KSA
 □ Quote dated      □ Offtake hypothesis
 □ Capital for THIS unit only
-□ AI still frozen  □ No fake promises
+□ AI L2 closed (or G5-A logged)  □ No fake promises
 
 IF IN DOUBT → DON'T INSTALL. PUBLISH WHY.
 ```

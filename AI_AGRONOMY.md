@@ -5,10 +5,16 @@ Last updated: 27 July 2026
 
 Phone-based advice is part of the core package. This document says **what it is**, **what it is not**, and **how we will measure it** so the pilot does not oversell “AI.”
 
-**LIVE SEND FREEZE:** Draft scripts in [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) are **not cleared** for real farmers until a qualified agronomy review and local legal/consent posture exist. Design work may continue; field messaging may not.
+**Staged unfreeze:** Full path (show value → experts → instant phone/Starlink) — **[AI_FIELD_PATH.md](AI_FIELD_PATH.md)**.
 
-**System context:** How AI sits with Starlink, physical units, and public truth — [SYSTEM.md](SYSTEM.md).  
-Connectivity (school hubs) does **not** lift this freeze by itself.
+| Level | Status |
+|-------|--------|
+| L0 Ops / L1 community **demo** (CHOICE helper) | **Open** |
+| L2 enrolled WhatsApp with AI draft + human/expert send | **Closed** until G5-A |
+| L3 instant field AI + expert backup | **Closed** until G5-B |
+
+Draft rate scripts in [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) stay **not cleared** for live enrolled send until G5-A.  
+**System context:** [SYSTEM.md](SYSTEM.md). Starlink alone does **not** open L2/L3.
 
 ---
 
@@ -114,10 +120,11 @@ If AI adds cost without engagement or outcomes, we **cut or redesign** it public
 
 ## Related
 
+- [AI_FIELD_PATH.md](AI_FIELD_PATH.md) — **unfreeze stages, expert panel, phone/Starlink, demos**  
 - [UNIT.md](UNIT.md) — cost band for advice layer  
 - [SEASON.md](SEASON.md) — what to say when  
 - [DATA.md](DATA.md) — public outcome metrics  
 - [CHARTER.md](CHARTER.md) — transparency commitments  
 
-**Status:** v0 design  
-**Next:** Draft Portuguese WhatsApp weekly script for maize + one cash crop; pick channel tooling after ground trip.
+**Status:** v0 design + staged unfreeze  
+**Next:** L1 demos on trip · recruit expert panel · G5-A before any enrolled rates.

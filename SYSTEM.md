@@ -11,6 +11,7 @@ It does not claim results. Targets stay aspirational until measured ([CHARTER.md
 | Deep dives | |
 |------------|--|
 | Starlink / schools approach | [field/STARLINK_APPROACH.md](field/STARLINK_APPROACH.md) |
+| AI field path (unfreeze · experts · phone) | [AI_FIELD_PATH.md](AI_FIELD_PATH.md) |
 | AI agronomy design | [AI_AGRONOMY.md](AI_AGRONOMY.md) |
 | Gates G0–G6 | [field/GATES.md](field/GATES.md) |
 | Integrity / anti-fraud | [INTEGRITY.md](INTEGRITY.md) |
@@ -36,9 +37,9 @@ Think in four layers. Only layer A is “the farm pilot.” B–D support it wit
 │     (what the world can verify)                             │
 ├─────────────────────────────────────────────────────────────┤
 │  C. INTELLIGENCE LAYER                                      │
-│     AI: draft advice, translate, summarize, flag risk       │
-│     Humans: agronomist review, extension, operator          │
-│     FREEZE on live farmer advice until G5                   │
+│     AI: CHOICE helper, draft advice, translate, flag risk   │
+│     Humans + expert panel: veto rates, hard cases           │
+│     L0–L1 open · L2/L3 until G5-A / G5-B (AI_FIELD_PATH)    │
 ├─────────────────────────────────────────────────────────────┤
 │  B. CONNECTIVITY LAYER                                      │
 │     Starlink at school/community hubs (1–3 pilots first)    │
@@ -76,11 +77,15 @@ Think in four layers. Only layer A is “the farm pilot.” B–D support it wit
 
 ### Layer C — Intelligence (AI + humans)
 
+Full path: **[AI_FIELD_PATH.md](AI_FIELD_PATH.md)**
+
 | Work | Output |
 |------|--------|
-| **Now (allowed)** | Draft docs, translate, summarize trip notes, stress-test plans, code/site |
-| **After G5 only** | WhatsApp/SMS agronomy prompts to enrolled units |
-| Always | Human veto on fertilizer/pesticide/water rates |
+| **L0 now** | Draft docs, translate, summarize trip notes, stress-test plans, code/site |
+| **L1 now** | Show & choose demos (community/school) — how AI helps **decide**, not replace farmer |
+| **L2 after G5-A** | WhatsApp/SMS to enrolled units; AI drafts; human/expert sends |
+| **L3 after G5-B** | Instant phone answers (signal or Starlink hub) + expert escalation |
+| Always | Human/expert veto on fertilizer/pesticide/water rates; escalate hard cases |
 
 ### Layer D — Public truth
 
