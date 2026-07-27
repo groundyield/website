@@ -9,6 +9,14 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Ground window next ~2 weeks + X field post pack
+
+- Operator states presence on the corridor within **the next ~2 weeks** (provisional **~27 Jul – 10 Aug 2026**; day-by-day still open).
+- [GROUND_TRIP.md](GROUND_TRIP.md): status → field window opening; decision log B (full corridor, may compress); public log line dated.
+- **[X_FIELD_2WEEKS.md](X_FIELD_2WEEKS.md)**: leaving posts, daily field-note template, quote/meeting/baseline/dead-end variants, end wrap — honesty-first, no yield claims.
+- Homepage status updated. Still zero units / zero baselines until measured.
+- X cadence: Day-1 thread (if not posted) → leaving posts → daily notes while on the ground.
+
 ## 27 Jul 2026 — Big-wins board: quote-request pack, trip scenarios, X follow-ups
 
 - **[NEXT.md](NEXT.md)** rewritten as ranked big wins + 7-day sprint (human actions over more docs).

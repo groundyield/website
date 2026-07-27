@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 02:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 02:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Ground window next ~2 weeks + X field post pack</title>
+      <link>https://github.com/groundyield/website/blob/main/X_FIELD_2WEEKS.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-field-window</guid>
+      <pubDate>Tue, 28 Jul 2026 02:45:00 +0000</pubDate>
+      <description>Provisional ground window ~27 Jul–10 Aug 2026 (SA→ZW→Vilanculos). X_FIELD_2WEEKS daily note templates. Still zero units and baselines. Day-1 thread + leaving posts ready to publish.</description>
+    </item>
     <item>
       <title>Big-wins board: quote requests, trip scenarios, X follow-ups</title>
       <link>https://github.com/groundyield/website/blob/main/NEXT.md</link>

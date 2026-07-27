@@ -1,40 +1,39 @@
 # Ground Trip — Field Checklist & Public Log
 
 **Route:** South Africa → Zimbabwe → Mozambique (Vilanculos area)  
-**Phase:** 0 — Foundation  
-**Status:** Planned (not yet underway)
+**Phase:** 0 — Foundation → **field window opening**  
+**Status:** **Provisional travel window next ~2 weeks** (operator statement 27 Jul 2026)
 
 This document is public. It will be updated with dates, findings, and course corrections.  
 **Truth rule:** Prefer incomplete honest notes over polished silence. Dead ends stay in the log.  
-**Integrity:** [INTEGRITY.md](INTEGRITY.md) — F/E/H marks, no invented baselines, dual evidence before headline claims.
+**Integrity:** [INTEGRITY.md](INTEGRITY.md) — F/E/H marks, no invented baselines, dual evidence before headline claims.  
+**X field posts:** [X_FIELD_2WEEKS.md](X_FIELD_2WEEKS.md)
 
 ---
 
-## Travel window (fill when fixed)
+## Travel window
 
 | Leg | Target dates | Status |
 |-----|--------------|--------|
-| South Africa | *TBD* | Not fixed |
-| Zimbabwe | *TBD* | Not fixed |
-| Mozambique (Vilanculos focus) | *TBD* | Not fixed |
+| Overall window | **~27 Jul – 10 Aug 2026** | **Provisional** (operator: “in the next 2 weeks I will be there”) |
+| South Africa | Within window | Transit / staging — exact days TBD |
+| Zimbabwe | Within window | Corridor leg — exact days TBD |
+| Mozambique (Vilanculos focus) | Within window | **Primary** — exact days TBD |
 
-When dates lock, replace *TBD* here and add a line under **Public log** the same day.
+Exact day-by-day itinerary may slip; correct this table the same day plans change.  
+Do not invent hotel-level precision.
 
-### Decision helper (pick a scenario — don’t invent precision)
-
-| Scenario | Shape | Choose if… | Trade-off |
-|----------|--------|------------|-----------|
-| **A — Scout-first** | Short MZ focus (Vilanculos), light SA transit | Time-limited; want G1/G2 fast | Less ZW learning |
-| **B — Full corridor** | SA → ZW → MZ as planned | Want regional context + suppliers en route | Longer / costlier |
-| **C — Desk + remote first** | Delay travel; 2–4 weeks outbound email/calls | Inbox/quotes first | Slower ground truth |
-
-**Decision log (fill one line when chosen):**
+### Decision log
 
 | Date | Scenario A/B/C | Provisional window | Notes |
 |------|----------------|--------------------|-------|
-| | | e.g. “2026-Q3 / month TBD” | |
+| 27 Jul 2026 | **B — Full corridor** (default; may compress to A) | ~27 Jul – 10 Aug 2026 | Operator committed to being on the ground within 2 weeks; day splits still open |
 
-Provisional is better than silent. Refine dates; don’t fake exact days.
+| Scenario | Shape | Notes for this window |
+|----------|--------|------------------------|
+| **A — Scout-first** | Heavy MZ / light corridor | Use if time collapses |
+| **B — Full corridor** | SA → ZW → MZ | Default while logistics allow |
+| **C — Desk first** | Delay travel | **Not selected** for this window |
 
 ---
 
@@ -82,7 +81,8 @@ Master index: **[field/FIELD_KIT.md](field/FIELD_KIT.md)**
 
 ## Pre-Trip
 
-- [ ] Confirm travel dates and route logistics → update table above
+- [x] Provisional travel window set (~27 Jul – 10 Aug 2026) — refine daily
+- [ ] Lock day-by-day logistics (flights/borders) → update table above
 - [ ] List candidate land / community contacts (private notes OK; public summary later)
 - [x] Draft interview questions for farmers and local partners → [field/INTERVIEW.md](field/INTERVIEW.md)
 - [x] Buyer / offtake interview → [field/BUYER_INTERVIEW.md](field/BUYER_INTERVIEW.md)
@@ -151,17 +151,17 @@ Master index: **[field/FIELD_KIT.md](field/FIELD_KIT.md)**
 
 ## Public log
 
-_No field or outreach public entries yet._  
-When G1 starts, add dated one-liners here (role/org type OK; no private phones).
-
 | Date | Note (public-safe) | Gate |
 |------|--------------------|------|
+| 27 Jul 2026 | Operator states ground presence within **next ~2 weeks** (provisional window ~27 Jul – 10 Aug 2026). Corridor SA→ZW→MZ still the aim; day splits open. X field post pack published. | pre-G1 |
 | | | |
+
+When G1 starts (real intro/meeting), add a dated one-liner (role/org type OK; no private phones).
 
 ## Notes Log
 
-_No field entries yet._
+_No field entries yet — fill during the window using [field/DAILY_LOG.md](field/DAILY_LOG.md)._
 
 ---
 
-Last updated: 27 July 2026 (trip scenarios A/B/C + public log table)
+Last updated: 27 July 2026 (provisional 2-week ground window + X field pack)

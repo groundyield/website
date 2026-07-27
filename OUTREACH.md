@@ -97,6 +97,7 @@ Never first-message “retweet us” or “donate.”
 | [BLOG_DAY1.md](BLOG_DAY1.md) / [day1.html](https://www.groundyield.org/day1.html) | Long honesty essay |
 | [NEXT.md](NEXT.md) | Big wins board + 7-day sprint |
 | [X_FOLLOWUPS.md](X_FOLLOWUPS.md) | Posts after Day-1 thread |
+| [X_FIELD_2WEEKS.md](X_FIELD_2WEEKS.md) | Leaving + daily field notes (~2 week window) |
 | [field/OUTREACH_EMAIL.md](field/OUTREACH_EMAIL.md) | PT/EN intro emails |
 | [field/QUOTE_REQUESTS.md](field/QUOTE_REQUESTS.md) | Ready supplier quote emails (G2) |
 | [field/CONTACT_LOG.md](field/CONTACT_LOG.md) | Outreach tracking (no private phones) |
