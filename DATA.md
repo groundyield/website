@@ -33,9 +33,12 @@ How GroundYield will publish numbers.
 ## Current Status
 
 No field data yet.  
-Foundation phase — baselines will be collected during and after the ground trip.
+Foundation phase — baselines start on the ground window ([GROUND_TRIP.md](GROUND_TRIP.md)).  
+Schemas live under [data/](data/). Registry: [units.html](units.html) = **0**.
 
-When data exists it will appear here and on the website Updates section.
+Master plan: [PLAN.md](PLAN.md). Integrity: [INTEGRITY.md](INTEGRITY.md).
+
+When data exists it will appear in `data/`, UPDATES, and the site.
 
 ---
 

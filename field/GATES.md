@@ -13,6 +13,8 @@ Public checklist so we do not skip straight from docs to household dependency.
 | **G6 Unit count** | “N units deployed” | N rows installed/active on /units.html + data/units.csv |
 
 **Current (27 Jul 2026):** G0 only. G1–G6 open.  
-Desk leads for G2 call list: [SUPPLIERS.md](../SUPPLIERS.md) (not quotes yet).
+**G1 path:** return to **Rumbacaca** (existing trust) + [LOCAL_CONTACTS.md](LOCAL_CONTACTS.md).  
+**G2 path:** [SUPPLIERS.md](../SUPPLIERS.md) + [QUOTE_REQUESTS.md](QUOTE_REQUESTS.md) (desk leads; no priced quotes yet).  
+**Master plan:** [PLAN.md](../PLAN.md) · history: [LESSONS_MZ.md](../LESSONS_MZ.md)
 
 Related: [INTEGRITY.md](../INTEGRITY.md) · [GROUND_TRIP.md](../GROUND_TRIP.md) · [OUTREACH_EMAIL.md](OUTREACH_EMAIL.md) · [CONTACT_LOG.md](CONTACT_LOG.md)

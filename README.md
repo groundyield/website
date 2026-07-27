@@ -34,41 +34,28 @@ Funding, conflicts, corrections: **[WHO.md](WHO.md)**.
 
 ## Documents
 
+**Start here:** [**PLAN.md**](PLAN.md) (master open plan) · [SYSTEM.md](SYSTEM.md) · [LESSONS_MZ.md](LESSONS_MZ.md) · [NEXT.md](NEXT.md)
+
 | File | Purpose |
 |------|--------|
-| [PLAN.md](PLAN.md) | Full public plan — problem, approach, phases |
-| [**SYSTEM.md**](SYSTEM.md) | **What we do + Starlink + AI roles** |
-| [CHARTER.md](CHARTER.md) | Binding public commitments and Season 1 targets |
-| [UNIT.md](UNIT.md) | Modular Unit v0 — BOM + cost bands |
-| [IRRIGATION.md](IRRIGATION.md) | Per-unit vs shared irrigation design |
-| [ECONOMICS.md](ECONOMICS.md) | Illustrative unit economics (not forecasts) |
-| [SEASON.md](SEASON.md) | Crop & season calendar |
-| [AI_AGRONOMY.md](AI_AGRONOMY.md) | Phone/AI advice design |
-| [PARTNERSHIPS.md](PARTNERSHIPS.md) | Community & land principles |
+| [**PLAN.md**](PLAN.md) | **Master open plan** — problem, package, phases, risks, doc map |
+| [SYSTEM.md](SYSTEM.md) | Physical + Starlink + AI roles |
+| [CHARTER.md](CHARTER.md) | Binding process vs design aims |
+| [LESSONS_MZ.md](LESSONS_MZ.md) | Prior MZ farming failure → why modular/open |
+| [INTEGRITY.md](INTEGRITY.md) | Anti-fraud (top policy) |
 | [WHO.md](WHO.md) | Accountability, funding, conflicts |
-| [**INTEGRITY.md**](INTEGRITY.md) | **Anti-fraud & integrity (top policy)** |
-| [**TRACTION.md**](TRACTION.md) | **How we seek attention without hype** |
-| [PT.md](PT.md) / [pt.html](pt.html) | **Resumo em português** (site + markdown) |
-| [SUPPLIERS.md](SUPPLIERS.md) | Quote log template for field prices |
-| [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) | WhatsApp/SMS scripts (PT) v0 |
-| [CONSENT.md](CONSENT.md) | Privacy, consent, safeguarding |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | How to help |
-| [DATA.md](DATA.md) | What we measure and how we publish it |
-| [SOURCES.md](SOURCES.md) | Citations for public claims |
-| [UPDATES.md](UPDATES.md) | Changelog (source of truth) |
-| [GROUND_TRIP.md](GROUND_TRIP.md) | Trip checklist (SA → ZW → MZ) |
-| [TRIP_BUDGET.md](TRIP_BUDGET.md) | Travel ops budget envelope |
-| [SAFETY.md](SAFETY.md) | Trip safety & contingency |
-| [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) | Partnership outline (draft, not a contract) |
-| [TRACTION.md](TRACTION.md) | Anti-hype promotion strategy |
-| [OUTREACH.md](OUTREACH.md) | Honesty-first outreach playbook |
-| [X_THREAD_DAY1.md](X_THREAD_DAY1.md) | Ready X launch thread (copy-paste) |
-| [BLOG_DAY1.md](BLOG_DAY1.md) / [day1.html](day1.html) | Day-one essay (md + shareable page) |
-| [NEXT.md](NEXT.md) | **What to do next** (operator board) |
-| [field/](field/) | **Offline field kit** — PDFs, interviews, forms |
-| [DEPLOY.md](DEPLOY.md) | **How production is deployed (Git → Vercel)** |
-| [data/](data/) | CSV schemas + BOM tables |
-| [LICENSE](LICENSE) | MIT — open by design |
+| [UNIT.md](UNIT.md) | Modular unit BOM + cost bands |
+| [IRRIGATION.md](IRRIGATION.md) · [ECONOMICS.md](ECONOMICS.md) · [SEASON.md](SEASON.md) | Design deep dives |
+| [AI_AGRONOMY.md](AI_AGRONOMY.md) · [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) | Advice design (**send frozen**) |
+| [PARTNERSHIPS.md](PARTNERSHIPS.md) · [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) | Community / terms draft |
+| [GROUND_TRIP.md](GROUND_TRIP.md) · [TRIP_BUDGET.md](TRIP_BUDGET.md) · [SAFETY.md](SAFETY.md) | Trip |
+| [field/](field/) | Offline kit, contacts, Starlink approach, gates |
+| [SUPPLIERS.md](SUPPLIERS.md) · [DATA.md](DATA.md) · [SOURCES.md](SOURCES.md) | Quotes & measurement |
+| [CONSENT.md](CONSENT.md) · [CONTRIBUTING.md](CONTRIBUTING.md) | Consent & help |
+| [TRACTION.md](TRACTION.md) · [OUTREACH.md](OUTREACH.md) | Attention without hype |
+| [UPDATES.md](UPDATES.md) · [DEPLOY.md](DEPLOY.md) | Changelog · production |
+| [PT.md](PT.md) / [pt.html](pt.html) · [day1.html](day1.html) · [units.html](units.html) | Public pages |
+| [LICENSE](LICENSE) | MIT |
 
 ### After every production deploy
 
@@ -84,13 +71,15 @@ A transparent pilot of modular farm units for smallholders:
 
 - Solar irrigation
 - Improved seeds + micro-dosing fertilizer
-- AI agronomy advice
+- AI agronomy advice (**after review** — frozen for live send now)
 - Hermetic storage
 - Optional poultry & goat modules
+- Optional school connectivity path (Starlink) — not a farm substitute
 
 Planning cost band (Year 0, first unit): **~$1,270–$2,985 USD** — see [UNIT.md](UNIT.md).
 
-Everything is published openly: design, costs, yields, incomes, and failures.
+Everything material is published openly: design, costs, yields, incomes, and failures.  
+**Master plan:** [PLAN.md](PLAN.md) · **0 units** on [units.html](https://www.groundyield.org/units.html).
 
 ## Public Charter (Season 1)
 

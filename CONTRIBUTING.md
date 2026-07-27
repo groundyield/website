@@ -26,7 +26,8 @@ Thank you for caring about open, measurable smallholder pilots.
 3. Link sources for yield, price, or policy claims.  
 4. Match existing tone: plain, measurable, failure-tolerant, integrity-first ([INTEGRITY.md](INTEGRITY.md)).  
 5. Never invent field numbers or “clean up” failures in a PR without a dated correction note.  
-6. MIT license — contributions are under the same license.
+6. Keep [PLAN.md](PLAN.md) as the master plan — deep dives link back; don’t fork a second “master strategy.”  
+7. MIT license — contributions are under the same license.
 
 ## Conduct
 

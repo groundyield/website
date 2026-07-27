@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 04:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 05:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Master open plan consolidated (PLAN.md)</title>
+      <link>https://github.com/groundyield/website/blob/main/PLAN.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-master-plan</guid>
+      <pubDate>Tue, 28 Jul 2026 05:15:00 +0000</pubDate>
+      <description>PLAN.md is the master open plan: phases with exits, risks, doc map, Rumbacaca return, Starlink/AI, honest status (0 units). README/PT/homepage aligned. Field execution is the remaining gap.</description>
+    </item>
     <item>
       <title>Operator history: prior Vilanculos scale farming failure</title>
       <link>https://github.com/groundyield/website/blob/main/LESSONS_MZ.md</link>

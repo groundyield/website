@@ -9,6 +9,13 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Master open plan consolidation (gap fix)
+
+- **[PLAN.md](PLAN.md)** rewritten as the **master open plan**: status snapshot, mission, package, binding vs aims, phases with exit criteria, risks/gaps, capital/time honesty, full doc map, success/failure definitions, non-goals.
+- Aligned with [CHARTER.md](CHARTER.md), [SYSTEM.md](SYSTEM.md), [LESSONS_MZ.md](LESSONS_MZ.md), [field/GATES.md](field/GATES.md).
+- [README.md](README.md) doc table de-duplicated; start-here pointers. [PT.md](PT.md) brought in line (0 units, aspirational metas, Rumbacaca, freeze).
+- Homepage roadmap + PLAN link updated. Remaining work is field execution, not more plan chapters.
+
 ## 27 Jul 2026 — Operator history: prior MZ scale farming failure
 
 - **[LESSONS_MZ.md](LESSONS_MZ.md)** — Jacques discloses prior Vilanculos-area farming (~3,500 ha own era), Toro Ranch partnership context (much larger scale, livestock, national delivery), exit ~5 years post-COVID (costs + bad choices), operator-disclosed loss order **~ZAR 10 million**.
