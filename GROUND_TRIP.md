@@ -1,10 +1,23 @@
-# Ground Trip — Field Checklist
+# Ground Trip — Field Checklist & Public Log
 
 **Route:** South Africa → Zimbabwe → Mozambique (Vilanculos area)  
 **Phase:** 0 — Foundation  
 **Status:** Planned (not yet underway)
 
-This document is public. It will be updated with dates, contacts (as appropriate), findings, and course corrections.
+This document is public. It will be updated with dates, findings, and course corrections.  
+**Truth rule:** Prefer incomplete honest notes over polished silence. Dead ends stay in the log.
+
+---
+
+## Travel window (fill when fixed)
+
+| Leg | Target dates | Status |
+|-----|--------------|--------|
+| South Africa | *TBD* | Not fixed |
+| Zimbabwe | *TBD* | Not fixed |
+| Mozambique (Vilanculos focus) | *TBD* | Not fixed |
+
+When dates lock, replace *TBD* here and add a line under **Public log** the same day.
 
 ---
 
@@ -12,20 +25,31 @@ This document is public. It will be updated with dates, contacts (as appropriate
 
 1. Confirm land and community partnership options near Vilanculos
 2. Collect **baseline** yield and practice notes before any intervention claims
-3. Map suppliers for irrigation, seed, fertilizer, and storage
+3. Map suppliers for irrigation, seed, fertilizer, and storage — **real quotes**
 4. Understand local constraints (water, markets, transport, seasonality)
-5. Publish what we learn — including dead ends
+5. Publish what we learn — including false starts
+
+---
+
+## Truth rules for this log
+
+- Record what was **observed**, not what we hoped
+- Separate **fact** / **estimate** / **hearsay**
+- Prices and yields get units and date
+- Names of private individuals are not published without consent
+- If a lead dies, write “closed — reason” instead of deleting the row
 
 ---
 
 ## Pre-Trip
 
-- [ ] Confirm travel dates and route logistics
-- [ ] List candidate land / community contacts
+- [ ] Confirm travel dates and route logistics → update table above
+- [ ] List candidate land / community contacts (private notes OK; public summary later)
 - [ ] Draft interview questions for farmers and local partners
-- [ ] Prepare baseline data sheet (see `data/schema-baseline.csv`)
+- [ ] Prepare baseline sheet (`data/schema-baseline.csv`)
 - [ ] Budget envelope for trip (publish after reconciliation)
 - [ ] Safety and contingency plan
+- [ ] Confirm `team@groundyield.org` receives test mail
 
 ---
 
@@ -48,7 +72,7 @@ This document is public. It will be updated with dates, contacts (as appropriate
 ### Water & energy
 - [ ] Groundwater / surface water options
 - [ ] Solar pump suppliers and installers in region
-- [ ] Rough cost bands for a modular irrigation kit
+- [ ] Rough **quoted** cost bands for a modular irrigation kit (replace UNIT.md v0)
 
 ### Supply chain
 - [ ] Improved / hybrid seed availability and cost
@@ -69,15 +93,34 @@ This document is public. It will be updated with dates, contacts (as appropriate
 |-------------|----------|
 | Trip narrative + dates | This file + website Updates |
 | Baseline notes (anonymized as needed) | `data/` |
-| Supplier shortlist | New doc or section in PLAN |
-| Land / partnership options (non-sensitive) | PLAN or dedicated note |
-| Failures and false starts | Updates + this file |
+| Supplier quotes | Update UNIT.md + `data/unit-bom-v0.csv` → v1 |
+| Land / partnership options (non-sensitive) | PARTNERSHIPS.md or PLAN |
+| Failures and false starts | This log + Updates |
 
 ---
 
-## Notes Log
+## Public log
 
-_No field entries yet._
+| Date | Location | Entry | Type |
+|------|----------|-------|------|
+| 2026-07-27 | — | Foundation docs live (UNIT, ECONOMICS, SEASON, AI, PARTNERSHIPS, WHO). Trip not started. | fact |
+
+_Add a row after each meaningful day or decision. Do not rewrite history — append corrections as new rows._
+
+---
+
+## Quote tracker (fill on trip)
+
+| Item | Supplier / place | Quote (currency) | Date | Notes |
+|------|------------------|------------------|------|-------|
+| | | | | |
+
+---
+
+## Baseline tracker (fill on trip)
+
+Link or paste anonymized rows into `data/` using `schema-baseline.csv`.  
+Until then: **no yield claims beyond national public averages.**
 
 ---
 
