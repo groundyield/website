@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 07:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 08:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Full risk assessment and gap analysis</title>
+      <link>https://github.com/groundyield/website/blob/main/RISK_AND_GAPS.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-risk-gaps</guid>
+      <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+      <description>RISK_AND_GAPS.md: scored register across strategy, land, theft, water/training, markets, capital, integrity, AI freeze, trip safety. Gap table vs gates G0–G6. Trip mitigations and hard checklist before any unit capital. Kill criteria and residual risks we accept honestly.</description>
+    </item>
     <item>
       <title>Why others failed + theft control design</title>
       <link>https://github.com/groundyield/website/blob/main/WHY_OTHERS_FAILED.md</link>

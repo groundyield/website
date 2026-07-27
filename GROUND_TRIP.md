@@ -79,6 +79,7 @@ Master index: **[field/FIELD_KIT.md](field/FIELD_KIT.md)**
 | [SAFETY.md](SAFETY.md) | Contingency + stop rules |
 | [SECURITY_THEFT.md](SECURITY_THEFT.md) | Kit theft / crime control design |
 | [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) | Failure modes map (desk + field notes) |
+| [RISK_AND_GAPS.md](RISK_AND_GAPS.md) | Risk scores · gap table · trip mitigations §5.1 |
 | [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) | Plain-language partnership outline (not a contract) |
 
 ---

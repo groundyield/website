@@ -9,6 +9,11 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Full risk assessment + gap analysis
+
+- **[RISK_AND_GAPS.md](RISK_AND_GAPS.md)** — scored risk register (strategy, community/land, theft, agronomy, markets, finance, integrity, AI/Starlink, trip); trap map from history; gap table vs G0–G6; trip actions §5.1; **hard checklist before unit capital** §5.2; kill criteria; residual risks we accept; one-page operator card.
+- Wired from PLAN §9, GATES, NEXT, README, homepage, failure/theft docs. Re-score after field trip.
+
 ## 27 Jul 2026 — Why others failed + theft control
 
 - **[WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md)** — synthesis of why many agri attempts in Mozambique failed: logistics, cost ramps, land conflict, skills, thin markets, mega-programme under-delivery, and **solar/pump theft**.

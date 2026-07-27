@@ -15,6 +15,8 @@ Public checklist so we do not skip straight from docs to household dependency.
 **Current (27 Jul 2026):** G0 only. G1–G6 open.  
 **G1 path:** return to **Rumbacaca** (existing trust) + [LOCAL_CONTACTS.md](LOCAL_CONTACTS.md).  
 **G2 path:** [SUPPLIERS.md](../SUPPLIERS.md) + [QUOTE_REQUESTS.md](QUOTE_REQUESTS.md) (desk leads; no priced quotes yet).  
-**Master plan:** [PLAN.md](../PLAN.md) · history: [LESSONS_MZ.md](../LESSONS_MZ.md) · failures map: [WHY_OTHERS_FAILED.md](../WHY_OTHERS_FAILED.md) · theft: [SECURITY_THEFT.md](../SECURITY_THEFT.md)
+**Master plan:** [PLAN.md](../PLAN.md) · history: [LESSONS_MZ.md](../LESSONS_MZ.md) · failures map: [WHY_OTHERS_FAILED.md](../WHY_OTHERS_FAILED.md) · theft: [SECURITY_THEFT.md](../SECURITY_THEFT.md) · risks: [RISK_AND_GAPS.md](../RISK_AND_GAPS.md)
+
+**Before first unit capital:** run [RISK_AND_GAPS.md](../RISK_AND_GAPS.md) §5.2 hard checklist (water F, land legitimacy, custodian trained, theft plan, care path if remote).
 
 Related: [INTEGRITY.md](../INTEGRITY.md) · [GROUND_TRIP.md](../GROUND_TRIP.md) · [OUTREACH_EMAIL.md](OUTREACH_EMAIL.md) · [CONTACT_LOG.md](CONTACT_LOG.md)

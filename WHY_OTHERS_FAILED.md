@@ -5,7 +5,7 @@ Last updated: 27 July 2026
 **Truth:** Secondary sources (H) + operator lived experience (E until records).  
 **Not:** a claim that GroundYield is immune. **Is:** a map of known failure modes so we design against them.
 
-Related: [LESSONS_MZ.md](LESSONS_MZ.md) · [SECURITY_THEFT.md](SECURITY_THEFT.md) · [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) · [PLAN.md](PLAN.md) · [SOURCES.md](SOURCES.md)
+Related: [LESSONS_MZ.md](LESSONS_MZ.md) · [SECURITY_THEFT.md](SECURITY_THEFT.md) · [RISK_AND_GAPS.md](RISK_AND_GAPS.md) · [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) · [PLAN.md](PLAN.md) · [SOURCES.md](SOURCES.md)
 
 ---
 

@@ -4,7 +4,7 @@
 Last updated: 27 July 2026  
 **Status:** Design controls v0 — to be stress-tested in Rumbacaca / Vilanculos  
 
-Related: [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) · [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) · [UNIT.md](UNIT.md) · [SAFETY.md](SAFETY.md) · [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md)
+Related: [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) · [RISK_AND_GAPS.md](RISK_AND_GAPS.md) · [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) · [UNIT.md](UNIT.md) · [SAFETY.md](SAFETY.md) · [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md)
 
 ---
 

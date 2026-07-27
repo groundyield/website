@@ -7,7 +7,7 @@ Last updated: 27 July 2026
 Transparency without integrity is a marketing brochure.  
 This document is **how we fight fraud, self-deception, and gaming** before the first unit is installed — not after a scandal.
 
-Related: [CHARTER.md](CHARTER.md) · [DATA.md](DATA.md) · [WHO.md](WHO.md) · [SUPPLIERS.md](SUPPLIERS.md) · [CONSENT.md](CONSENT.md) · [GROUND_TRIP.md](GROUND_TRIP.md)
+Related: [CHARTER.md](CHARTER.md) · [DATA.md](DATA.md) · [WHO.md](WHO.md) · [SUPPLIERS.md](SUPPLIERS.md) · [CONSENT.md](CONSENT.md) · [GROUND_TRIP.md](GROUND_TRIP.md) · [RISK_AND_GAPS.md](RISK_AND_GAPS.md)
 
 ---
 

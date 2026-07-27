@@ -183,6 +183,9 @@ Data rules: [DATA.md](DATA.md) · Consent: [CONSENT.md](CONSENT.md)
 
 ## 9. Known risks and gaps (open)
 
+**Full register, scores, gap table, pre-unit checklist, kill criteria:**  
+**[RISK_AND_GAPS.md](RISK_AND_GAPS.md)** (v1 desk · re-score after trip)
+
 | Risk / gap | Mitigation / status |
 |------------|---------------------|
 | Operator remote (KSA HSE job) | Don’t enroll continuous dependency; stop rules public |
@@ -195,6 +198,7 @@ Data rules: [DATA.md](DATA.md) · Consent: [CONSENT.md](CONSENT.md)
 | Over-promising on return to community | Listen first; no free-kit promises |
 | **Crime / theft of panels, pumps, harvest** | First-class design: [SECURITY_THEFT.md](SECURITY_THEFT.md) — stake before steel, moveable kit, serials, annex, few units |
 | Copying failed large-farm models | [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) + modular/open + stop rules |
+| Water / land / training before capital | Pre-unit hard checklist in RISK_AND_GAPS §5.2 |
 | Doc volume vs field reality | NEXT board prioritizes outbound/field over new policy |
 
 ---
@@ -226,6 +230,7 @@ Trip ops ≠ unit capital: [TRIP_BUDGET.md](TRIP_BUDGET.md) vs [UNIT.md](UNIT.md
 | [LESSONS_MZ.md](LESSONS_MZ.md) | Why this model (prior failure) |
 | [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) | Why many tried before — failure modes map |
 | [SECURITY_THEFT.md](SECURITY_THEFT.md) | Crime / theft / asset control |
+| [RISK_AND_GAPS.md](RISK_AND_GAPS.md) | **Full risk register · gap analysis · mitigation** |
 | [SOURCES.md](SOURCES.md) | Citations (yield, failure waves, theft) |
 | [WHO.md](WHO.md) | Accountability |
 | [NEXT.md](NEXT.md) | Operator board |

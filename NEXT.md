@@ -43,11 +43,17 @@ Offline pack: print [one-pager](field/GroundYield_Field_OnePager_EN_PT.pdf) + [f
 
 ---
 
+## Risk discipline this window
+
+Trip actions that close top risks (theft, land, water, quotes, trust):  
+**[RISK_AND_GAPS.md](RISK_AND_GAPS.md)** §5.1 — do **not** invent unit spend to “look busy.”
+
 ## Links
 
 | Need | Open |
 |------|------|
 | Trip log | [GROUND_TRIP.md](GROUND_TRIP.md) |
+| Risk / gaps / mitigations | [RISK_AND_GAPS.md](RISK_AND_GAPS.md) |
 | X pack | [X_FIELD_2WEEKS.md](X_FIELD_2WEEKS.md) |
 | Day-1 thread | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) |
 | Quote emails | [field/QUOTE_REQUESTS.md](field/QUOTE_REQUESTS.md) |
