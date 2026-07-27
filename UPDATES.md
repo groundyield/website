@@ -3,15 +3,22 @@
 **Source of truth** for the homepage Updates section and [updates.rss](updates.rss).  
 Newest first. Do not silently edit old entries — append corrections.
 
-**Process rule:** Do not claim a URL “shipped” until it returns HTTP 200 on **www.groundyield.org** (cache-bust if needed). Repo-only is not live.
+**Process rule:** Do not claim a URL “shipped” until it returns HTTP 200 on **www.groundyield.org** (cache-bust if needed). Repo-only is not live.  
+**Deploy rule:** See [DEPLOY.md](DEPLOY.md) — production must equal full `main`; partial file deploys are banned.
 
 ---
 
-## 27 Jul 2026 — Full static deploy fix + orphaned docs
+## 27 Jul 2026 — Deploy process locked in docs
 
-- Deploy package includes `robots.txt`, `sitemap.xml`, `updates.rss`, favicon, icons, `pt.html`, `og-image.png` (not only `index.html`).
-- Public Documents on the site now links SEASON, AI_AGRONOMY, PARTNERSHIPS (were README-only).
+- **[DEPLOY.md](DEPLOY.md)** added: Git → Vercel as the only supported production path; live-verify checklist; explicit ban on partial uploads.
+- README points to DEPLOY.md.
+- **Ops remaining:** Connect Vercel project `groundyield` to this repo’s `main` and redeploy full tree so **`/og-image.png`** (and icons) return 200 on the domain. Assets exist on GitHub; last partial production deploys omitted binaries.
+
+## 27 Jul 2026 — Full static surface + orphaned docs
+
+- Site Public Documents links SEASON, AI_AGRONOMY, PARTNERSHIPS.
 - Sitemap lists `/` and `/pt.html`.
+- Homepage and `pt.html` verified live after restore.
 
 ## 27 Jul 2026 — Ops + Portuguese page + supplier/advice templates
 
@@ -26,7 +33,7 @@ Newest first. Do not silently edit old entries — append corrections.
 ## 27 Jul 2026 — Trust + social assets
 
 - WHO.md: funding rules, COI, partner table, corrections policy.
-- OG/Twitter large card image, apple-touch and 512 icons, JSON-LD Organization.
+- OG/Twitter assets in repo; live domain must serve `/og-image.png` after full Git deploy.
 - CONTRIBUTING.md, CONSENT.md, Portuguese summary (PT.md), UPDATES.md, 404 page.
 - Yield-gap claim linked to published sources (FAO / national analysis range).
 
