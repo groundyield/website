@@ -4,7 +4,9 @@
 Last updated: 27 July 2026  
 **Status:** Staged unfreeze **L0–L1 open now** · **L2–L3 still gated** · not a live farm advice service for enrolled units yet  
 
-Related: [AI_AGRONOMY.md](AI_AGRONOMY.md) · [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) · [SYSTEM.md](SYSTEM.md) · [field/GATES.md](field/GATES.md) · [field/STARLINK_APPROACH.md](field/STARLINK_APPROACH.md) · [RISK_AND_GAPS.md](RISK_AND_GAPS.md) · [CONSENT.md](CONSENT.md) · [WHO.md](WHO.md)
+Related: [AI_AGRONOMY.md](AI_AGRONOMY.md) · [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) · [EXISTING_TOOLS.md](EXISTING_TOOLS.md) · [KPI_AND_DATA.md](KPI_AND_DATA.md) · [SYSTEM.md](SYSTEM.md) · [field/GATES.md](field/GATES.md) · [field/STARLINK_APPROACH.md](field/STARLINK_APPROACH.md) · [RISK_AND_GAPS.md](RISK_AND_GAPS.md) · [CONSENT.md](CONSENT.md) · [WHO.md](WHO.md)
+
+**Weather, planting calendars, pest ID:** use **existing good apps** where possible — do not rebuild satellites ([EXISTING_TOOLS.md](EXISTING_TOOLS.md)).
 
 ---
 
@@ -156,10 +158,11 @@ Starlink **does not** replace AI safety. It only improves **upload and demo acce
 
 **May answer quickly (with uncertainty language):**
 
-- Season calendar “what week is it for maize?”  
+- Season calendar “what week is it for maize?” — from [SEASON.md](SEASON.md) + **named** weather/calendar app ([EXISTING_TOOLS.md](EXISTING_TOOLS.md))  
+- Rain/forecast **summary with source** (“Open-Meteo / phone weather says… confirm on your plot”)  
 - Microdose **reminder** of published package (not invent higher rates)  
 - Irrigation **heuristic** (“check soil finger test; don’t run dry well”)  
-- “Send a daylight photo of the leaf + whole plant”  
+- “Send a daylight photo of the leaf + whole plant” — pest apps may **suggest** only  
 - Store vs sell **questions to ask** the market (not a price guarantee)  
 
 **Must escalate (no instant chemical prescription):**

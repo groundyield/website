@@ -9,6 +9,12 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — KPIs + reuse existing weather/planting apps
+
+- **[KPI_AND_DATA.md](KPI_AND_DATA.md)** — full KPI list (process, yield, water, cost, market, theft, AI, operator); what data; how to collect; accuracy bars (e.g. area ±10%, mass ±15% for public F); phase pack for trip → season close.
+- **[EXISTING_TOOLS.md](EXISTING_TOOLS.md)** — **don’t rebuild** rain satellites or generic calendars; use phone weather, Open-Meteo, CHIRPS-class context, extension calendars, pest apps as assist; GroundYield owns unit registry, baselines, costs, outcomes. AI must **name the source**.
+- DATA.md, AI_FIELD_PATH, PLAN, README, homepage linked.
+
 ## 27 Jul 2026 — AI staged unfreeze (show value · experts · phone)
 
 - **[AI_FIELD_PATH.md](AI_FIELD_PATH.md)** — how AI helps farmers **choose** (CHOICE framework); staged levels **L0–L1 open now**, **L2/L3 gated**.

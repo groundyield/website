@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 08:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:15:00 +0000</lastBuildDate>
+    <item>
+      <title>KPIs, data accuracy, and existing weather apps</title>
+      <link>https://github.com/groundyield/website/blob/main/KPI_AND_DATA.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-kpi-tools</guid>
+      <pubDate>Tue, 28 Jul 2026 09:15:00 +0000</pubDate>
+      <description>KPI_AND_DATA.md: process, yield, water, cost, market, theft, AI KPIs with collection methods and accuracy bars. EXISTING_TOOLS.md: reuse phone weather, Open-Meteo, calendars, pest apps — do not rebuild satellites. GroundYield owns baselines, costs, unit outcomes.</description>
+    </item>
     <item>
       <title>AI staged unfreeze — demos, experts, field phone</title>
       <link>https://github.com/groundyield/website/blob/main/AI_FIELD_PATH.md</link>

@@ -232,6 +232,8 @@ Trip ops ≠ unit capital: [TRIP_BUDGET.md](TRIP_BUDGET.md) vs [UNIT.md](UNIT.md
 | [SECURITY_THEFT.md](SECURITY_THEFT.md) | Crime / theft / asset control |
 | [RISK_AND_GAPS.md](RISK_AND_GAPS.md) | **Full risk register · gap analysis · mitigation** |
 | [SOURCES.md](SOURCES.md) | Citations (yield, failure waves, theft) |
+| [KPI_AND_DATA.md](KPI_AND_DATA.md) | **KPIs · collection · accuracy** |
+| [EXISTING_TOOLS.md](EXISTING_TOOLS.md) | Reuse weather/calendar apps |
 | [WHO.md](WHO.md) | Accountability |
 | [NEXT.md](NEXT.md) | Operator board |
 

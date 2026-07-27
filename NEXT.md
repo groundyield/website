@@ -65,6 +65,9 @@ Trip actions that close top risks (theft, land, water, quotes, trust):
 |------|------|
 | Trip log | [GROUND_TRIP.md](GROUND_TRIP.md) |
 | Risk / gaps / mitigations | [RISK_AND_GAPS.md](RISK_AND_GAPS.md) |
+| KPIs & data accuracy | [KPI_AND_DATA.md](KPI_AND_DATA.md) |
+| Existing rain/calendar apps | [EXISTING_TOOLS.md](EXISTING_TOOLS.md) |
+| AI path | [AI_FIELD_PATH.md](AI_FIELD_PATH.md) |
 | X pack | [X_FIELD_2WEEKS.md](X_FIELD_2WEEKS.md) |
 | Day-1 thread | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) |
 | Quote emails | [field/QUOTE_REQUESTS.md](field/QUOTE_REQUESTS.md) |

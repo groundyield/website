@@ -56,6 +56,8 @@ Funding, conflicts, corrections: **[WHO.md](WHO.md)**.
 | [GROUND_TRIP.md](GROUND_TRIP.md) · [TRIP_BUDGET.md](TRIP_BUDGET.md) · [SAFETY.md](SAFETY.md) | Trip |
 | [field/](field/) | Offline kit, contacts, Starlink approach, gates |
 | [SUPPLIERS.md](SUPPLIERS.md) · [DATA.md](DATA.md) · [SOURCES.md](SOURCES.md) | Quotes & measurement |
+| [KPI_AND_DATA.md](KPI_AND_DATA.md) | **KPIs, how to collect, accuracy bars** |
+| [EXISTING_TOOLS.md](EXISTING_TOOLS.md) | **Existing apps (rain, planting) — don’t rebuild** |
 | [CONSENT.md](CONSENT.md) · [CONTRIBUTING.md](CONTRIBUTING.md) | Consent & help |
 | [TRACTION.md](TRACTION.md) · [OUTREACH.md](OUTREACH.md) | Attention without hype |
 | [UPDATES.md](UPDATES.md) · [DEPLOY.md](DEPLOY.md) | Changelog · production |
