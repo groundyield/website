@@ -3,12 +3,20 @@
 **Source of truth** for the homepage Updates section and [updates.rss](updates.rss).  
 Newest first. Do not silently edit old entries — append corrections.
 
+**Process rule:** Do not claim a URL “shipped” until it returns HTTP 200 on **www.groundyield.org** (cache-bust if needed). Repo-only is not live.
+
 ---
+
+## 27 Jul 2026 — Full static deploy fix + orphaned docs
+
+- Deploy package includes `robots.txt`, `sitemap.xml`, `updates.rss`, favicon, icons, `pt.html`, `og-image.png` (not only `index.html`).
+- Public Documents on the site now links SEASON, AI_AGRONOMY, PARTNERSHIPS (were README-only).
+- Sitemap lists `/` and `/pt.html`.
 
 ## 27 Jul 2026 — Ops + Portuguese page + supplier/advice templates
 
 - Notification path confirmed (GitHub merge mail to operator).
-- On-site **pt.html** (Portuguese landing).
+- **pt.html** Portuguese landing (must be on domain, not only GitHub).
 - **SUPPLIERS.md** quote log template; **ADVICE_SCRIPTS.md** WhatsApp/SMS PT scripts v0.
 
 ## 27 Jul 2026 — Named accountability
