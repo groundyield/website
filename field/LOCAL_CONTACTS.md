@@ -77,8 +77,12 @@ Use [BUYER_INTERVIEW.md](BUYER_INTERVIEW.md). **Not a sales pitch.** Ask volumes
 | Name / type | Why contact | Public find | Ask for | Status |
 |-------------|-------------|-------------|---------|--------|
 | **Municipal / district agriculture extension (SDAE / similar)** | Legitimacy, varieties, who else to meet | Ask hotel + camara municipal | Introductions; local yield norms (H/E) | open |
+| **District / provincial education (schools desk)** | Rural schools with weak internet; intros | Camara + education offices | Which schools lack connectivity; permission path | open |
+| **Rural primary schools** (only with intro) | Possible Starlink hub sites | Via education desk | Power, interest, who would manage kit — **no promises** | open |
 | **Farmers’ association / fórum local** | G1 intros | Extension + market | Meeting with leaders | open |
 | **Fisheries / tourism association** | Land-water-tourism interface | Town | Constraints, land access norms | open |
+
+Connectivity approach (do not promise free dishes): [STARLINK_APPROACH.md](STARLINK_APPROACH.md)
 
 ---
 

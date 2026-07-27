@@ -18,6 +18,7 @@
 | [CONTACT_LOG.md](CONTACT_LOG.md) | Markdown | Outreach log (no private phones) |
 | [QUOTE_REQUESTS.md](QUOTE_REQUESTS.md) | Markdown | Ready-to-send supplier quote emails |
 | [LOCAL_CONTACTS.md](LOCAL_CONTACTS.md) | Markdown | Local businesses to walk / call (desk list) |
+| [STARLINK_APPROACH.md](STARLINK_APPROACH.md) | Markdown | Rural schools connectivity — how to approach Starlink |
 | [../units.html](../units.html) | HTML | Public unit count (0 until real) |
 | [../SUPPLIERS.md](../SUPPLIERS.md) | Markdown | Quote tables (capital + operating) |
 | [../data/quotes-template.csv](../data/quotes-template.csv) | CSV | Machine-readable quote rows |

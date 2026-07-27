@@ -9,6 +9,14 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Starlink approach (rural schools first)
+
+- **[field/STARLINK_APPROACH.md](field/STARLINK_APPROACH.md)** — how to engage Starlink without overpromising communities.
+- Model: school-first connectivity pilot (1–3 sites), education partner + power plan + public metrics; farm data upload is secondary.
+- Constraints: confirm MZ coverage, power, who pays month 13; no free-dish promises before written path.
+- Ready email draft to Starlink Business + honest PT/EN script for schools.
+- **No Starlink agreement exists.**
+
 ## 27 Jul 2026 — Local businesses contact list (desk)
 
 - **[field/LOCAL_CONTACTS.md](field/LOCAL_CONTACTS.md)** — walk/call list for Vilanculos (hardware, market agro, lodges/restaurants for offtake, extension), Inhambane, Maputo national, SA corridor.

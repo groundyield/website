@@ -18,6 +18,7 @@
 | **5** | **First written quote** | QUOTE_REQUESTS + SUPPLIERS | **G2** price row |
 | **6** | **Baseline form started** | BASELINE_FORM | CSV draft (no % claims) |
 | **7** | **End wrap thread** | X_FIELD_2WEEKS W1–W4 | Honest zeros OK |
+| **8** | **Starlink path (schools first)** | [field/STARLINK_APPROACH.md](field/STARLINK_APPROACH.md) — email sales + local education intro; **no community promises** until written path | Exploratory only |
 
 ---
 

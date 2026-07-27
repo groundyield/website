@@ -45,6 +45,12 @@ Exact model will be chosen with communities. Options to evaluate on the ground t
 
 Plain-language discussion draft for unit-level terms: [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) (**not** a signed contract).
 
+### Connectivity (Starlink / rural schools)
+
+Exploring **school-first** satellite connectivity for very rural communities is **not** a signed partnership.  
+Approach, constraints, and outreach draft: [field/STARLINK_APPROACH.md](field/STARLINK_APPROACH.md).  
+**Do not promise communities free Starlink** until coverage, power, ownership of fees, and a written path exist.
+
 ---
 
 ## Data & dignity

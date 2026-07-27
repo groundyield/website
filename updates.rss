@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 03:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 03:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Starlink approach: rural schools first (no promises yet)</title>
+      <link>https://github.com/groundyield/website/blob/main/field/STARLINK_APPROACH.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-starlink</guid>
+      <pubDate>Tue, 28 Jul 2026 03:45:00 +0000</pubDate>
+      <description>School-first satellite connectivity pilot concept (1–3 sites). Email draft to Starlink Business. Power, ownership, and no community promises until written path. No agreement yet.</description>
+    </item>
     <item>
       <title>Local businesses contact list for Vilanculos trip</title>
       <link>https://github.com/groundyield/website/blob/main/field/LOCAL_CONTACTS.md</link>
