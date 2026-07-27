@@ -38,7 +38,7 @@ Why this size?
 | Installation / labor | Local | 100 – 250 |
 | **Subtotal irrigation** | | **950 – 2,200** |
 
-*Reference: Mozambique field systems for ~1 ha have been installed around $1,200 (Gorongosa-type kits). Smaller modular kits should sit in the lower half of this range.*
+*See also [IRRIGATION.md](IRRIGATION.md) for shared-headworks alternative.*
 
 ### B. Season 1 Crop Inputs (operating)
 
