@@ -37,6 +37,7 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 | [PLAN.md](PLAN.md) | Full public plan — problem, approach, phases |
 | [CHARTER.md](CHARTER.md) | Binding public commitments and Season 1 targets |
 | [UNIT.md](UNIT.md) | Modular Unit v0 — BOM + cost bands |
+| [IRRIGATION.md](IRRIGATION.md) | Per-unit vs shared irrigation design |
 | [ECONOMICS.md](ECONOMICS.md) | Illustrative unit economics (not forecasts) |
 | [SEASON.md](SEASON.md) | Crop & season calendar |
 | [AI_AGRONOMY.md](AI_AGRONOMY.md) | Phone/AI advice design |
@@ -54,6 +55,12 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 | [DEPLOY.md](DEPLOY.md) | **How production is deployed (Git → Vercel)** |
 | [data/](data/) | CSV schemas + BOM tables |
 | [LICENSE](LICENSE) | MIT — open by design |
+
+### After every production deploy
+
+```bash
+chmod +x scripts/live-verify.sh && ./scripts/live-verify.sh
+```
 
 ## What this is
 

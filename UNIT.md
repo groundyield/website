@@ -148,3 +148,5 @@ That is how the model improves.
 
 **Status:** v0 — Foundation phase  
 **Next:** Field quotes + first unit design refinement after Vilanculos groundwork.
+
+**Related:** [IRRIGATION.md](IRRIGATION.md) (per-unit vs shared) · [ECONOMICS.md](ECONOMICS.md) · [SEASON.md](SEASON.md) · [SUPPLIERS.md](SUPPLIERS.md)
