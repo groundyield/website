@@ -82,9 +82,9 @@ Never first-message “retweet us” or “donate.”
 | Channel | Use now |
 |---------|---------|
 | **X @GroundYield** | Primary. Launch thread: [X_THREAD_DAY1.md](X_THREAD_DAY1.md) |
-| **Long-form** | [BLOG_DAY1.md](BLOG_DAY1.md) on GitHub; short X summary + link |
+| **Long-form** | [day1.html](https://www.groundyield.org/day1.html) (shareable) · [BLOG_DAY1.md](BLOG_DAY1.md) |
 | **Direct email/DM** | Low volume, specific doc ask ([TRACTION.md](TRACTION.md)) |
-| **Local PT outreach** | Templates in [field/OUTREACH_EMAIL.md](field/OUTREACH_EMAIL.md) |
+| **Local PT** | [X_THREAD_DAY1_PT.md](X_THREAD_DAY1_PT.md) + [field/OUTREACH_EMAIL.md](field/OUTREACH_EMAIL.md) |
 
 ---
 
@@ -93,8 +93,11 @@ Never first-message “retweet us” or “donate.”
 | File | Purpose |
 |------|---------|
 | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) | 8-post launch thread (≤280 each) |
-| [BLOG_DAY1.md](BLOG_DAY1.md) | Long honesty post (incl. adversarial review) |
+| [X_THREAD_DAY1_PT.md](X_THREAD_DAY1_PT.md) | Short PT post / 3-post |
+| [BLOG_DAY1.md](BLOG_DAY1.md) / [day1.html](https://www.groundyield.org/day1.html) | Long honesty essay |
+| [NEXT.md](NEXT.md) | Ordered next actions |
 | [field/OUTREACH_EMAIL.md](field/OUTREACH_EMAIL.md) | PT/EN intro emails |
+| [field/CONTACT_LOG.md](field/CONTACT_LOG.md) | Outreach tracking (no private phones) |
 | [TRACTION.md](TRACTION.md) | Full strategy + metrics |
 
 ---
