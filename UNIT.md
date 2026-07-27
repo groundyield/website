@@ -66,6 +66,11 @@ Why this size?
 | Extension / training visits | Local or shared | 20 – 50 |
 | **Subtotal advice** | | **20 – 70** |
 
+### E. Smart / remote module (future optional — not Season 0 core)
+
+Sensors, pump run-hours, cameras, solenoids for **remote verify/control** after a unit works manually.  
+**Not** in first-unit capital band until quoted. Full roadmap: **[REMOTE_OPS.md](REMOTE_OPS.md)** (stages R0–R5).
+
 ---
 
 ## 3. Capital + First-Season Cost Bands

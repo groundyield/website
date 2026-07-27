@@ -234,6 +234,7 @@ Trip ops ≠ unit capital: [TRIP_BUDGET.md](TRIP_BUDGET.md) vs [UNIT.md](UNIT.md
 | [SOURCES.md](SOURCES.md) | Citations (yield, failure waves, theft) |
 | [KPI_AND_DATA.md](KPI_AND_DATA.md) | **KPIs · collection · accuracy** |
 | [EXISTING_TOOLS.md](EXISTING_TOOLS.md) | Reuse weather/calendar apps |
+| [REMOTE_OPS.md](REMOTE_OPS.md) | **Future remote sensors · cameras · solenoids** |
 | [WHO.md](WHO.md) | Accountability |
 | [NEXT.md](NEXT.md) | Operator board |
 

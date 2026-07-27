@@ -9,6 +9,12 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Remote ops path (sensors, cameras, solenoids)
+
+- **[REMOTE_OPS.md](REMOTE_OPS.md)** — future design to track/verify units from afar (e.g. KSA): stages **R0 manual → R1 phone → R2 sensors → R3 camera → R4 solenoid control → R5 fleet**.
+- Maps signals to KPIs (pump hours, soil, theft camera); AI for anomalies not fake yield; manual override always; consent for cameras; theft rules apply to shiny boxes.
+- **Not** Season 0 core BOM. Prove dirt + trust first. Wired SYSTEM, UNIT optional module, PLAN, risks, homepage.
+
 ## 27 Jul 2026 — KPIs + reuse existing weather/planting apps
 
 - **[KPI_AND_DATA.md](KPI_AND_DATA.md)** — full KPI list (process, yield, water, cost, market, theft, AI, operator); what data; how to collect; accuracy bars (e.g. area ±10%, mass ±15% for public F); phase pack for trip → season close.

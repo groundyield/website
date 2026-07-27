@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 09:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Remote ops roadmap — sensors, cameras, control</title>
+      <link>https://github.com/groundyield/website/blob/main/REMOTE_OPS.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-remote-ops</guid>
+      <pubDate>Tue, 28 Jul 2026 09:45:00 +0000</pubDate>
+      <description>REMOTE_OPS.md: staged R0–R5 path to monitor and partially control modular units from afar (soil, pump hours, cameras, solenoids, AI alerts). Manual fallback and consent required. Not Season 0 default — after units work by hand.</description>
+    </item>
     <item>
       <title>KPIs, data accuracy, and existing weather apps</title>
       <link>https://github.com/groundyield/website/blob/main/KPI_AND_DATA.md</link>

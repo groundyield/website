@@ -13,6 +13,7 @@ It does not claim results. Targets stay aspirational until measured ([CHARTER.md
 | Starlink / schools approach | [field/STARLINK_APPROACH.md](field/STARLINK_APPROACH.md) |
 | AI field path (unfreeze · experts · phone) | [AI_FIELD_PATH.md](AI_FIELD_PATH.md) |
 | AI agronomy design | [AI_AGRONOMY.md](AI_AGRONOMY.md) |
+| Remote sensors / cameras / control (future) | [REMOTE_OPS.md](REMOTE_OPS.md) |
 | Gates G0–G6 | [field/GATES.md](field/GATES.md) |
 | Integrity / anti-fraud | [INTEGRITY.md](INTEGRITY.md) |
 
@@ -49,8 +50,11 @@ Think in four layers. Only layer A is “the farm pilot.” B–D support it wit
 │  A. PHYSICAL LAYER (the pilot)                              │
 │     Land access · solar irrigation · seed · fertilizer      │
 │     storage · optional poultry · measured baselines         │
+│     Later optional: sensors · cameras · solenoids (REMOTE)  │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+**Later remote path (not Season 0 default):** [REMOTE_OPS.md](REMOTE_OPS.md) — R0 manual → R1 phone → R2 sensors → R3 camera → R4 control → R5 fleet.
 
 ### Layer A — Physical (core)
 

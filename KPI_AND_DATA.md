@@ -4,7 +4,9 @@
 Last updated: 27 July 2026  
 **Status:** Field-ready spec · **0** field rows yet · truth marks **F / E / H** bind all numbers  
 
-Related: [DATA.md](DATA.md) · [INTEGRITY.md](INTEGRITY.md) · [CHARTER.md](CHARTER.md) · [field/BASELINE_FORM.md](field/BASELINE_FORM.md) · [AI_FIELD_PATH.md](AI_FIELD_PATH.md) · [EXISTING_TOOLS.md](EXISTING_TOOLS.md) · [SOURCES.md](SOURCES.md) · [CONSENT.md](CONSENT.md)
+Related: [DATA.md](DATA.md) · [INTEGRITY.md](INTEGRITY.md) · [CHARTER.md](CHARTER.md) · [field/BASELINE_FORM.md](field/BASELINE_FORM.md) · [AI_FIELD_PATH.md](AI_FIELD_PATH.md) · [EXISTING_TOOLS.md](EXISTING_TOOLS.md) · [REMOTE_OPS.md](REMOTE_OPS.md) · [SOURCES.md](SOURCES.md) · [CONSENT.md](CONSENT.md)
+
+**Later:** soil/pump/camera telemetry can dual-source KPIs W1/T1/T2 — see [REMOTE_OPS.md](REMOTE_OPS.md). Yield Y1 stays human-weighed for public F until a proven method exists.
 
 ---
 

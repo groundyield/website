@@ -156,6 +156,7 @@ Update scores after trip when L/I change (dated note in §9).
 | X3 | **Starlink as substitute for farm package** | 2 | 3 | 6 | School-first; farm is water+seed | 3 | Jacques | STARLINK_APPROACH |
 | X4 | **Connectivity bill unpaid month 13** | 3 | 3 | 9 | Who pays written before install | 4 | School + Jacques | No install without payer |
 | X5 | **Deploy / site drift** (partial uploads, broken assets) | 2 | 2 | 4 | DEPLOY = main; ship-check | 2 | Jacques | CI + ship-check |
+| X6 | **Over-automation / sensor theatre before basic unit works** | 2 | 3 | 6 | REMOTE_OPS stages R0→R5; no solenoid before manual success | 4 | Jacques | [REMOTE_OPS.md](REMOTE_OPS.md) |
 
 ### I. Personal, health & logistics (trip)
 
