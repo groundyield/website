@@ -4,7 +4,7 @@
 **Updated:** 27 July 2026  
 **Operator:** Jacques Theron · team@groundyield.org
 
-Related: [PARTNERSHIPS.md](../PARTNERSHIPS.md) · [INTEGRITY.md](../INTEGRITY.md) · [LOCAL_CONTACTS.md](LOCAL_CONTACTS.md) · [WHO.md](../WHO.md)
+Related: [SYSTEM.md](../SYSTEM.md) (full physical + Starlink + AI map) · [PARTNERSHIPS.md](../PARTNERSHIPS.md) · [INTEGRITY.md](../INTEGRITY.md) · [LOCAL_CONTACTS.md](LOCAL_CONTACTS.md) · [WHO.md](../WHO.md) · [AI_AGRONOMY.md](../AI_AGRONOMY.md)
 
 ---
 

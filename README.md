@@ -36,6 +36,7 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 | File | Purpose |
 |------|--------|
 | [PLAN.md](PLAN.md) | Full public plan — problem, approach, phases |
+| [**SYSTEM.md**](SYSTEM.md) | **What we do + Starlink + AI roles** |
 | [CHARTER.md](CHARTER.md) | Binding public commitments and Season 1 targets |
 | [UNIT.md](UNIT.md) | Modular Unit v0 — BOM + cost bands |
 | [IRRIGATION.md](IRRIGATION.md) | Per-unit vs shared irrigation design |

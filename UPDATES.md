@@ -9,6 +9,13 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — SYSTEM.md: what we do + Starlink + AI roles
+
+- **[SYSTEM.md](SYSTEM.md)** — single map of physical farm units, connectivity (school-first Starlink hubs), and AI (ops now; farmer advice only after G5).
+- Four layers: physical → connectivity → intelligence → public truth. Offline field kit stays first-class.
+- Starlink: education hubs + later data upload; not a substitute for irrigation/seed. AI: draft/triage with human veto; freeze unchanged.
+- PLAN.md phases updated to match. Deep dives remain STARLINK_APPROACH + AI_AGRONOMY.
+
 ## 27 Jul 2026 — Starlink approach (rural schools first)
 
 - **[field/STARLINK_APPROACH.md](field/STARLINK_APPROACH.md)** — how to engage Starlink without overpromising communities.

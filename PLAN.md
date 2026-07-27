@@ -20,9 +20,13 @@ Deploy standardized, modular farm units that close the yield gap with measurable
 ### Core Package (per modular unit)
 - Solar-powered irrigation
 - Improved / hybrid seeds + micro-dosing fertilizer
-- Phone-based AI agronomy advice
+- Phone-based AI agronomy advice (**after review gate** — see [AI_AGRONOMY.md](AI_AGRONOMY.md))
 - Hermetic storage (reduce post-harvest loss)
 - Optional poultry and goat modules for income diversification
+
+**Supporting layers (not a substitute for the package):** rural school/community connectivity (e.g. Starlink pilots — [field/STARLINK_APPROACH.md](field/STARLINK_APPROACH.md)); public data and integrity rules.
+
+**Full map of physical + Starlink + AI roles:** **[SYSTEM.md](SYSTEM.md)**
 
 ### Design Principles
 1. **Modular** — start small, prove, then scale by adding units
@@ -35,11 +39,13 @@ Deploy standardized, modular farm units that close the yield gap with measurable
 
 ## Public Charter (Season 1)
 
-- Deploy **30–60 modular units** in the Vilanculos area
-- Target **80–100%+ yield increase** on staple crops vs local baseline
-- Raise household income through cash crops + poultry modules
-- Publish costs, yields, incomes, and failures in real time
-- Produce an open, replicable model others can adopt
+Binding process vs aspirational design targets: see [CHARTER.md](CHARTER.md).
+
+- **Aim (not yet measured):** on the order of 30–60 modular units *if* land, water, partners, capital allow  
+- **Aim (hypothesis):** large staple yield gains vs **local** baseline  
+- Income via cash crops / poultry where markets work  
+- Publish costs, yields, incomes, and failures in real time  
+- Open, replicable model others can adopt  
 
 ---
 
@@ -47,20 +53,23 @@ Deploy standardized, modular farm units that close the yield gap with measurable
 
 ### Phase 0 — Foundation (Current)
 - Public identity locked (website, GitHub, X)
-- Open plan published
-- Ground trip: South Africa → Zimbabwe → Mozambique
-- Land options, community engagement, baseline data collection
+- Open plan + [SYSTEM.md](SYSTEM.md) (Starlink + AI roles)
+- Ground window: SA → ZW → Vilanculos (~provisional 2 weeks from late Jul 2026)
+- Land options, community engagement, baseline **starts**, supplier quotes
+- Starlink: school mapping only — no community promises without path
+- AI: ops/docs only — farmer advice **frozen** until G5
 
 ### Phase 1 — First Units
 - Secure land access with community
-- Deploy initial modular units (start small)
+- Deploy initial modular units (start small) + registry rows
 - Establish baseline yields and costs
 - Begin public data logging
+- Optional: 1–3 school connectivity hubs if written path exists
 
 ### Phase 2 — Season 1 Proof
-- Scale to 30–60 units
+- Scale toward design aim only with real registry rows
 - Full public reporting of yields, costs, incomes
-- Iterate on package based on field results
+- AI advice only under human review (G5+)
 - Document failures openly
 
 ### Phase 3 — Replication

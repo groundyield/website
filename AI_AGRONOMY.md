@@ -7,6 +7,9 @@ Phone-based advice is part of the core package. This document says **what it is*
 
 **LIVE SEND FREEZE:** Draft scripts in [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) are **not cleared** for real farmers until a qualified agronomy review and local legal/consent posture exist. Design work may continue; field messaging may not.
 
+**System context:** How AI sits with Starlink, physical units, and public truth — [SYSTEM.md](SYSTEM.md).  
+Connectivity (school hubs) does **not** lift this freeze by itself.
+
 ---
 
 ## Goal

@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 03:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 04:15:00 +0000</lastBuildDate>
+    <item>
+      <title>SYSTEM.md — physical units, Starlink hubs, AI roles</title>
+      <link>https://github.com/groundyield/website/blob/main/SYSTEM.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-system</guid>
+      <pubDate>Tue, 28 Jul 2026 04:15:00 +0000</pubDate>
+      <description>Operating model: farm package is core; Starlink school hubs first; AI for ops now and reviewed advice later. Neither tech replaces baselines or land. G5 freeze stands.</description>
+    </item>
     <item>
       <title>Starlink approach: rural schools first (no promises yet)</title>
       <link>https://github.com/groundyield/website/blob/main/field/STARLINK_APPROACH.md</link>
