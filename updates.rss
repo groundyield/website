@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 23:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Ops rails: public unit registry (0), CI, ship-check, outreach</title>
+      <link>https://www.groundyield.org/units.html</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-ops-rails</guid>
+      <pubDate>Tue, 28 Jul 2026 00:15:00 +0000</pubDate>
+      <description>units.html shows count 0 until real installs. GitHub CI runs data checks. ship-check.sh gates live claims. Outreach email templates and field gates G0–G6 published.</description>
+    </item>
     <item>
       <title>Correction: early shipped claims + charter targets aspirational</title>
       <link>https://github.com/groundyield/website/blob/main/UPDATES.md</link>

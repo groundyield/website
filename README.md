@@ -66,9 +66,10 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 ### After every production deploy
 
 ```bash
-./scripts/live-verify.sh
-./scripts/check-data.sh
+./scripts/ship-check.sh   # check-data + live-verify
 ```
+
+CI also runs `check-data` and file presence checks on every push to `main`.
 
 ## What this is
 

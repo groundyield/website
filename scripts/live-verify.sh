@@ -36,11 +36,12 @@ check "/apple-touch-icon.png"
 check "/icon-512.png"
 check "/field/GroundYield_Field_OnePager_EN_PT.pdf"
 check "/field/GroundYield_Field_Forms_EN_PT.pdf"
+check "/units.html"
 
 echo "----------------------------------------"
 curl -sL --max-time 25 "${BASE}/" -o /tmp/gy_home.out
 
-for needle in "Jacques Theron" "pt.html" "UNIT.md" "SEASON.md" "Field one-pager" "Field forms" "FIELD_KIT" "INTEGRITY" "Fighting fraud" "Zero units" "design targets" "updates.rss"; do
+for needle in "Jacques Theron" "pt.html" "UNIT.md" "SEASON.md" "Field one-pager" "Field forms" "FIELD_KIT" "INTEGRITY" "Fighting fraud" "Zero units" "design targets" "units.html" "updates.rss"; do
   if grep -q "$needle" /tmp/gy_home.out; then
     echo "OK   homepage contains: ${needle}"
   else

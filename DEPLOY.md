@@ -27,6 +27,14 @@ If the link is ever broken: Settings → Git → connect `groundyield/website` a
 | Prefer **Git push → Vercel** over CLI/file upload | Full tree, reproducible |
 | Edit content on **GitHub `main`**, not only on Vercel | Avoid live/repo drift |
 
+### Ship-check (preferred)
+
+```bash
+./scripts/ship-check.sh
+```
+
+Runs data template checks + production live-verify. Do not mark UPDATES “live” until this passes.
+
 ### Live-verify checklist (after every deploy)
 
 Open these and confirm **200** (hard refresh if needed):

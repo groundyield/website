@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Unit registry — GroundYield</title>
+  <meta name="description" content="Public modular unit registry for GroundYield. Empty until units exist. No ghost units." />
+  <meta name="theme-color" content="#0f1419" />
+  <link rel="canonical" href="https://www.groundyield.org/units.html" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <meta property="og:title" content="Unit registry — GroundYield" />
+  <meta property="og:description" content="Public count of modular units. Zero until something is installed." />
+  <meta property="og:image" content="https://www.groundyield.org/og-image.png" />
+  <meta property="og:url" content="https://www.groundyield.org/units.html" />
+  <style>
+    :root {
+      --bg: #0f1419; --surface: #1a2332; --text: #e8eef5;
+      --muted: #8b9cb3; --accent: #3dd68c; --border: #2a3548;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: var(--bg); color: var(--text); line-height: 1.6; min-height: 100vh;
+    }
+    .container { max-width: 720px; margin: 0 auto; padding: 0 1.5rem; }
+    header { padding: 3rem 0 2rem; border-bottom: 1px solid var(--border); }
+    .logo { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.03em; }
+    .logo span { color: var(--accent); }
+    .logo a { color: inherit; text-decoration: none; }
+    .tagline, .note { color: var(--muted); font-size: 0.95rem; }
+    main { padding: 3rem 0 4rem; }
+    h1 { font-size: 2rem; letter-spacing: -0.03em; margin-bottom: 0.75rem; }
+    h2 {
+      font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em;
+      color: var(--muted); margin: 2rem 0 0.75rem;
+    }
+    .card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 12px; padding: 1.25rem 1.35rem; margin: 1rem 0;
+    }
+    .count {
+      font-size: 3rem; font-weight: 700; color: var(--accent);
+      letter-spacing: -0.04em; line-height: 1.1;
+    }
+    table { width: 100%; border-collapse: collapse; font-size: 0.92rem; margin-top: 0.5rem; }
+    th, td { text-align: left; padding: 0.55rem 0.4rem; border-bottom: 1px solid var(--border); }
+    th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; }
+    a { color: var(--accent); }
+    footer { padding: 2rem 0 3rem; border-top: 1px solid var(--border); color: var(--muted); font-size: 0.85rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo"><a href="/">Ground<span>Yield</span></a></div>
+      <p class="tagline">Public unit registry · ghost-unit killer</p>
+    </header>
+
+    <main>
+      <h1>Unit registry</h1>
+      <p class="note">
+        We do not claim “N units deployed” above the count of rows with status
+        <strong>installed</strong> or <strong>active</strong>.
+        Policy: <a href="https://github.com/groundyield/website/blob/main/INTEGRITY.md">INTEGRITY.md</a>.
+        Schema: <a href="https://github.com/groundyield/website/blob/main/data/schema-unit-registry.csv">schema-unit-registry.csv</a>.
+      </p>
+
+      <div class="card">
+        <p class="note">Installed or active (public count)</p>
+        <p class="count">0</p>
+        <p class="note" style="margin-top:0.75rem">
+          Last registry review: <time datetime="2026-07-27">27 Jul 2026</time>.
+          No <code>data/units.csv</code> yet — file is created on first real install.
+        </p>
+      </div>
+
+      <h2>Rows</h2>
+      <div class="card">
+        <table>
+          <thead>
+            <tr>
+              <th>unit_id</th>
+              <th>area</th>
+              <th>status</th>
+              <th>install</th>
+              <th>baseline</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="5" class="note">No units. Empty on purpose.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>How a row gets here</h2>
+      <div class="card">
+        <ol style="margin-left:1.2rem;color:var(--muted);font-size:0.95rem">
+          <li>Consent + land access understood locally</li>
+          <li>Baseline form started (or explicit “none yet” with reason)</li>
+          <li>Row added to public CSV with status planned → installed</li>
+          <li>This page updated the same day as the claim</li>
+        </ol>
+      </div>
+
+      <p style="margin-top:2rem">
+        <a href="/">← Home</a> ·
+        <a href="/pt.html" hreflang="pt">Português</a> ·
+        <a href="https://github.com/groundyield/website">GitHub</a>
+      </p>
+    </main>
+
+    <footer>
+      GroundYield · Jacques Theron · self-funded · no entity yet ·
+      <a href="mailto:team@groundyield.org">team@groundyield.org</a>
+    </footer>
+  </div>
+</body>
+</html>

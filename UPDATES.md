@@ -9,6 +9,15 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Ops rails: unit registry page, CI, ship-check, outreach
+
+- **[/units.html](units.html)** — public unit registry with count **0** (ghost-unit killer; no rows until install).
+- **GitHub Actions CI** — `scripts/check-data.sh` + required file list on every push/PR.
+- **`scripts/ship-check.sh`** — data + production live-verify before any “shipped” claim.
+- **[field/OUTREACH_EMAIL.md](field/OUTREACH_EMAIL.md)** — intro emails for leaders/suppliers/buyers (not agronomy).
+- **[field/GATES.md](field/GATES.md)** — advance gates G0–G6; currently G0 only.
+- Sitemap includes units + field PDFs.
+
 ## 27 Jul 2026 — Traction strategy published
 
 - **[TRACTION.md](TRACTION.md)** added: public promotion rules (anti-hype, evidence-first).

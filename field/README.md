@@ -16,6 +16,8 @@ Printable + phone materials for ground contact when internet is unreliable.
 | [BUYER_INTERVIEW.md](BUYER_INTERVIEW.md) | Market / hotel / trader prompts |
 | [DAILY_LOG.md](DAILY_LOG.md) | Nightly public-safe log |
 | [PACKING_LIST.md](PACKING_LIST.md) | Pre-departure bag checklist |
+| [OUTREACH_EMAIL.md](OUTREACH_EMAIL.md) | Intro email templates |
+| [GATES.md](GATES.md) | When we may advance (G0–G6) |
 | [preview-en.png](preview-en.png) / [preview-pt.png](preview-pt.png) | One-pager page previews |
 | [build_onepager.py](build_onepager.py) / [build_field_forms.py](build_field_forms.py) | Rebuild PDFs (ReportLab) |
 
