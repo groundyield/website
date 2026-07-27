@@ -1,0 +1,1 @@
+unit_id,season_id,season_start,season_end,crop,area_ha,seed_cost,fertilizer_cost,irrigation_capex,irrigation_opex,labor_cost,other_cost,currency,yield_kg,yield_kg_ha,postharvest_loss_pct,cash_income,livestock_income,failures_notes,published_date

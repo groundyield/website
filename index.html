@@ -5,6 +5,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>GroundYield — Open Modular Farm Pilot</title>
   <meta name="description" content="GroundYield is an open, transparent modular high-productivity farm pilot in Vilanculos, Mozambique. Raising real yields with public data." />
+  <meta name="theme-color" content="#0f1419" />
+  <meta name="author" content="GroundYield" />
+  <link rel="canonical" href="https://www.groundyield.org/" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.groundyield.org/" />
+  <meta property="og:title" content="GroundYield — Open Modular Farm Pilot" />
+  <meta property="og:description" content="Transparent modular high-productivity farming for smallholders in Vilanculos, Mozambique. Costs, yields, and failures published openly." />
+  <meta property="og:site_name" content="GroundYield" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@GroundYield" />
+  <meta name="twitter:title" content="GroundYield — Open Modular Farm Pilot" />
+  <meta name="twitter:description" content="Transparent modular high-productivity farming for smallholders in Vilanculos, Mozambique. Costs, yields, and failures published openly." />
+
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="alternate" type="application/rss+xml" title="GroundYield Updates" href="/updates.rss" />
+
   <style>
     :root {
       --bg: #0f1419;
@@ -16,12 +37,33 @@
       --border: #2a3548;
     }
     * { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
       background: var(--bg);
       color: var(--text);
       line-height: 1.6;
       min-height: 100vh;
+    }
+    a:focus-visible,
+    button:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 3px;
+    }
+    .skip-link {
+      position: absolute;
+      left: -9999px;
+      top: 0;
+      background: var(--accent);
+      color: var(--bg);
+      padding: 0.5rem 1rem;
+      z-index: 100;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .skip-link:focus {
+      left: 1rem;
+      top: 1rem;
     }
     .container {
       max-width: 720px;
@@ -120,6 +162,10 @@
       border-radius: 50%;
       animation: pulse 2s infinite;
     }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      .status::before { animation: none; }
+    }
     @keyframes pulse {
       0%, 100% { opacity: 1; }
       50% { opacity: 0.4; }
@@ -129,7 +175,9 @@
       padding-left: 1rem;
       margin-bottom: 1.25rem;
     }
+    .update time,
     .update-date {
+      display: block;
       font-size: 0.8rem;
       color: var(--muted);
       margin-bottom: 0.25rem;
@@ -137,15 +185,22 @@
     .phase {
       margin-bottom: 1rem;
     }
+    .phase:last-child {
+      margin-bottom: 0;
+    }
     .phase strong {
       color: var(--accent);
     }
-    .docs a {
+    .docs a,
+    .links a,
+    .cta a {
       color: var(--accent);
       text-decoration: none;
       font-weight: 500;
     }
-    .docs a:hover {
+    .docs a:hover,
+    .links a:hover,
+    .cta a:hover {
       text-decoration: underline;
     }
     .docs li {
@@ -155,14 +210,6 @@
       margin-top: 2.5rem;
       padding-top: 2rem;
       border-top: 1px solid var(--border);
-    }
-    .cta a {
-      color: var(--accent);
-      text-decoration: none;
-      font-weight: 500;
-    }
-    .cta a:hover {
-      text-decoration: underline;
     }
     .links {
       display: flex;
@@ -176,6 +223,14 @@
       color: var(--muted);
       font-size: 0.85rem;
     }
+    footer a {
+      color: var(--muted);
+      text-decoration: none;
+    }
+    footer a:hover {
+      color: var(--accent);
+      text-decoration: underline;
+    }
     @media (max-width: 600px) {
       h1 { font-size: 1.75rem; }
       .lead { font-size: 1.05rem; }
@@ -184,42 +239,43 @@
   </style>
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
   <div class="container">
     <header>
-      <div class="logo">Ground<span>Yield</span></div>
-      <div class="tagline">Open modular farm pilot · Vilanculos, Mozambique</div>
+      <div class="logo" role="banner">Ground<span>Yield</span></div>
+      <p class="tagline">Open modular farm pilot · Vilanculos, Mozambique</p>
     </header>
 
-    <main>
-      <div class="status">Foundation phase · Live</div>
+    <main id="main">
+      <div class="status" role="status">Foundation phase · Live</div>
 
       <h1>Raising real yields<br>on the ground.</h1>
       <p class="lead">
-        Transparent modular high-productivity farming for smallholders. 
-        Solar irrigation, improved inputs, AI advice, livestock integration — 
+        Transparent modular high-productivity farming for smallholders.
+        Solar irrigation, improved inputs, AI advice, livestock integration —
         all measured and published openly.
       </p>
 
-      <section>
-        <h2>The Problem</h2>
+      <section aria-labelledby="problem">
+        <h2 id="problem">The Problem</h2>
         <p>
-          Smallholders operate far below potential yields. The gap is not primarily 
-          knowledge or effort — it is reliable water, improved inputs, basic storage, 
+          Smallholders operate far below potential yields. The gap is not primarily
+          knowledge or effort — it is reliable water, improved inputs, basic storage,
           and timely advice. Most interventions are opaque and non-replicable.
         </p>
       </section>
 
-      <section>
-        <h2>The Approach</h2>
+      <section aria-labelledby="approach">
+        <h2 id="approach">The Approach</h2>
         <p>
-          Deploy standardized modular farm units that close the yield gap with 
-          measurable results. Every cost, yield, income figure, and failure is 
+          Deploy standardized modular farm units that close the yield gap with
+          measurable results. Every cost, yield, income figure, and failure is
           published. The model is designed to be copied.
         </p>
       </section>
 
-      <section>
-        <h2>Public Charter</h2>
+      <section aria-labelledby="charter">
+        <h2 id="charter">Public Charter</h2>
         <div class="card">
           <ul>
             <li>Deploy 30–60 modular units in Season 1 (Vilanculos)</li>
@@ -231,60 +287,74 @@
         </div>
       </section>
 
-      <section>
-        <h2>Core Package</h2>
+      <section aria-labelledby="package">
+        <h2 id="package">Core Package</h2>
         <ul>
           <li>Solar-powered irrigation</li>
           <li>Improved / hybrid seeds + micro-dosing fertilizer</li>
           <li>Phone-based AI agronomy advice</li>
           <li>Hermetic storage to cut post-harvest loss</li>
-          <li>Optional poultry & goat modules</li>
+          <li>Optional poultry &amp; goat modules</li>
         </ul>
       </section>
 
-      <section>
-        <h2>Roadmap</h2>
+      <section aria-labelledby="roadmap">
+        <h2 id="roadmap">Roadmap</h2>
         <div class="card">
-          <div class="phase"><strong>Phase 0 — Foundation (now)</strong><br>Public identity, open plan, ground trip, land & community engagement</div>
+          <div class="phase"><strong>Phase 0 — Foundation (now)</strong><br>Public identity, open plan, ground trip, land &amp; community engagement</div>
           <div class="phase"><strong>Phase 1 — First Units</strong><br>Secure land, deploy initial modules, establish baselines, start public data</div>
           <div class="phase"><strong>Phase 2 — Season 1 Proof</strong><br>Scale to 30–60 units, full public reporting, iterate openly</div>
           <div class="phase"><strong>Phase 3 — Replication</strong><br>Open playbook released. Others can copy with confidence.</div>
         </div>
       </section>
 
-      <section>
-        <h2>Location</h2>
+      <section aria-labelledby="location">
+        <h2 id="location">Location</h2>
         <p>
           <strong>Vilanculos</strong>, Inhambane Province, Mozambique.<br>
-          Southern coast — relatively stable, existing smallholder systems, 
+          Southern coast — relatively stable, existing smallholder systems,
           tourism market for fresh produce.
         </p>
       </section>
 
-      <section>
-        <h2>Open Commitment</h2>
+      <section aria-labelledby="commitment">
+        <h2 id="commitment">Open Commitment</h2>
         <p>
-          Everything is public from day one: design, budget structure, 
-          community agreements, yield data, costs, and lessons (including failures). 
+          Everything is public from day one: design, budget structure,
+          community agreements, yield data, costs, and lessons (including failures).
           No private reports. The goal is a model that others can trust and replicate.
         </p>
       </section>
 
-      <section>
-        <h2>Public Documents</h2>
+      <section aria-labelledby="docs">
+        <h2 id="docs">Public Documents</h2>
         <ul class="docs">
           <li><a href="https://github.com/groundyield/website/blob/main/PLAN.md">PLAN.md</a> — Full plan, phases, principles</li>
           <li><a href="https://github.com/groundyield/website/blob/main/CHARTER.md">CHARTER.md</a> — Binding public commitments</li>
           <li><a href="https://github.com/groundyield/website/blob/main/DATA.md">DATA.md</a> — What we measure and how we publish it</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/GROUND_TRIP.md">GROUND_TRIP.md</a> — Trip plan and field checklist</li>
+          <li><a href="https://github.com/groundyield/website/blob/main/data/README.md">data/</a> — Public dataset folder (baselines coming)</li>
         </ul>
       </section>
 
-      <section>
-        <h2>Updates</h2>
-        <div class="update">
-          <div class="update-date">27 Jul 2026</div>
-          <p>Public launch complete. Plan, Charter and Data standards published. Foundation phase. Trip planned: South Africa → Zimbabwe → Mozambique.</p>
+      <section aria-labelledby="involve">
+        <h2 id="involve">Get Involved</h2>
+        <div class="card">
+          <ul>
+            <li>Follow field updates on <a href="https://x.com/GroundYield">X</a></li>
+            <li>Read and comment on docs in the <a href="https://github.com/groundyield/website">GitHub repo</a></li>
+            <li>Email <a href="mailto:team@groundyield.org">team@groundyield.org</a> for partnerships, land, or community introductions</li>
+            <li>Replicate later — the model is MIT-licensed and open by design</li>
+          </ul>
         </div>
+      </section>
+
+      <section aria-labelledby="updates">
+        <h2 id="updates">Updates</h2>
+        <article class="update">
+          <time datetime="2026-07-27">27 Jul 2026</time>
+          <p>Public launch complete. Plan, Charter and Data standards published. Foundation phase. Trip planned: South Africa → Zimbabwe → Mozambique.</p>
+        </article>
       </section>
 
       <div class="cta">
@@ -293,14 +363,16 @@
           Follow progress · Contribute · Replicate later.
         </p>
         <div class="links">
-          <a href="https://x.com/GroundYield">X →</a>
-          <a href="https://github.com/groundyield/website">GitHub →</a>
+          <a href="https://x.com/GroundYield" rel="noopener noreferrer">X →</a>
+          <a href="https://github.com/groundyield/website" rel="noopener noreferrer">GitHub →</a>
+          <a href="mailto:team@groundyield.org">Email →</a>
+          <a href="https://github.com/groundyield/website/blob/main/PLAN.md" rel="noopener noreferrer">Full Plan →</a>
         </div>
       </div>
     </main>
 
     <footer>
-      GroundYield · Open by design · 2026
+      <p>GroundYield · Open by design · 2026 · <a href="https://github.com/groundyield/website/blob/main/LICENSE">MIT</a></p>
     </footer>
   </div>
 </body>

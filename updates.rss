@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GroundYield Updates</title>
+    <link>https://www.groundyield.org/</link>
+    <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
+    <language>en</language>
+    <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Public launch — foundation phase begins</title>
+      <link>https://www.groundyield.org/#updates</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-launch</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Public launch complete. Plan, Charter and Data standards published. Foundation phase. Trip planned: South Africa → Zimbabwe → Mozambique.</description>
+    </item>
+  </channel>
+</rss>
