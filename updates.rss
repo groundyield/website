@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Portuguese page, supplier template, advice scripts</title>
+      <link>https://www.groundyield.org/pt.html</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-pt-ops</guid>
+      <pubDate>Mon, 27 Jul 2026 16:00:00 +0000</pubDate>
+      <description>On-site Portuguese landing (/pt.html), SUPPLIERS.md quote log, ADVICE_SCRIPTS.md WhatsApp PT templates. Operator notification path confirmed.</description>
+    </item>
     <item>
       <title>Jacques Theron named as founder / operator</title>
       <link>https://www.groundyield.org/#who</link>

@@ -5,6 +5,12 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Ops + Portuguese page + supplier/advice templates
+
+- Notification path confirmed (GitHub merge mail to operator).
+- On-site **pt.html** (Portuguese landing).
+- **SUPPLIERS.md** quote log template; **ADVICE_SCRIPTS.md** WhatsApp/SMS PT scripts v0.
+
 ## 27 Jul 2026 — Named accountability
 
 - **Jacques Theron** published as founder / operator in WHO.md and on the site.
