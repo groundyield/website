@@ -45,6 +45,7 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 | [PARTNERSHIPS.md](PARTNERSHIPS.md) | Community & land principles |
 | [WHO.md](WHO.md) | Accountability, funding, conflicts |
 | [**INTEGRITY.md**](INTEGRITY.md) | **Anti-fraud & integrity (top policy)** |
+| [**TRACTION.md**](TRACTION.md) | **How we seek attention without hype** |
 | [PT.md](PT.md) / [pt.html](pt.html) | **Resumo em português** (site + markdown) |
 | [SUPPLIERS.md](SUPPLIERS.md) | Quote log template for field prices |
 | [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) | WhatsApp/SMS scripts (PT) v0 |
