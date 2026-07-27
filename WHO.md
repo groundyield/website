@@ -18,7 +18,7 @@ A project that asks people to trust its numbers has to say who is producing them
 | **X** | [@GroundYield](https://x.com/GroundYield) |
 | **GitHub** | [github.com/groundyield](https://github.com/groundyield) |
 
-If published data is wrong, **Jacques Theron** is responsible for correcting it. Contact also runs through **team@groundyield.org** and this repository’s issues.
+If published data is wrong, **Jacques Theron** is responsible for correcting it. Corrections and contact also run through **team@groundyield.org** and this repository’s issues.
 
 ---
 
@@ -45,7 +45,7 @@ We would rather publish “no entity yet” than imply an institution that does 
 
 ### Commitments on money
 
-1. Every funding source above **USD 500** (or any amount with conditions) will be listed here with source, amount, date, and conditions **within 14 days of receipt**, and before that money is spent on pilot activities when possible.
+1. Every funding source above **USD 500** will be named here before that money is spent on pilot activities.
 2. No funder gets pre-publication review of results. Data is published whether or not it flatters the funder.
 3. If a funder has a commercial interest in an input we test (seed, solar, storage, feed), it is disclosed in the same document as the related result.
 4. Unit cost bands in [UNIT.md](UNIT.md) are planning ranges, not a raised budget.

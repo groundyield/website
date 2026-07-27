@@ -45,10 +45,10 @@ Próximo: viagem de terreno, terra, comunidade, linhas de base reais.
 
 ## Contacto
 
+- Responsável: **Jacques Theron** (fundador / operador) — [WHO.md](WHO.md)  
 - Email: **team@groundyield.org** (português bem-vindo)  
 - X: [@GroundYield](https://x.com/GroundYield)  
 - Site: [www.groundyield.org](https://www.groundyield.org)  
-- Quem é responsável: [WHO.md](WHO.md)  
 - Consentimento e privacidade: [CONSENT.md](CONSENT.md)  
 
 ---

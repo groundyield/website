@@ -5,9 +5,13 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Named accountability
+
+- **Jacques Theron** published as founder / operator in WHO.md and on the site.
+
 ## 27 Jul 2026 — Trust + social assets
 
-- WHO.md strengthened: funding rules, COI, partner table, corrections policy; operator name rule (publish before first baseline).
+- WHO.md: funding rules, COI, partner table, corrections policy.
 - OG/Twitter large card image, apple-touch and 512 icons, JSON-LD Organization.
 - CONTRIBUTING.md, CONSENT.md, Portuguese summary (PT.md), UPDATES.md, 404 page.
 - Yield-gap claim linked to published sources (FAO / national analysis range).

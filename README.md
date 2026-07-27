@@ -18,7 +18,8 @@ Canonical host: **www**. Apex redirects to www.
 
 ## Who runs this
 
-See **[WHO.md](WHO.md)** — self-funded, no legal entity yet. Operator legal name will be published **before the first field baseline**. Funding rules, conflicts, and corrections policy live there.
+**Jacques Theron** — founder / operator. Self-funded; no legal entity yet.  
+Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 
 ## Documents
 
@@ -86,7 +87,7 @@ Open `http://localhost:3000` (or the port shown).
 
 **Foundation phase.**  
 Public identity, unit design, economics, trust docs, and Portuguese summary are live.  
-Next: ground trip, land, community, baselines, real supplier quotes, **publish operator name in WHO.md**.
+Next: ground trip, land, community, baselines, real supplier quotes.
 
 ---
 
