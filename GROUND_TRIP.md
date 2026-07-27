@@ -54,6 +54,12 @@ Master index: **[field/FIELD_KIT.md](field/FIELD_KIT.md)**
 | [field/CONSENT_SCRIPT.md](field/CONSENT_SCRIPT.md) | Plain-language consent |
 | [field/POCKET_SCRIPTS.md](field/POCKET_SCRIPTS.md) | WhatsApp pocket copy |
 | [SUPPLIERS.md](SUPPLIERS.md) · [data/quotes-template.csv](data/quotes-template.csv) | Quote log |
+| [field/BUYER_INTERVIEW.md](field/BUYER_INTERVIEW.md) | Hotels / markets / traders |
+| [field/DAILY_LOG.md](field/DAILY_LOG.md) | Nightly public-safe log blocks |
+| [field/PACKING_LIST.md](field/PACKING_LIST.md) | What to bag |
+| [TRIP_BUDGET.md](TRIP_BUDGET.md) | Travel ops envelope (not unit capital) |
+| [SAFETY.md](SAFETY.md) | Contingency + stop rules |
+| [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) | Plain-language partnership outline (not a contract) |
 
 ---
 
@@ -62,11 +68,15 @@ Master index: **[field/FIELD_KIT.md](field/FIELD_KIT.md)**
 - [ ] Confirm travel dates and route logistics → update table above
 - [ ] List candidate land / community contacts (private notes OK; public summary later)
 - [x] Draft interview questions for farmers and local partners → [field/INTERVIEW.md](field/INTERVIEW.md)
+- [x] Buyer / offtake interview → [field/BUYER_INTERVIEW.md](field/BUYER_INTERVIEW.md)
 - [x] Prepare baseline sheet (`data/schema-baseline.csv` + [field/BASELINE_FORM.md](field/BASELINE_FORM.md) + examples)
 - [x] Prepare quote capture (`data/quotes-template.csv` + SUPPLIERS.md)
 - [x] Consent script for field → [field/CONSENT_SCRIPT.md](field/CONSENT_SCRIPT.md)
-- [ ] Budget envelope for trip (publish after reconciliation)
-- [ ] Safety and contingency plan
+- [x] Trip budget envelope template → [TRIP_BUDGET.md](TRIP_BUDGET.md) *(fill numbers before departure; actuals after)*
+- [x] Safety and contingency checklist → [SAFETY.md](SAFETY.md) *(offline emergency contacts stay offline)*
+- [x] Packing list → [field/PACKING_LIST.md](field/PACKING_LIST.md)
+- [x] Unit partnership draft (discussion only) → [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md)
+- [x] Daily log template → [field/DAILY_LOG.md](field/DAILY_LOG.md)
 - [x] Confirm notification path to operator (GitHub merge mail for PR #1 received 27 Jul 2026)
 - [ ] Spot-check direct mail to `team@groundyield.org` (partnership inbox)
 - [x] Print / offline-load [field/](field/) pack (one-pager + forms PDFs)
@@ -99,6 +109,13 @@ Master index: **[field/FIELD_KIT.md](field/FIELD_KIT.md)**
 - [ ] Fertilizer (type, price, reliability)
 - [ ] Hermetic storage bags / silos availability
 
+### Markets
+- [ ] Run buyer interviews ([field/BUYER_INTERVIEW.md](field/BUYER_INTERVIEW.md))
+- [ ] Price snapshot table dated and currency-labeled
+
+### Nightly
+- [ ] Use [field/DAILY_LOG.md](field/DAILY_LOG.md) block → paste public-safe summary here
+
 ---
 
 ## Outputs to Publish After Trip
@@ -121,4 +138,4 @@ _No field entries yet._
 
 ---
 
-Last updated: 27 July 2026 (field kit + forms PDF)
+Last updated: 27 July 2026 (trip ops: budget, safety, packing, agreements)

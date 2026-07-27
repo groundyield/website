@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 21:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 22:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Trip ops — budget, safety, packing, partnership draft</title>
+      <link>https://github.com/groundyield/website/blob/main/GROUND_TRIP.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-trip-ops</guid>
+      <pubDate>Mon, 27 Jul 2026 22:15:00 +0000</pubDate>
+      <description>TRIP_BUDGET, SAFETY, packing list, daily log, buyer interview, UNIT_AGREEMENT_DRAFT (not a contract), and scripts/check-data.sh. Travel dates still open.</description>
+    </item>
     <item>
       <title>Field kit — offline ops pack + printable forms</title>
       <link>https://www.groundyield.org/field/GroundYield_Field_Forms_EN_PT.pdf</link>

@@ -13,6 +13,9 @@ Printable + phone materials for ground contact when internet is unreliable.
 | [BASELINE_FORM.md](BASELINE_FORM.md) | Paper form → CSV mapping |
 | [CONSENT_SCRIPT.md](CONSENT_SCRIPT.md) | Plain-language consent PT/EN |
 | [POCKET_SCRIPTS.md](POCKET_SCRIPTS.md) | Short WhatsApp/SMS copy |
+| [BUYER_INTERVIEW.md](BUYER_INTERVIEW.md) | Market / hotel / trader prompts |
+| [DAILY_LOG.md](DAILY_LOG.md) | Nightly public-safe log |
+| [PACKING_LIST.md](PACKING_LIST.md) | Pre-departure bag checklist |
 | [preview-en.png](preview-en.png) / [preview-pt.png](preview-pt.png) | One-pager page previews |
 | [build_onepager.py](build_onepager.py) / [build_field_forms.py](build_field_forms.py) | Rebuild PDFs (ReportLab) |
 

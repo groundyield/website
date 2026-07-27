@@ -43,6 +43,8 @@ Exact model will be chosen with communities. Options to evaluate on the ground t
 
 **We will not pretend a model is “community-led” if decisions are only made off-site.**
 
+Plain-language discussion draft for unit-level terms: [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) (**not** a signed contract).
+
 ---
 
 ## Data & dignity

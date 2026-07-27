@@ -10,19 +10,25 @@
 | [BASELINE_FORM.md](BASELINE_FORM.md) | Markdown | Paper form → maps to `data/schema-baseline.csv` |
 | [CONSENT_SCRIPT.md](CONSENT_SCRIPT.md) | Markdown | Plain-language consent (PT primary) |
 | [POCKET_SCRIPTS.md](POCKET_SCRIPTS.md) | Markdown | Short WhatsApp/SMS copy for later ops |
+| [BUYER_INTERVIEW.md](BUYER_INTERVIEW.md) | Markdown | Hotels, markets, traders |
+| [DAILY_LOG.md](DAILY_LOG.md) | Markdown | Nightly log blocks |
+| [PACKING_LIST.md](PACKING_LIST.md) | Markdown | What to bag before departure |
 | [../SUPPLIERS.md](../SUPPLIERS.md) | Markdown | Quote tables (capital + operating) |
 | [../data/quotes-template.csv](../data/quotes-template.csv) | CSV | Machine-readable quote rows |
+| [../TRIP_BUDGET.md](../TRIP_BUDGET.md) | Markdown | Travel ops envelope (≠ unit capital) |
+| [../SAFETY.md](../SAFETY.md) | Markdown | Contingency + stop rules |
+| [../UNIT_AGREEMENT_DRAFT.md](../UNIT_AGREEMENT_DRAFT.md) | Markdown | Partnership outline (not a contract) |
 | [../GROUND_TRIP.md](../GROUND_TRIP.md) | Markdown | Master checklist + public log |
 
 ## Daily field rhythm
 
 1. **Introduce** with the one-pager (EN or PT page).  
 2. **Consent** before names, photos of people, income, GPS of homes.  
-3. **Interview** (leader / farmer / supplier) — mark fact · estimate · hearsay.  
+3. **Interview** (leader / farmer / supplier / buyer) — mark fact · estimate · hearsay.  
 4. **Baseline row** same day into paper form; type into CSV when online.  
 5. **Quotes** into SUPPLIERS.md or `quotes-template.csv` with date + currency.  
 6. **Dead ends** logged (do not delete).  
-7. Nightly: photo of paper forms as backup; push notes to public log when safe.
+7. Nightly: [DAILY_LOG.md](DAILY_LOG.md) + photo of paper forms; public-safe line → GROUND_TRIP.
 
 ## Hard rules (carry these)
 

@@ -52,6 +52,10 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 | [SOURCES.md](SOURCES.md) | Citations for public claims |
 | [UPDATES.md](UPDATES.md) | Changelog (source of truth) |
 | [GROUND_TRIP.md](GROUND_TRIP.md) | Trip checklist (SA → ZW → MZ) |
+| [TRIP_BUDGET.md](TRIP_BUDGET.md) | Travel ops budget envelope |
+| [SAFETY.md](SAFETY.md) | Trip safety & contingency |
+| [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) | Partnership outline (draft, not a contract) |
+| [field/](field/) | **Offline field kit** — PDFs, interviews, forms |
 | [DEPLOY.md](DEPLOY.md) | **How production is deployed (Git → Vercel)** |
 | [data/](data/) | CSV schemas + BOM tables |
 | [LICENSE](LICENSE) | MIT — open by design |
@@ -59,7 +63,8 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 ### After every production deploy
 
 ```bash
-chmod +x scripts/live-verify.sh && ./scripts/live-verify.sh
+./scripts/live-verify.sh
+./scripts/check-data.sh
 ```
 
 ## What this is

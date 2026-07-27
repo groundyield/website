@@ -9,6 +9,15 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Trip ops layer (budget, safety, agreements)
+
+- [TRIP_BUDGET.md](TRIP_BUDGET.md) — travel ops envelope separate from unit capital; actuals table empty until return.
+- [SAFETY.md](SAFETY.md) — contingency, check-ins, stop rules, device/data safety (private emergency numbers stay offline).
+- Field: [PACKING_LIST.md](field/PACKING_LIST.md), [DAILY_LOG.md](field/DAILY_LOG.md), [BUYER_INTERVIEW.md](field/BUYER_INTERVIEW.md).
+- [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) — plain-language partnership outline (**not** a signed contract).
+- `scripts/check-data.sh` validates CSV headers and blocks EXAMPLE rows in real baselines.
+- Still open: fixed travel dates, filled budget numbers, inbox spot-check.
+
 ## 27 Jul 2026 — Field kit (offline ops pack)
 
 - Full offline pack under [field/FIELD_KIT.md](field/FIELD_KIT.md): interview scripts (leader / farmer / supplier), plain-language consent, baseline paper form → CSV, WhatsApp pocket scripts.
