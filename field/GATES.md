@@ -5,7 +5,8 @@ Public checklist so we do not skip straight from docs to household dependency.
 | Gate | Required before… | Evidence (public or private→public summary) |
 |------|------------------|-----------------------------------------------|
 | **G0 Paper** | Publishing design | Repo + site live; integrity rules published |
-| **G1 Intro** | Claiming “local engagement started” | Dated note in GROUND_TRIP (org/role OK; no private names without consent) |
+| **G0.5 Wind-down honesty** | Claiming “ready for Rumbacaca re-entry” / starting the listen trip as operator | Jacques has answered LESSONS §1b for himself (private min); public summary preferred — *paid? disputes?* Not “haven’t checked” in the village ([STRATEGIC_GAPS.md](../STRATEGIC_GAPS.md)) |
+| **G1 Intro** | Claiming “local engagement started” | Dated note in GROUND_TRIP (org/role OK; no private names without consent) · **G0.5 first** |
 | **G2 Quote** | Updating UNIT cost band from “planning only” | ≥1 dated quote row in SUPPLIERS or quotes CSV |
 | **G3 Baseline** | Any % yield claim | Baseline row for that unit_id with method |
 | **G4 Partner** | Multi-household rollout language | Named partner with consent on WHO.md |
@@ -14,12 +15,13 @@ Public checklist so we do not skip straight from docs to household dependency.
 | **G5** (legacy) | “AI advice live” claim | Means **≥ G5-A** — L1 demos alone are **not** G5 |
 | **G6 Unit count** | “N units deployed” | N rows installed/active on /units.html + data/units.csv |
 
-**Current (27 Jul 2026):** G0 only. **AI L0–L1 open** (ops + demos). G1–G4, G5-A/B, G6 open.  
-**G1 path:** return to **Rumbacaca** (existing trust) + [LOCAL_CONTACTS.md](LOCAL_CONTACTS.md).  
-**G2 path:** [SUPPLIERS.md](../SUPPLIERS.md) + [QUOTE_REQUESTS.md](QUOTE_REQUESTS.md) (desk leads; no priced quotes yet).  
-**AI path:** L1 CHOICE demos + expert recruitment now · L2/L3 after G5-A/B — [AI_FIELD_PATH.md](../AI_FIELD_PATH.md).  
-**Master plan:** [PLAN.md](../PLAN.md) · history: [LESSONS_MZ.md](../LESSONS_MZ.md) · failures map: [WHY_OTHERS_FAILED.md](../WHY_OTHERS_FAILED.md) · theft: [SECURITY_THEFT.md](../SECURITY_THEFT.md) · risks: [RISK_AND_GAPS.md](../RISK_AND_GAPS.md)
+**Current (27 Jul 2026):** G0 only. **G0.5 open (operator).** G1–G6 open. AI L0–L1 open.  
+**Before trip / re-entry claim:** **G0.5** — LESSONS §1b self-answers.  
+**G1 path:** Rumbacaca listen + [LOCAL_CONTACTS.md](LOCAL_CONTACTS.md).  
+**G2 path:** [SUPPLIERS.md](../SUPPLIERS.md) + [QUOTE_REQUESTS.md](QUOTE_REQUESTS.md).  
+**Ceiling:** on WHO before unit capital; or ceiling/deferral within 30 days of first G1 ([WHO.md](../WHO.md)).  
+**Before first unit capital:** [RISK_AND_GAPS.md](../RISK_AND_GAPS.md) §5.2 + ceiling published.
 
-**Before first unit capital:** run [RISK_AND_GAPS.md](../RISK_AND_GAPS.md) §5.2 hard checklist (water F, land legitimacy, custodian trained, theft plan, care path if remote).
+**Doc/review freeze:** no more strategy-gap doc rounds until G0.5 filled or G1 logged or public pause ([STRATEGIC_GAPS.md](../STRATEGIC_GAPS.md) §0).
 
 Related: [INTEGRITY.md](../INTEGRITY.md) · [GROUND_TRIP.md](../GROUND_TRIP.md) · [OUTREACH_EMAIL.md](OUTREACH_EMAIL.md) · [CONTACT_LOG.md](CONTACT_LOG.md)

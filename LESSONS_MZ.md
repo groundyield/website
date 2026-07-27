@@ -63,20 +63,13 @@ Until filled: treat land status as **unknown**, not as empty opportunity.
 
 ---
 
-## 1d. “Near impossible” vs modular aims (no contradiction if scoped)
+## 1d. “Near impossible” vs modular aims (hypothesis, not resolution)
 
 Lived view: **large commercial SA-style farming** under the cost/gov/logistics conditions hit felt **structurally very hard / near impossible**.
 
-That does **not** automatically mean:
+**Reframe ≠ proof.** Smaller packages may **cap cash at risk per unit** and make failures cheaper to publish. They do **not** remove theft, bad water, thin markets, or cost ramps — a stolen solar kit is still a total loss on that unit ([RISK_AND_GAPS.md](RISK_AND_GAPS.md) T1/T2, A1). Whether modular “works here” is **unknown until measured**.
 
-- small modular packages cannot help **one household’s food**, or  
-- measured experiments are worthless.
-
-It **does** mean:
-
-- Charter aims (e.g. 30–60 units, large % uplift) are **hard, unproven hypotheses** — not a claim that empire farming suddenly works.  
-- Default if markets or capital fail: **few units + open autopsy** ([VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) Plan B).  
-- Full reconciliation language: [CHARTER.md](CHARTER.md) · [STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §4.
+Charter aims stay **aspirational**. Plan B if offtake fails: few units + autopsy ([VALUE_AND_MONEY.md](VALUE_AND_MONEY.md)).
 
 ---
 
@@ -122,6 +115,8 @@ It **does** mean:
 
 **Scope decision:** this trip is **listen + recon first** — not “re-earn trust *and* install in the same fortnight” by default ([STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §2).
 
+**G0.5 first:** settle §1b for yourself before you walk in ([field/GATES.md](field/GATES.md)).
+
 1. **Rumbacaca** — re-meet; listen; no money ask; no Starlink promises.  
 2. Map what they need vs what a **small modular unit** can honestly do.  
 3. Quotes and baseline **starts** if natural — not a re-launch of cattle empire.  
@@ -129,6 +124,16 @@ It **does** mean:
 5. Optional: school connectivity path separate and school-led.  
 6. Publish what the return feels like — including if doors are colder than memory.  
 7. **Install:** only if extraordinary readiness; else **second visit**.
+
+### 5b. Relational whiplash (say it plain)
+
+They may remember **large-farm / delivery-scale** Jacques. The ask is now **~0.25–0.5 ha**.
+
+That can sound suspicious, small, or honest — depending on delivery. One line:
+
+> I tried big here and lost. I am not asking you to bet big with me. Only a small measured package if *you* want — and you can say no.
+
+PT pocket: [field/POCKET_SCRIPTS.md](field/POCKET_SCRIPTS.md). Do not pretend the downgrade is invisible.
 
 ---
 

@@ -177,7 +177,8 @@ If the only acceptable return is “get rich in Moz farming,” history already 
 | **What it does not cover** | Unlimited Starlink for every school; empire rebuild |
 | **If hit** | Stop new units; support only what annex already promises; public note |
 
-**Current:** ceiling **not yet published** — therefore **no unit capital** until set. (Open bracket is intentional honesty, not permission to spend unbounded.)
+**Current:** ceiling **not yet published** — therefore **no unit capital** until set.  
+**Deadline:** within **30 days of first G1 log**, publish ceiling **or** “deferred to DATE — reason” on WHO. Infinite “not yet” without that line is **avoidance**, not a stop-rule working.
 
 ---
 

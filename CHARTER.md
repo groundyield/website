@@ -47,17 +47,17 @@ These are **planning goals** for design and fundraising honesty, **not** field r
 
 ### How this coexists with “commercial farming is near-impossible”
 
-The operator’s lived view ([LESSONS_MZ.md](LESSONS_MZ.md)): **large-scale commercial** farming under the conditions he hit felt **structurally very hard**.  
+The operator’s lived view ([LESSONS_MZ.md](LESSONS_MZ.md)): **large-scale commercial** farming under the conditions he hit felt **structurally very hard**.
 
-That is **not** a secret second charter. It is a scope warning:
+**What smaller scale does *not* automatically fix:** the same mechanisms still kill a modular unit. [RISK_AND_GAPS.md](RISK_AND_GAPS.md) scores **theft (T1/T2)** and **water (A1)** at priority **12** — top tier. A stolen ~$1–2k kit is still **100% loss of that unit’s capital**. Modular **bounds dollars at risk per bet** and may speed learning; it is **not** a demonstrated proof that “near impossible” becomes easy. That claim would need **field seasons**, not a reframe.
 
-| Near-impossible (lived) | Still on the table (unproven) |
-|-------------------------|--------------------------------|
-| Opaque multi-thousand-ha commercial empires | **0.25–0.5 ha modular** packages with public measurement |
-| Guaranteed investor returns | Food + learning + open data even if cash offtake fails |
-| Scale-first | **Few units first**; 30–60 only if earned |
+| Lived | Honest modular stance |
+|-------|------------------------|
+| Empire commercial near-impossible | **Hypothesis:** tiny measured packages may still help food/learning |
+| Not a guarantee of modular success | Aims 30–60 / large % uplift stay **aspirational** |
+| If markets/capital fail | Success can be few units + open autopsy (Plan B) — not fake scale |
 
-If markets or capital fail, **success** can still mean: honest few units + open autopsy — not hitting 30–60 ([VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) Plan B · [STRATEGIC_GAPS.md](STRATEGIC_GAPS.md)).
+See [STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §4.
 
 ## What This Charter Does Not Claim
 

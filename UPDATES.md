@@ -9,6 +9,15 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Meta: paper ≠ truth; G0.5; review freeze; proportional risk
+
+- Honest admission: prior gap round added **process**, not field answers (checklist still open).
+- **G0.5** wind-down honesty before Rumbacaca re-entry claim / trip start.
+- Ceiling: 30 days after G1 must publish number or dated deferral (not infinite placeholder).
+- Modular scale: **bounds $ at risk**, does **not** remove theft/water total-loss (P=12 risks).
+- Relational whiplash (big-farm memory → 0.25 ha) + PT pocket line.
+- **Review-loop freeze** until G0.5 or G1 or public pause — [STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §0 · [NEXT.md](NEXT.md).
+
 ## 27 Jul 2026 — Strategic gaps closed in writing (Plan B, trip scope, scars, ceiling)
 
 - Cross-read of VALUE_AND_MONEY / LESSONS / SECURITY / WHY_FAILED surfaced **thinking** holes, not polish.

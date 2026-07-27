@@ -48,8 +48,10 @@ Do not invent hotel-level precision.
 | Water/theft/market **recon** | Final DUAT/land package for old commercial ha |
 | Publish how doors feel | Quiet empire relaunch |
 
-Rationale: docs already say trust must be **re-earned** after a known large failure — that process is longer than a quote hunt ([STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §2).  
-**Install** only if RISK §5.2 is green (unlikely first re-entry). Else **second visit**.
+**Before this trip starts:** **G0.5** — Jacques has answered LESSONS §1b for himself (paid / disputes). Not optional “if you can.”  
+
+Rationale: trust re-earn is longer than a quote hunt ([STRATEGIC_GAPS.md](STRATEGIC_GAPS.md)).  
+**Install** only if RISK §5.2 green. Else **second visit**.
 
 1. **Return to Rumbacaca** — re-meet people who already know Jacques; listen first; no money ask; no empire re-launch
 2. Confirm land and community partnership options near Vilanculos (**current** legitimacy — past 3,500 ha is abandoned history, not a claim; status often **unknown** — recon only)

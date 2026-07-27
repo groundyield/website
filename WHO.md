@@ -75,7 +75,7 @@ We would rather publish “no entity yet” than imply an institution that does 
 | Question | Public answer (27 Jul 2026) |
 |----------|----------------------------|
 | Total pilot budget | **Not itemized publicly yet** |
-| **Max kit capital Jacques will fund in 2026** | **Not set publicly** — **no unit install / kit spend** until published as a number or band ([VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) §3.6) |
+| **Max kit capital Jacques will fund in 2026** | **Not set publicly** — **no unit install / kit spend** until published as a number or band. **Deadline:** within **30 days of first G1 log**, publish ceiling **or** “deferred to DATE — reason” on this page ([VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) §3.6 · [STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §6) |
 | Runway (months of self-funding left) | **Not disclosed as a number yet** — will be stated before any household depends on continuous support |
 | What if funding stops mid-season? | We **pause new installs**, publish a dated stop note in [UPDATES.md](UPDATES.md), and do **not** promise farmers money or kit we cannot deliver. Existing relationships get an honest status, not radio silence. |
 | Household dependency | We design against enrolling people into inputs they cannot replace; see [CHARTER.md](CHARTER.md) commitment 7 |

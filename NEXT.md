@@ -1,86 +1,56 @@
-# What’s next — ground window (human only)
+# What’s next — human work only
 
 **Updated:** 27 July 2026  
-**Phase:** 0 — **field window** · paper is **ahead** of dirt  
-**Provisional dates:** ~27 Jul – 10 Aug 2026 (SA → ZW → Vilanculos aim)  
-**Gates:** G0 done · **G1–G2 are the only score that matters this window**  
+**Phase:** 0 · **paper is not progress** · evidentiary core still **zero**  
 
 ---
 
-## Paper freeze (read this)
+## Stop the review loop
 
-**Stop shipping new governance / strategy markdown** unless something is **field-blocked** (e.g. you cannot log a quote without a template that does not exist).
+Another excellent gap doc is **not** a win.  
+Do **not** ask for more adversarial markdown review until:
 
-Since this board last mattered, the repo already gained white paper, roadmap, risk, theft, KPI, AI path, remote ops, site UX — enough.
+- you fill **G0.5** (LESSONS §1b — at least for yourself), **or**  
+- **G1** is logged, **or**  
+- you publish a hard pause  
 
-| Allowed paper | Not allowed this window |
-|---------------|-------------------------|
-| Trip log lines, quotes, baselines | New “vision” chapters |
-| UPDATES when you **post X** or close a gate | Another parallel plan doc |
-| Fix bugs / ship-check | Optional remote/AI polish |
-
-**Exception already used:** living white paper + roadmap (done). Do not open a third “master narrative.”
+[STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) §0.
 
 ---
 
-## Trip = listen first (decision)
+## Ordered work (Jacques)
 
-Do **not** try to re-earn trust *and* install in the same ~2 weeks.  
-**Must-hit:** G1. **Stretch:** G2 + baseline starts + water/theft notes.  
-**Default off:** unit install (second visit). See [STRATEGIC_GAPS.md](STRATEGIC_GAPS.md) · [GROUND_TRIP.md](GROUND_TRIP.md).
+| Rank | Win | You do | Gate |
+|------|-----|--------|------|
+| **0** | **Wind-down honesty** | Answer LESSONS §1b (paid? disputes? herds high-level). Private notes OK; public line preferred | **G0.5** |
+| **1** | **Post Day-1 X** (scars in) | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) | Attention |
+| **2** | **Own listen-first trip** | First field note says: listen/recon, no install default | Trip mode |
+| **3** | **G1** | Rumbacaca real intro → GROUND_TRIP line | **G1** |
+| **4** | **G2** stretch | One written quote | **G2** |
+| **5** | Ceiling | Number/band on WHO **before unit $**; or within 30d of G1 publish ceiling/deferral | Capital |
+| **6** | Water/theft/offtake **notes** | Recon only | Plan B data |
+| **7** | Wrap | Honest empty days OK | Integrity |
 
-**Before leaving (operator, private then public):** fill LESSONS §1b if you can — *were people paid?* often matters more locally than ~ZAR 10m.
+**Forbidden this window:** new strategy chapters, remote/AI polish, “find more gaps” prompts to the AI.
 
-## Big wins this window (human)
-
-| Rank | Win | You do | Artifact |
-|------|-----|--------|----------|
-| **1** | **Post Day-1 thread** (scars included) | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) | X URL → UPDATES |
-| **2** | **Post leaving + success def** (listen-first trip) | [X_FIELD_2WEEKS.md](X_FIELD_2WEEKS.md) P1–P2 | X |
-| **3** | **Daily field notes** | X template + GROUND_TRIP | Honest empty days OK |
-| **4** | **G1 — real intro** | Rumbacaca listen; field kit | Dated GROUND_TRIP line |
-| **5** | **G2 — written quote** (stretch) | Photo + SUPPLIERS | Price row |
-| **6** | **Baseline form started** | No % claims | Draft / form |
-| **7** | **Water + theft + offtake recon** | Site / market walk | Trip log — feeds Plan B |
-| **8** | **End wrap** | X_FIELD_2WEEKS W1–W4 | Honest zeros OK |
-| **9** | **Publish ceiling or “no unit capital yet”** | WHO.md | Before any kit spend |
-
-Starlink / expert recruit / AI demos = **optional side** only if they don’t steal days from 4–7.
+**Allowed paper:** trip log, quotes, LESSONS §1b fills, UPDATES when you post or close a gate, bugfixes.
 
 ---
 
-## Daily rhythm (on the ground)
+## Trip mode (design — you still confirm in first note)
 
-1. Morning: who/where (private notes OK)  
-2. Meetings with [field/INTERVIEW.md](field/INTERVIEW.md) / consent  
-3. Quotes → photo + [SUPPLIERS.md](SUPPLIERS.md)  
-4. Same-day X note if signal  
-5. Night: [field/DAILY_LOG.md](field/DAILY_LOG.md)  
-
-Print: [one-pager](field/GroundYield_Field_OnePager_EN_PT.pdf) + [forms](field/GroundYield_Field_Forms_EN_PT.pdf).
+Listen + recon. G1 must. No install default.  
+Whiplash risk: they knew big-farm Jacques; pitch is 0.25 ha — see LESSONS §5b / pocket scripts.
 
 ---
 
-## Still frozen / forbidden
-
-- L2/L3 agronomy rates until G5-A/B  
-- Yield % as results · unit count without registry  
-- Stock photos as this pilot · AI “live” from L1 demos alone  
-- **New strategy PDFs/docs** (see freeze above)
-
----
-
-## Links (ops only)
+## Links
 
 | Need | Open |
 |------|------|
+| Wind-down table | [LESSONS_MZ.md](LESSONS_MZ.md) §1b |
+| Gates | [field/GATES.md](field/GATES.md) |
 | Trip | [GROUND_TRIP.md](GROUND_TRIP.md) |
-| Risks this trip | [RISK_AND_GAPS.md](RISK_AND_GAPS.md) §5.1 |
-| X Day-1 (scars in) | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) |
-| X return extras | [X_RETURN.md](X_RETURN.md) |
-| Quotes | [field/QUOTE_REQUESTS.md](field/QUOTE_REQUESTS.md) |
-| Contacts | [field/LOCAL_CONTACTS.md](field/LOCAL_CONTACTS.md) |
+| X | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) |
+| Ceiling | [WHO.md](WHO.md) |
 | Registry | https://www.groundyield.org/units.html |
-| White paper / roadmap | /whitepaper.html · /roadmap.html |
-
-When you post, send the URL — append UPDATES.

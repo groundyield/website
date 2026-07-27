@@ -8,6 +8,20 @@ Short versions of [ADVICE_SCRIPTS.md](../ADVICE_SCRIPTS.md) for phone notes.
 
 ---
 
+## First listen — relational whiplash (PT)
+
+For people who remember large-farm Jacques. **Not** a kit pitch.
+
+```
+Eu tentei em grande aqui e perdi. Não peço que apostem grande comigo.
+Só um pacote pequeno e medido — se quiserem. Podem dizer não.
+Não venho recuperar milhares de hectares. Venho ouvir.
+```
+
+EN: *I tried big here and lost. I’m not asking you to bet big with me. Only a small measured package if you want — you can say no. I’m not reclaiming thousands of hectares. I’m here to listen.*
+
+---
+
 ## Opt-in
 
 ```
