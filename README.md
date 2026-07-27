@@ -16,6 +16,15 @@ Raising real yields on the ground. Transparent data. Community first.
 
 Canonical host: **www**. Apex redirects to www.
 
+## Deploy (read this)
+
+**Production must equal this repo’s `main` branch.**  
+Full rules, checklist, and failure modes: **[DEPLOY.md](DEPLOY.md)**.
+
+- Connect Vercel project `groundyield` → GitHub `groundyield/website` → branch `main`
+- **Never** upload a partial file set to production (drops `pt.html` / images)
+- Do not mark updates “live” until the [DEPLOY.md](DEPLOY.md) URL checklist returns HTTP 200
+
 ## Who runs this
 
 **Jacques Theron** — founder / operator. Self-funded; no legal entity yet.  
@@ -42,6 +51,7 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 | [SOURCES.md](SOURCES.md) | Citations for public claims |
 | [UPDATES.md](UPDATES.md) | Changelog (source of truth) |
 | [GROUND_TRIP.md](GROUND_TRIP.md) | Trip checklist (SA → ZW → MZ) |
+| [DEPLOY.md](DEPLOY.md) | **How production is deployed (Git → Vercel)** |
 | [data/](data/) | CSV schemas + BOM tables |
 | [LICENSE](LICENSE) | MIT — open by design |
 
@@ -72,10 +82,13 @@ Everything is published openly: design, costs, yields, incomes, and failures.
 | Path | Notes |
 |------|--------|
 | `index.html` | Public landing page (static) |
+| `pt.html` | Portuguese landing |
 | `404.html` | Not-found page |
-| `CNAME` | Documents preferred host `www.groundyield.org` (live deploy is Vercel; keep DNS + Vercel domain settings in sync) |
+| `CNAME` | Preferred host `www.groundyield.org` (live host is Vercel) |
 | `og-image.png` | 1200×630 social share card |
 | `favicon.svg`, `apple-touch-icon.png`, `icon-512.png` | Icons |
+| `vercel.json` | Static headers |
+| `DEPLOY.md` | Deploy rules |
 
 ## Local preview
 
@@ -88,7 +101,8 @@ Open `http://localhost:3000` (or the port shown).
 ## Status
 
 **Foundation phase.**  
-Public identity, unit design, economics, trust docs, and Portuguese summary are live.  
+Public identity, unit design, economics, trust docs, and Portuguese summary are in the repo and on the site surface.  
+**Ops:** keep Vercel Git-linked to `main` so production cannot drift.  
 Next: ground trip, land, community, baselines, real supplier quotes.
 
 ---
