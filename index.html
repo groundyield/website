@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GroundYield — Open Modular Farm Pilot</title>
+  <meta name="description" content="GroundYield is an open, transparent modular high-productivity farm pilot in Vilanculos, Mozambique. Raising real yields with public data." />
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --text: #e8eef5;
+      --muted: #8b9cb3;
+      --accent: #3dd68c;
+      --accent-dim: #2a9d6a;
+      --border: #2a3548;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+    header {
+      padding: 3rem 0 2rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .logo {
+      font-size: 1.75rem;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      color: var(--text);
+    }
+    .logo span {
+      color: var(--accent);
+    }
+    .tagline {
+      margin-top: 0.5rem;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    main {
+      padding: 3rem 0 4rem;
+    }
+    h1 {
+      font-size: 2.25rem;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: 1.2;
+      margin-bottom: 1rem;
+    }
+    .lead {
+      font-size: 1.2rem;
+      color: var(--muted);
+      margin-bottom: 2.5rem;
+      max-width: 36rem;
+    }
+    section {
+      margin-bottom: 3rem;
+    }
+    h2 {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+      margin-bottom: 1rem;
+      font-weight: 600;
+    }
+    p, li {
+      color: var(--text);
+      margin-bottom: 0.75rem;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li {
+      position: relative;
+      padding-left: 1.4rem;
+      margin-bottom: 0.6rem;
+    }
+    ul li::before {
+      content: "→";
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-weight: 600;
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin-top: 1rem;
+    }
+    .status {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: rgba(61, 214, 140, 0.12);
+      color: var(--accent);
+      font-size: 0.85rem;
+      font-weight: 500;
+      padding: 0.35rem 0.85rem;
+      border-radius: 999px;
+      margin-bottom: 1.5rem;
+    }
+    .status::before {
+      content: "";
+      width: 8px;
+      height: 8px;
+      background: var(--accent);
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+    .cta {
+      margin-top: 2.5rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border);
+    }
+    .cta a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .cta a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      padding: 2rem 0 3rem;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+    @media (max-width: 600px) {
+      h1 { font-size: 1.75rem; }
+      .lead { font-size: 1.05rem; }
+      header { padding: 2rem 0 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">Ground<span>Yield</span></div>
+      <div class="tagline">Open modular farm pilot · Vilanculos, Mozambique</div>
+    </header>
+
+    <main>
+      <div class="status">Foundation phase · Live</div>
+
+      <h1>Raising real yields<br>on the ground.</h1>
+      <p class="lead">
+        Transparent modular high-productivity farming for smallholders. 
+        Solar irrigation, improved inputs, AI advice, livestock integration — 
+        all measured and published openly.
+      </p>
+
+      <section>
+        <h2>Mission</h2>
+        <p>
+          Close the yield gap in southern Mozambique with a replicable, 
+          open-source modular farm system. Prove higher yields and income 
+          with full public data — no private reports, no hidden numbers.
+        </p>
+      </section>
+
+      <section>
+        <h2>Public Charter</h2>
+        <div class="card">
+          <ul>
+            <li>Deploy 30–60 modular units in Season 1 (Vilanculos)</li>
+            <li>Target 80–100%+ yield increase on staple crops vs local baseline</li>
+            <li>Raise household income via cash crops + poultry modules</li>
+            <li>Publish costs, yields, incomes and failures in real time</li>
+            <li>Create an open, replicable model anyone can copy</li>
+          </ul>
+        </div>
+      </section>
+
+      <section>
+        <h2>Core Package</h2>
+        <ul>
+          <li>Solar-powered irrigation</li>
+          <li>Improved / hybrid seeds + micro-dosing fertilizer</li>
+          <li>Phone-based AI agronomy advice</li>
+          <li>Hermetic storage to cut post-harvest loss</li>
+          <li>Optional poultry & goat modules</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Location</h2>
+        <p>
+          <strong>Vilanculos</strong>, Inhambane Province, Mozambique.<br>
+          Southern coast — relatively stable, existing smallholder systems, 
+          tourism market for fresh produce.
+        </p>
+      </section>
+
+      <section>
+        <h2>Open Commitment</h2>
+        <p>
+          Everything is public from day one: design, budget structure, 
+          community agreements, yield data, costs, and lessons (including failures). 
+          No private reports. The goal is a model that others can trust and replicate.
+        </p>
+      </section>
+
+      <div class="cta">
+        <p>
+          This is the public home of the pilot.<br>
+          Follow progress · Contribute · Replicate later.
+        </p>
+        <p style="margin-top: 1rem;">
+          <a href="https://github.com/groundyield/website">GitHub →</a> &nbsp;·&nbsp;
+          Domain: <strong>groundyield.org</strong>
+        </p>
+      </div>
+    </main>
+
+    <footer>
+      GroundYield · Open by design · 2026
+    </footer>
+  </div>
+</body>
+</html>
