@@ -51,6 +51,7 @@ When dates lock, replace *TBD* here and add a line under **Public log** the same
 - [ ] Safety and contingency plan
 - [x] Confirm notification path to operator (GitHub merge mail for PR #1 received 27 Jul 2026)
 - [ ] Spot-check direct mail to `team@groundyield.org` (partnership inbox)
+- [x] Print [field/GroundYield_Field_OnePager_EN_PT.pdf](field/GroundYield_Field_OnePager_EN_PT.pdf) (EN+PT offline handout)
 
 ---
 
@@ -79,12 +80,6 @@ When dates lock, replace *TBD* here and add a line under **Public log** the same
 - [ ] Improved / hybrid seed availability and cost
 - [ ] Fertilizer (type, price, reliability)
 - [ ] Hermetic storage bags / silos availability
-- [ ] Poultry / goat input markets (if modules planned early)
-
-### Risks observed
-- [ ] Climate / drought history (anecdotal + local knowledge)
-- [ ] Theft, conflict, access issues
-- [ ] Currency, import, and logistics friction
 
 ---
 
@@ -94,34 +89,17 @@ When dates lock, replace *TBD* here and add a line under **Public log** the same
 |-------------|----------|
 | Trip narrative + dates | This file + website Updates |
 | Baseline notes (anonymized as needed) | `data/` |
-| Supplier quotes | Update UNIT.md + `data/unit-bom-v0.csv` → v1 |
-| Land / partnership options (non-sensitive) | PARTNERSHIPS.md or PLAN |
-| Failures and false starts | This log + Updates |
+| Supplier shortlist + real quotes | Update `UNIT.md` + `data/unit-bom-v0.csv` |
+| Land / partnership options (non-sensitive) | [PARTNERSHIPS.md](PARTNERSHIPS.md) |
+| Validated crop calendar | [SEASON.md](SEASON.md) |
+| Economics with real prices | [ECONOMICS.md](ECONOMICS.md) |
+| Failures and false starts | Updates + this file |
 
 ---
 
-## Public log
+## Notes Log
 
-| Date | Location | Entry | Type |
-|------|----------|-------|------|
-| 2026-07-27 | — | Foundation docs live (UNIT, ECONOMICS, SEASON, AI, PARTNERSHIPS, WHO). Trip not started. | fact |
-
-_Add a row after each meaningful day or decision. Do not rewrite history — append corrections as new rows._
-
----
-
-## Quote tracker (fill on trip)
-
-| Item | Supplier / place | Quote (currency) | Date | Notes |
-|------|------------------|------------------|------|-------|
-| | | | | |
-
----
-
-## Baseline tracker (fill on trip)
-
-Link or paste anonymized rows into `data/` using `schema-baseline.csv`.  
-Until then: **no yield claims beyond national public averages.**
+_No field entries yet._
 
 ---
 
