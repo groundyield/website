@@ -12,6 +12,7 @@ Raising real yields on the ground. Transparent data. Community first.
 | Website | [groundyield.org](https://groundyield.org) |
 | X | [@GroundYield](https://x.com/GroundYield) |
 | This repo | [github.com/groundyield/website](https://github.com/groundyield/website) |
+| Contact | team@groundyield.org |
 
 ## Documents
 
@@ -19,9 +20,9 @@ Raising real yields on the ground. Transparent data. Community first.
 |------|--------|
 | [PLAN.md](PLAN.md) | Full public plan — problem, approach, phases |
 | [CHARTER.md](CHARTER.md) | Binding public commitments and Season 1 targets |
+| [UNIT.md](UNIT.md) | **Modular Unit v0 — BOM + cost model** |
 | [DATA.md](DATA.md) | What we measure and how we publish it |
-| [GROUND_TRIP.md](GROUND_TRIP.md) | Field trip plan and checklist |
-| [data/](data/) | Public datasets and CSV schemas |
+| [GROUND_TRIP.md](GROUND_TRIP.md) | Trip checklist (SA → ZW → MZ) |
 | [LICENSE](LICENSE) | MIT — open by design |
 
 ## What this is
@@ -47,22 +48,8 @@ Everything is published openly: design, costs, yields, incomes, and failures.
 ## Status
 
 **Foundation phase.**  
-Public identity and plan are live.  
-Next: ground trip (South Africa → Zimbabwe → Mozambique), land options, community engagement, baseline data.
-
-## Contact
-
-- Website: [groundyield.org](https://groundyield.org)
-- X: [@GroundYield](https://x.com/GroundYield)
-- Email: [team@groundyield.org](mailto:team@groundyield.org)
-
-## Local preview
-
-Static site — open `index.html` in a browser, or:
-
-```bash
-npx serve .
-```
+Public identity, plan, charter, data standards, and first unit design (v0) are live.  
+Next: ground trip (South Africa → Zimbabwe → Mozambique), land options, community engagement, baseline data, real supplier quotes.
 
 ---
 
