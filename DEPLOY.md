@@ -10,18 +10,11 @@
 2. **Host:** Vercel project **`groundyield`** (team: Jacques Theron’s projects)
 3. **Domains:** `www.groundyield.org` (canonical) · apex redirects to www
 
-### One-time: connect Git to Vercel
+### Git connection (done 27 Jul 2026)
 
-If production was ever updated by uploading a *subset* of files, icons and pages can 404. Fix permanently:
+Vercel project **groundyield** is linked to **`github.com/groundyield/website`**, production branch **`main`**, repository root. Every push to `main` deploys the full tree — including binaries (`og-image.png`, icons, field PDF).
 
-1. Vercel → Project **groundyield** → **Settings** → **Git**
-2. Connect **`groundyield/website`**
-3. Production branch: **`main`**
-4. Root directory: **repository root** (empty / `.`)
-5. Framework preset: **Other** (static files; no build command)
-6. Trigger **Redeploy** from latest `main` commit
-
-After that, **every push to `main` deploys the full tree** — including binaries (`og-image.png`, icons).
+If the link is ever broken: Settings → Git → connect `groundyield/website` again (not the sluiper fork).
 
 ---
 

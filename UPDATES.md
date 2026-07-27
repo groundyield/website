@@ -9,6 +9,18 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Vercel Git connected to groundyield/website
+
+- Production project **groundyield** is linked to **`github.com/groundyield/website`** (not the sluiper fork), production branch **`main`**.
+- Full-tree deploy from `main` verified live: homepage, `pt.html`, robots, sitemap, RSS, favicon, OG image, icons, field PDF — all HTTP 200.
+- **Correction** to the earlier deploy note: the “ops remaining” Git connect gap is **closed**. Partial file deploys remain banned ([DEPLOY.md](DEPLOY.md)).
+
+## 27 Jul 2026 — Field one-pager (offline EN+PT)
+
+- [field/GroundYield_Field_OnePager_EN_PT.pdf](field/GroundYield_Field_OnePager_EN_PT.pdf) — printable two-page handout for community/supplier first contact (no signal required).
+- Framed: local baseline (not national averages); planning cost band not an offer of payment; named accountability; “what we are not asking today.”
+- Previews + rebuild script under `field/`. Linked from the site docs list and trip checklist.
+
 ## 27 Jul 2026 — Irrigation options + live-verify script
 
 - [IRRIGATION.md](IRRIGATION.md): per-unit kit vs shared headworks (capital + governance).
@@ -19,7 +31,7 @@ Newest first. Do not silently edit old entries — append corrections.
 
 - **[DEPLOY.md](DEPLOY.md)** added: Git → Vercel as the only supported production path; live-verify checklist; explicit ban on partial uploads.
 - README points to DEPLOY.md.
-- **Ops remaining:** Connect Vercel project `groundyield` to this repo’s `main` and redeploy full tree so **`/og-image.png`** (and icons) return 200 on the domain. Assets exist on GitHub; last partial production deploys omitted binaries.
+- *(Historical note at write time: Git connect + binary assets were still open. Closed the same day — see entry “Vercel Git connected…” above.)*
 
 ## 27 Jul 2026 — Full static surface + orphaned docs
 

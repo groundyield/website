@@ -34,11 +34,12 @@ check "/favicon.svg"
 check "/og-image.png"
 check "/apple-touch-icon.png"
 check "/icon-512.png"
+check "/field/GroundYield_Field_OnePager_EN_PT.pdf"
 
 echo "----------------------------------------"
 curl -sL --max-time 25 "${BASE}/" -o /tmp/gy_home.out
 
-for needle in "Jacques Theron" "pt.html" "UNIT.md" "SEASON.md"; do
+for needle in "Jacques Theron" "pt.html" "UNIT.md" "SEASON.md" "Field one-pager" "updates.rss"; do
   if grep -q "$needle" /tmp/gy_home.out; then
     echo "OK   homepage contains: ${needle}"
   else
@@ -46,6 +47,22 @@ for needle in "Jacques Theron" "pt.html" "UNIT.md" "SEASON.md"; do
     FAIL=1
   fi
 done
+
+# RSS should not be a one-line stub and should mention recent substance
+curl -sL --max-time 25 "${BASE}/updates.rss" -o /tmp/gy_rss.out
+rss_items=$(grep -c '<item>' /tmp/gy_rss.out || true)
+if [[ "${rss_items}" -lt 4 ]]; then
+  echo "FAIL updates.rss has fewer than 4 items (got ${rss_items})"
+  FAIL=1
+else
+  echo "OK   updates.rss item count: ${rss_items}"
+fi
+if ! grep -q "Field one-pager\|field one-pager\|offline" /tmp/gy_rss.out; then
+  echo "FAIL updates.rss missing field/offline entry"
+  FAIL=1
+else
+  echo "OK   updates.rss mentions field/offline handout"
+fi
 
 if grep -qi "placeholder" /tmp/gy_home.out; then
   echo "FAIL homepage contains 'placeholder'"

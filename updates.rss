@@ -6,7 +6,21 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 18:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 20:30:00 +0000</lastBuildDate>
+    <item>
+      <title>Vercel Git connected to groundyield/website</title>
+      <link>https://github.com/groundyield/website/blob/main/DEPLOY.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-vercel-git</guid>
+      <pubDate>Mon, 27 Jul 2026 20:30:00 +0000</pubDate>
+      <description>Production linked to github.com/groundyield/website main (not the sluiper fork). Full-tree deploys verified live including OG image, icons, favicon, and field PDF. Partial uploads remain banned.</description>
+    </item>
+    <item>
+      <title>Field one-pager PDF (EN+PT offline handout)</title>
+      <link>https://www.groundyield.org/field/GroundYield_Field_OnePager_EN_PT.pdf</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-field-onepager</guid>
+      <pubDate>Mon, 27 Jul 2026 19:00:00 +0000</pubDate>
+      <description>Printable two-page EN+PT handout for ground contact without internet. Local baseline framing, planning cost band, named accountability, no ask for money on first meeting. field/</description>
+    </item>
     <item>
       <title>Irrigation options + live-verify script</title>
       <link>https://github.com/groundyield/website/blob/main/IRRIGATION.md</link>
@@ -19,7 +33,7 @@
       <link>https://github.com/groundyield/website/blob/main/DEPLOY.md</link>
       <guid isPermaLink="false">groundyield-2026-07-27-deploy</guid>
       <pubDate>Mon, 27 Jul 2026 17:00:00 +0000</pubDate>
-      <description>DEPLOY.md added: Git → Vercel as the only supported production path; live-verify checklist; explicit ban on partial uploads. Ops remaining: connect Vercel to main so og-image.png and icons return 200 on the domain.</description>
+      <description>DEPLOY.md: Git → Vercel as the only supported production path; live-verify checklist; explicit ban on partial uploads. (Git connect completed later the same day.)</description>
     </item>
     <item>
       <title>Portuguese page, supplier template, advice scripts</title>
