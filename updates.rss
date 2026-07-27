@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 04:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 04:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Operator history: prior Vilanculos scale farming failure</title>
+      <link>https://github.com/groundyield/website/blob/main/LESSONS_MZ.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-lessons-mz</guid>
+      <pubDate>Tue, 28 Jul 2026 04:45:00 +0000</pubDate>
+      <description>Jacques discloses ~3500ha era, Toro partnership scale, exit after COVID costs and bad choices, ~ZAR 10m loss (E). Not current land control. Return to Rumbacaca. Modular open pilot is the opposite bet.</description>
+    </item>
     <item>
       <title>SYSTEM.md — physical units, Starlink hubs, AI roles</title>
       <link>https://github.com/groundyield/website/blob/main/SYSTEM.md</link>

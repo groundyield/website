@@ -29,7 +29,8 @@ Full rules, checklist, and failure modes: **[DEPLOY.md](DEPLOY.md)**.
 ## Who runs this
 
 **Jacques Theron** — founder / operator. Self-funded; no legal entity yet.  
-Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
+Prior Vilanculos-scale farming (failed/left; ~ZAR 10m operator-disclosed loss) — **[LESSONS_MZ.md](LESSONS_MZ.md)**.  
+Funding, conflicts, corrections: **[WHO.md](WHO.md)**.
 
 ## Documents
 

@@ -9,6 +9,14 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Operator history: prior MZ scale farming failure
+
+- **[LESSONS_MZ.md](LESSONS_MZ.md)** — Jacques discloses prior Vilanculos-area farming (~3,500 ha own era), Toro Ranch partnership context (much larger scale, livestock, national delivery), exit ~5 years post-COVID (costs + bad choices), operator-disclosed loss order **~ZAR 10 million**.
+- **Not a claim of current control** of those hectares or businesses. GroundYield registry remains **0 units**.
+- Return focus: **Rumbacaca** community (existing trust). Current livelihood: HSE shutdowns, Anabeeb, KSA.
+- WHO + homepage updated. Design implication: modular + open because empire-scale opaque farming already failed once.
+- X copy: [X_RETURN.md](X_RETURN.md).
+
 ## 27 Jul 2026 — SYSTEM.md: what we do + Starlink + AI roles
 
 - **[SYSTEM.md](SYSTEM.md)** — single map of physical farm units, connectivity (school-first Starlink hubs), and AI (ops now; farmer advice only after G5).

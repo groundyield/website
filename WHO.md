@@ -13,12 +13,15 @@ A project that asks people to trust its numbers has to say who is producing them
 |---|---|
 | **Name** | **Jacques Theron** |
 | **Role** | Founder / operator of the GroundYield pilot |
-| **Pilot focus** | Vilanculos, Inhambane Province, Mozambique |
+| **Pilot focus** | Vilanculos area, Inhambane Province, Mozambique (incl. return to **Rumbacaca** community) |
+| **Also** | HSE manager (shutdowns), Anabeeb — Kingdom of Saudi Arabia (current livelihood) |
 | **Email** | [team@groundyield.org](mailto:team@groundyield.org) |
 | **X** | [@GroundYield](https://x.com/GroundYield) |
 | **GitHub** | [github.com/groundyield](https://github.com/groundyield) |
 
 If published data is wrong, **Jacques Theron** is responsible for correcting it. Corrections and contact also run through **team@groundyield.org** and this repository’s issues.
+
+**Prior track record (same geography — not current operations):** farmed at scale in the Vilanculos area (own operation order ~3,500 ha; partnership context with **Toro Ranch** at much larger scale, cattle/goats/sheep, national delivery shop). Left ~5 years ago after COVID-era cost/government pressure and bad choices; operator-disclosed loss order **~ZAR 10 million**. **Does not** currently claim those hectares or businesses. Full summary: [LESSONS_MZ.md](LESSONS_MZ.md).
 
 **Inbox status (27 Jul 2026):** GitHub project notifications for `groundyield/website` are reaching Jacques (merge mail for PR #1 confirmed). Public contact address remains **team@groundyield.org** — keep forwarding healthy for partnership mail.
 
@@ -71,9 +74,14 @@ There is **no** independent auditor, local co-signer, board, or NGO partner veri
 
 ## Conflicts of interest
 
-**None declared as of 27 July 2026.**
+| Item | Disclosure |
+|------|------------|
+| Prior Toro Ranch / large-scale MZ farming | **Past** partnership and operations — not presented as current GroundYield assets |
+| Abandoned ~3,500 ha Vilanculos-area farming | **Past** — any future land use needs fresh legal + community legitimacy |
+| Employment (Anabeeb, KSA) | Current paid HSE work; may limit continuous in-country presence |
+| Other suppliers / land vehicles | None declared beyond the above as of 27 July 2026 |
 
-If Jacques Theron later has a financial interest in a supplier, input company, land vehicle, or related venture, it will be disclosed on this page **before** related procurement or partnership decisions.
+If new financial interests arise, they will be disclosed here **before** related procurement or partnership decisions.
 
 ---
 

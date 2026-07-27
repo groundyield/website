@@ -39,11 +39,12 @@ Do not invent hotel-level precision.
 
 ## Purpose
 
-1. Confirm land and community partnership options near Vilanculos
-2. Collect **baseline** yield and practice notes before any intervention claims
-3. Map suppliers for irrigation, seed, fertilizer, and storage — **real quotes**
-4. Understand local constraints (water, markets, transport, seasonality)
-5. Publish what we learn — including false starts
+1. **Return to Rumbacaca** — re-meet people who already know Jacques; listen first; no money ask; no empire re-launch
+2. Confirm land and community partnership options near Vilanculos (**current** legitimacy — past 3,500 ha is abandoned history, not a claim)
+3. Collect **baseline** yield and practice notes before any intervention claims
+4. Map suppliers for irrigation, seed, fertilizer, and storage — **real quotes**
+5. Understand local constraints (water, markets, transport, seasonality, **gov/cost risk** he already paid for once)
+6. Publish what we learn — including false starts and why the last model failed ([LESSONS_MZ.md](LESSONS_MZ.md))
 
 ---
 
@@ -155,6 +156,7 @@ Master index: **[field/FIELD_KIT.md](field/FIELD_KIT.md)**
 | Date | Note (public-safe) | Gate |
 |------|--------------------|------|
 | 27 Jul 2026 | Operator states ground presence within **next ~2 weeks** (provisional window ~27 Jul – 10 Aug 2026). Corridor SA→ZW→MZ still the aim; day splits open. X field post pack published. | pre-G1 |
+| 27 Jul 2026 | Operator discloses prior Vilanculos-scale farming failure + Toro partnership era + ~ZAR 10m loss (E); **Rumbacaca** is primary community return. See LESSONS_MZ.md. Not a claim of current large-farm control. | pre-G1 |
 | | | |
 
 When G1 starts (real intro/meeting), add a dated one-liner (role/org type OK; no private phones).

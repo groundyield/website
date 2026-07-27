@@ -2,7 +2,8 @@
 
 **GroundYield operating model (public)**  
 Last updated: 27 July 2026  
-**Stage:** Phase 0 · paper ready · ground window opening · **0 units · 0 baselines**
+**Stage:** Phase 0 · paper ready · ground window opening · **0 units · 0 baselines**  
+**Operator history:** prior large-scale farming in same area — failed/left; see [LESSONS_MZ.md](LESSONS_MZ.md). Not current land control.
 
 This is the single map of **work**, **connectivity**, and **AI**.  
 It does not claim results. Targets stay aspirational until measured ([CHARTER.md](CHARTER.md)).
