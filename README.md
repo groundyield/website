@@ -36,10 +36,14 @@ Funding, conflicts, corrections: **[WHO.md](WHO.md)**.
 
 ## Documents
 
-**Start here:** [**PLAN.md**](PLAN.md) (master open plan) · [SYSTEM.md](SYSTEM.md) · [RISK_AND_GAPS.md](RISK_AND_GAPS.md) · [LESSONS_MZ.md](LESSONS_MZ.md) · [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) · [SECURITY_THEFT.md](SECURITY_THEFT.md) · [NEXT.md](NEXT.md)
+**Start here:** [**whitepaper.html**](https://www.groundyield.org/whitepaper.html) / [WHITEPAPER.md](WHITEPAPER.md) · [**roadmap.html**](https://www.groundyield.org/roadmap.html) / [ROADMAP.md](ROADMAP.md) · [**PLAN.md**](PLAN.md) · [docs.html](https://www.groundyield.org/docs.html) · [NEXT.md](NEXT.md)
+
+Living docs **change with data** — version + UPDATES log, no silent rewrites.
 
 | File | Purpose |
 |------|--------|
+| [WHITEPAPER.md](WHITEPAPER.md) / [whitepaper.html](https://www.groundyield.org/whitepaper.html) | **Living white paper** — thesis, method, evidence |
+| [ROADMAP.md](ROADMAP.md) / [roadmap.html](https://www.groundyield.org/roadmap.html) | **Living roadmap** — phases 0–3, milestones |
 | [**PLAN.md**](PLAN.md) | **Master open plan** — problem, package, phases, risks, doc map |
 | [SYSTEM.md](SYSTEM.md) | Physical + Starlink + AI roles |
 | [CHARTER.md](CHARTER.md) | Binding process vs design aims |

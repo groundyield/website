@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 10:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Living white paper and proposed roadmap</title>
+      <link>https://www.groundyield.org/whitepaper.html</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-whitepaper-roadmap</guid>
+      <pubDate>Tue, 28 Jul 2026 10:45:00 +0000</pubDate>
+      <description>WHITEPAPER v0.1-draft and ROADMAP v0.1 are living public documents: thesis, phases 0–3, evidence tables (0 units). They revise as field data arrives; version + UPDATES, no silent rewrites. Pages: whitepaper.html and roadmap.html.</description>
+    </item>
     <item>
       <title>Site UX cleanup — docs library, simpler home</title>
       <link>https://www.groundyield.org/docs.html</link>

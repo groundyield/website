@@ -6,6 +6,8 @@ Vilanculos area, Inhambane Province, Mozambique
 This is the **master plan**. Everything else is a deep dive.  
 Public by design. Updated when reality changes — append corrections, don’t silent-rewrite.
 
+**Shareable living docs:** [whitepaper.html](https://www.groundyield.org/whitepaper.html) (thesis) · [roadmap.html](https://www.groundyield.org/roadmap.html) (phases) — both revise with field data.
+
 | | |
 |---|---|
 | **Stage** | Phase 0 — Foundation · ground window opening |
@@ -224,6 +226,8 @@ Trip ops ≠ unit capital: [TRIP_BUDGET.md](TRIP_BUDGET.md) vs [UNIT.md](UNIT.md
 | Doc | Role |
 |-----|------|
 | **PLAN.md** (this file) | Master open plan |
+| [WHITEPAPER.md](WHITEPAPER.md) · [whitepaper.html](whitepaper.html) | **Living white paper** (thesis + evidence) |
+| [ROADMAP.md](ROADMAP.md) · [roadmap.html](roadmap.html) | **Living roadmap** (phases + milestones) |
 | [SYSTEM.md](SYSTEM.md) | Physical + Starlink + AI |
 | [CHARTER.md](CHARTER.md) | Binding vs aims |
 | [INTEGRITY.md](INTEGRITY.md) | Anti-fraud |

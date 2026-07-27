@@ -87,6 +87,8 @@ check_typed "/field/GroundYield_Field_Forms_EN_PT.pdf" "pdf\|octet" "25504446"
 check "/units.html"
 check "/day1.html"
 check "/docs.html"
+check "/whitepaper.html"
+check "/roadmap.html"
 
 echo "----------------------------------------"
 curl -sL --max-time 25 "${BASE}/?${CB}" -o /tmp/gy_home.out

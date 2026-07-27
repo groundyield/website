@@ -9,6 +9,12 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Living white paper + proposed roadmap
+
+- **[WHITEPAPER.md](WHITEPAPER.md)** / **[whitepaper.html](whitepaper.html)** — v0.1-draft living thesis: problem, method, current evidence (0 units), open questions. Revises with data; revision log + UPDATES.
+- **[ROADMAP.md](ROADMAP.md)** / **[roadmap.html](roadmap.html)** — v0.1 proposed phases 0–3, milestones, parallel AI/Starlink/remote tracks, evidence snapshot. Checkmarks as gates close; not a forecast.
+- Wired home nav, docs library, PLAN, README, sitemap, live-verify.
+
 ## 27 Jul 2026 — Site UX cleanup (less messy)
 
 - **Problem:** homepage became a long flat dump (40+ doc links, many same-day updates) while building fast.

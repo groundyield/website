@@ -23,13 +23,17 @@ Related: [index.html](index.html) · [docs.html](docs.html) · [PLAN.md](PLAN.md
 ## Information architecture
 
 ```
-/                 → story + status + 6 start paths + short sections
+/                 → story + status + start paths + short sections
+/whitepaper.html  → living thesis (revises with data)
+/roadmap.html     → living phases/milestones
 /docs.html        → full library (grouped)
 /units.html       → registry count (integrity)
 /day1.html        → shareable essay
 /pt.html          → Portuguese short page
 GitHub *.md       → deep detail (PLAN, RISK, field/, …)
 ```
+
+**Living docs rule:** WHITEPAPER + ROADMAP bump version and log in UPDATES when evidence changes; never pretend old zeros were successes.
 
 **Audiences**
 
