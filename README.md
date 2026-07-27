@@ -7,17 +7,25 @@ Raising real yields on the ground. Transparent data. Community first.
 
 ## Live
 
-- Website: [groundyield.org](https://groundyield.org)
-- X: [@GroundYield](https://x.com/GroundYield)
-- GitHub: [github.com/groundyield/website](https://github.com/groundyield/website)
+| | |
+|---|---|
+| Website | [groundyield.org](https://groundyield.org) |
+| X | [@GroundYield](https://x.com/GroundYield) |
+| This repo | [github.com/groundyield/website](https://github.com/groundyield/website) |
 
-## Full Plan
+## Documents
 
-See **[PLAN.md](PLAN.md)** for the complete public plan, phases, and principles.
+| File | Purpose |
+|------|--------|
+| [PLAN.md](PLAN.md) | Full public plan — problem, approach, phases |
+| [CHARTER.md](CHARTER.md) | Binding public commitments and Season 1 targets |
+| [DATA.md](DATA.md) | What we measure and how we publish it |
+| [LICENSE](LICENSE) | MIT — open by design |
 
 ## What this is
 
 A transparent pilot of modular farm units for smallholders:
+
 - Solar irrigation
 - Improved seeds + micro-dosing fertilizer
 - AI agronomy advice
@@ -36,7 +44,9 @@ Everything is published openly: design, costs, yields, incomes, and failures.
 
 ## Status
 
-Foundation phase. Land + community engagement underway.
+**Foundation phase.**  
+Public identity and plan are live.  
+Next: ground trip (South Africa → Zimbabwe → Mozambique), land options, community engagement, baseline data.
 
 ---
 
