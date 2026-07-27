@@ -95,8 +95,10 @@ Never first-message “retweet us” or “donate.”
 | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) | 8-post launch thread (≤280 each) |
 | [X_THREAD_DAY1_PT.md](X_THREAD_DAY1_PT.md) | Short PT post / 3-post |
 | [BLOG_DAY1.md](BLOG_DAY1.md) / [day1.html](https://www.groundyield.org/day1.html) | Long honesty essay |
-| [NEXT.md](NEXT.md) | Ordered next actions |
+| [NEXT.md](NEXT.md) | Big wins board + 7-day sprint |
+| [X_FOLLOWUPS.md](X_FOLLOWUPS.md) | Posts after Day-1 thread |
 | [field/OUTREACH_EMAIL.md](field/OUTREACH_EMAIL.md) | PT/EN intro emails |
+| [field/QUOTE_REQUESTS.md](field/QUOTE_REQUESTS.md) | Ready supplier quote emails (G2) |
 | [field/CONTACT_LOG.md](field/CONTACT_LOG.md) | Outreach tracking (no private phones) |
 | [TRACTION.md](TRACTION.md) | Full strategy + metrics |
 
