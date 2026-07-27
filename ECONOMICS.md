@@ -6,6 +6,8 @@ Last updated: 27 July 2026
 This document turns [UNIT.md](UNIT.md) cost bands into **illustrative** income and payback scenarios.  
 **These are not forecasts and not promises.** They exist so partners can stress-test assumptions before field data replaces them.
 
+**Critical dependency (stated up front):** planning payback often needs **dry-season irrigated vegetables / cash crops**, not maize uplift alone. Tourism and local market **price and volume are unverified** until buyer interviews and quotes exist ([field/BUYER_INTERVIEW.md](field/BUYER_INTERVIEW.md)). Do not treat vegetable margin tables as Vilanculos facts.
+
 Currency: **USD** unless noted. Exchange for MZN will be restated when we publish real quotes.
 
 ---

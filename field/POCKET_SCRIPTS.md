@@ -1,7 +1,10 @@
 # Pocket scripts — WhatsApp / SMS (offline copy)
 
 Short versions of [ADVICE_SCRIPTS.md](../ADVICE_SCRIPTS.md) for phone notes.  
-**Not for first community meeting.** Use after enrollment + consent.
+
+**FREEZE:** Same as ADVICE_SCRIPTS — **do not send agronomy rates to real farmers** until freeze lifts (agronomist + local review).  
+**OK now:** supplier quote request template; enrollment text only after consent process is real.  
+**Not for first community meeting** as a pitch.
 
 ---
 

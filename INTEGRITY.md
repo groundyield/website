@@ -211,6 +211,11 @@ From [field/FIELD_KIT.md](field/FIELD_KIT.md):
 - [ ] Quote date + currency + truth mark  
 - [ ] Dead end logged if lead dies  
 - [ ] Never invent `0` for missing data  
+- [ ] **No live agronomy WhatsApp** until [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) freeze lifts  
+
+### Process miss already owned (27 Jul 2026)
+
+We claimed “shipped” for some site assets before live HTTP 200 during day-one deploys. Fixed same day; correction in [UPDATES.md](UPDATES.md). Tools: `scripts/live-verify.sh` before any future “live” claim.
 
 ---
 

@@ -9,6 +9,14 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Correction: early “shipped” claims + charter restraint
+
+- **Correction (append-only):** On day one, some UPDATES/site claims briefly treated assets or pages as live while production still returned 404 (partial deploys / wrong Git link). That violated our own “HTTP 200 before shipped” rule. Production now equals `groundyield/website` `main` and passes `scripts/live-verify.sh` — but the process miss stands as a real data point.
+- **Charter:** Season 1 unit/yield figures restated as **aspirational design targets**, not measured results. Binding commitments are process/integrity only ([CHARTER.md](CHARTER.md)).
+- **Agronomy freeze:** [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) / pocket scripts **must not** be sent to real farmers until agronomist + local review.
+- **Money honesty:** [WHO.md](WHO.md) now states runway is not disclosed yet and describes stop scenario if self-funding ends.
+- **Reality line:** zero units, zero field baselines, trip dates still open — published on the homepage deliberately.
+
 ## 27 Jul 2026 — Integrity & anti-fraud (top policy)
 
 - **[INTEGRITY.md](INTEGRITY.md)** published as a top-level public policy: threat model (ghost units, fake baselines, cherry-picked yields, procurement abuse, photo theater, impostors), controls, measurement protocol, and how to report errors/`IMPOSTOR`.

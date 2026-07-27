@@ -5,6 +5,8 @@ Last updated: 27 July 2026
 
 Phone-based advice is part of the core package. This document says **what it is**, **what it is not**, and **how we will measure it** so the pilot does not oversell “AI.”
 
+**LIVE SEND FREEZE:** Draft scripts in [ADVICE_SCRIPTS.md](ADVICE_SCRIPTS.md) are **not cleared** for real farmers until a qualified agronomy review and local legal/consent posture exist. Design work may continue; field messaging may not.
+
 ---
 
 ## Goal

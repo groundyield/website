@@ -2,12 +2,26 @@
 
 **Language:** Portuguese primary (Mozambique). English notes for operators.  
 **Channel:** Manual WhatsApp first ([AI_AGRONOMY.md](AI_AGRONOMY.md)).  
-**Status:** Draft scripts — not automated; no field users enrolled yet.  
 **Offline pocket copy:** [field/POCKET_SCRIPTS.md](field/POCKET_SCRIPTS.md) · full kit [field/FIELD_KIT.md](field/FIELD_KIT.md)
 
 ---
 
-## Safety rules (every message)
+## FREEZE — do not send to farmers yet
+
+| | |
+|---|---|
+| **Status** | **DRAFT ONLY — NOT CLEARED FOR LIVE SEND** |
+| **Why** | No enrolled users; no local agronomist sign-off; no Mozambique legal review of advice or data practice |
+| **Allowed** | Internal design discussion; rewriting with qualified reviewers |
+| **Not allowed** | Messaging real farmers with fertilizer/pesticide/water rates from these drafts |
+
+Safety bullets below are **intent**, not a substitute for licensed extension advice or legal counsel ([CONSENT.md](CONSENT.md)).
+
+When freeze lifts, this section will say who reviewed (name/org + date) before first send.
+
+---
+
+## Safety rules (every message — when live)
 
 - No fertilizer rates above the published package without a written reason.  
 - Prefer “observe and send a photo” over guessing pests.  
