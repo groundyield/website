@@ -11,6 +11,10 @@ Raising real yields on the ground. Transparent data. Community first.
 - X: [@GroundYield](https://x.com/GroundYield)
 - GitHub: [github.com/groundyield/website](https://github.com/groundyield/website)
 
+## Full Plan
+
+See **[PLAN.md](PLAN.md)** for the complete public plan, phases, and principles.
+
 ## What this is
 
 A transparent pilot of modular farm units for smallholders:
