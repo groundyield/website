@@ -1,0 +1,37 @@
+# Fail the PR/push if data templates or critical site files are broken.
+# Does not replace scripts/live-verify.sh (needs production HTTP).
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Data templates
+        run: bash scripts/check-data.sh
+
+      - name: Required site files present
+        run: |
+          set -euo pipefail
+          for f in \
+            index.html pt.html 404.html robots.txt sitemap.xml updates.rss \
+            favicon.svg og-image.png vercel.json CNAME \
+            CHARTER.md INTEGRITY.md WHO.md DEPLOY.md UNIT.md \
+            field/FIELD_KIT.md \
+            field/GroundYield_Field_OnePager_EN_PT.pdf \
+            field/GroundYield_Field_Forms_EN_PT.pdf \
+            units.html
+          do
+            test -f "$f" || { echo "MISSING $f"; exit 1; }
+            echo "OK $f"
+          done
+
+      - name: UPDATES process rule still present
+        run: grep -q 'HTTP 200' UPDATES.md && grep -q 'append' UPDATES.md
