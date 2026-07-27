@@ -117,6 +117,7 @@ Livestock is **optional** and should not delay the irrigation + crop core.
 3. **Local first** — land, labor, and as much equipment as possible sourced locally.
 4. **Transparent** — this BOM and all future cost updates are public.
 5. **Failure-aware** — if a component fails or is too expensive, it is documented and changed openly.
+6. **Theft-aware** — high-value kit (panels, pumps) is designed and sited for **control**, not only for yield. Prefer removable / near-house / named custodian. Full controls: [SECURITY_THEFT.md](SECURITY_THEFT.md). History of why this matters: [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md).
 
 ---
 
@@ -128,6 +129,7 @@ Livestock is **optional** and should not delay the irrigation + crop core.
 - Current smallholder yields (maize, cassava, vegetables)
 - Interest and land access of potential first households
 - Poultry input availability and market for eggs/meat
+- **Theft reality:** what gets stolen most; whether portable pumps are preferred because of theft; house → water → panel distances ([SECURITY_THEFT.md](SECURITY_THEFT.md) trip checklist)
 
 Until then, treat all figures above as **planning ranges**, not commitments.
 
@@ -141,6 +143,7 @@ When you implement a unit, publish:
 - Baseline yield
 - Season results
 - What broke or changed
+- Theft/loss incidents if any (public inventory, no suspect-naming)
 
 That is how the model improves.
 
@@ -149,4 +152,4 @@ That is how the model improves.
 **Status:** v0 — Foundation phase  
 **Next:** Field quotes + first unit design refinement after Vilanculos groundwork.
 
-**Related:** [IRRIGATION.md](IRRIGATION.md) (per-unit vs shared) · [ECONOMICS.md](ECONOMICS.md) · [SEASON.md](SEASON.md) · [SUPPLIERS.md](SUPPLIERS.md)
+**Related:** [IRRIGATION.md](IRRIGATION.md) (per-unit vs shared) · [ECONOMICS.md](ECONOMICS.md) · [SEASON.md](SEASON.md) · [SUPPLIERS.md](SUPPLIERS.md) · [SECURITY_THEFT.md](SECURITY_THEFT.md) · [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md)

@@ -44,7 +44,7 @@ Do not invent hotel-level precision.
 3. Collect **baseline** yield and practice notes before any intervention claims
 4. Map suppliers for irrigation, seed, fertilizer, and storage — **real quotes**
 5. Understand local constraints (water, markets, transport, seasonality, **gov/cost risk** he already paid for once)
-6. Publish what we learn — including false starts and why the last model failed ([LESSONS_MZ.md](LESSONS_MZ.md))
+6. Publish what we learn — including false starts and why the last model failed ([LESSONS_MZ.md](LESSONS_MZ.md)); map local **theft patterns** ([SECURITY_THEFT.md](SECURITY_THEFT.md)); compare to known failure modes ([WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md))
 
 ---
 
@@ -77,6 +77,8 @@ Master index: **[field/FIELD_KIT.md](field/FIELD_KIT.md)**
 | [field/PACKING_LIST.md](field/PACKING_LIST.md) | What to bag |
 | [TRIP_BUDGET.md](TRIP_BUDGET.md) | Travel ops envelope (not unit capital) |
 | [SAFETY.md](SAFETY.md) | Contingency + stop rules |
+| [SECURITY_THEFT.md](SECURITY_THEFT.md) | Kit theft / crime control design |
+| [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) | Failure modes map (desk + field notes) |
 | [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) | Plain-language partnership outline (not a contract) |
 
 ---

@@ -7,7 +7,9 @@ Last updated: 27 July 2026
 This page answers the fair question: *why should anyone trust a “day-one” GitHub pilot?*  
 Because the operator is **not** day-one in Vilanculos. He **failed at scale commercial farming there**, lost heavily, left, and is returning with a **different model**: small modular units, open costs, community-first, no silent abandonment story.
 
-Related: [WHO.md](WHO.md) · [INTEGRITY.md](INTEGRITY.md) · [SYSTEM.md](SYSTEM.md) · [GROUND_TRIP.md](GROUND_TRIP.md)
+Related: [WHO.md](WHO.md) · [INTEGRITY.md](INTEGRITY.md) · [SYSTEM.md](SYSTEM.md) · [GROUND_TRIP.md](GROUND_TRIP.md) · [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) · [SECURITY_THEFT.md](SECURITY_THEFT.md)
+
+**Broader pattern (not only Jacques):** commercial settler waves, mega-land deals, NGO pump drops, and solar theft are well documented — synthesis and sources in [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) and [SOURCES.md](SOURCES.md).
 
 ---
 

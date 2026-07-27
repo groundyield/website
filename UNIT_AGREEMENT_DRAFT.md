@@ -4,7 +4,9 @@
 **Purpose:** State intended terms in plain language before any unit is installed.  
 Final agreements will be written with local partners and, when formed, legal counsel.
 
-Related: [PARTNERSHIPS.md](PARTNERSHIPS.md) · [CHARTER.md](CHARTER.md) · [CONSENT.md](CONSENT.md) · [UNIT.md](UNIT.md)
+Related: [PARTNERSHIPS.md](PARTNERSHIPS.md) · [CHARTER.md](CHARTER.md) · [CONSENT.md](CONSENT.md) · [UNIT.md](UNIT.md) · [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) · [SECURITY_THEFT.md](SECURITY_THEFT.md)
+
+**Theft / care of kit:** every annex must name a custodian and state what happens if kit is stolen or neglected — template clauses in [SECURITY_THEFT.md](SECURITY_THEFT.md) §5.
 
 ---
 

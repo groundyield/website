@@ -5,7 +5,7 @@
 Last updated: 27 July 2026  
 **Status:** Design v0 — **not a signed offer** · numbers from [UNIT.md](UNIT.md) / [ECONOMICS.md](ECONOMICS.md) are **planning**, not promises  
 
-Related: [PARTNERSHIPS.md](PARTNERSHIPS.md) · [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) · [LESSONS_MZ.md](LESSONS_MZ.md) · [WHO.md](WHO.md) · [CHARTER.md](CHARTER.md) · [PLAN.md](PLAN.md)
+Related: [PARTNERSHIPS.md](PARTNERSHIPS.md) · [UNIT_AGREEMENT_DRAFT.md](UNIT_AGREEMENT_DRAFT.md) · [LESSONS_MZ.md](LESSONS_MZ.md) · [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) · [SECURITY_THEFT.md](SECURITY_THEFT.md) · [WHO.md](WHO.md) · [CHARTER.md](CHARTER.md) · [PLAN.md](PLAN.md)
 
 ---
 
@@ -99,6 +99,12 @@ Capital is scarce (self-funded + day job). Protection is **process**, not legal 
 | Site water reality | Don’t buy wrong pump |
 | Quote on kit items | Don’t overpay blind |
 | Fit with time in-country | Don’t promise weekly visits you can’t keep |
+
+### 3.1b Theft and capital destruction
+
+A stolen panel or pump is **total capital loss** for that unit — and a community story that “projects bring thieves.”  
+Controls are first-class design, not afterthought: **[SECURITY_THEFT.md](SECURITY_THEFT.md)**.  
+Principle: stake before steel · earn > steal · moveable kit · few units · public serials · no automatic free replace.
 
 ### 3.2 Ownership models (pick per unit — write it down)
 

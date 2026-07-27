@@ -9,6 +9,13 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Why others failed + theft control
+
+- **[WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md)** — synthesis of why many agri attempts in Mozambique failed: logistics, cost ramps, land conflict, skills, thin markets, mega-programme under-delivery, and **solar/pump theft**.
+- **[SECURITY_THEFT.md](SECURITY_THEFT.md)** — first-class asset control: stake before steel, earn>steal, moveable kit, serials, annex clauses, incident path, trip checklist. No armed-guard brand as default; no guarantee of zero crime.
+- **[SOURCES.md](SOURCES.md)** expanded with citable entry points (Mosagrius/Ecology & Society; Energypedia/Practica solar barriers — theft + training failure).
+- Wired into PLAN risks/doc map, UNIT design principles, SAFETY, VALUE_AND_MONEY, LESSONS_MZ, GATES, README, homepage.
+
 ## 27 Jul 2026 — Community value + money model
 
 - **[VALUE_AND_MONEY.md](VALUE_AND_MONEY.md)** — from the community’s POV: why work with us, what’s in it for them, what protects capital/operator, how surplus and open replication fund the next community.

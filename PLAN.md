@@ -51,7 +51,8 @@ Board: [NEXT.md](NEXT.md) · Gates: [field/GATES.md](field/GATES.md)
 Smallholders in southern Mozambique operate far below potential yields. Published maize figures are commonly **~0.4–1.3 t/ha** (often near **~1 t/ha** nationally) — see [SOURCES.md](SOURCES.md). The gap is not mainly “effort” — it is reliable water, improved inputs, storage, timely advice, and markets that pay.
 
 Most interventions are **opaque** and non-replicable.  
-Many **large commercial SA-style bets** in Mozambique also fail under cost, politics, logistics, and scale risk — the operator lived one of those failures ([LESSONS_MZ.md](LESSONS_MZ.md)).
+Many **large commercial SA-style bets** in Mozambique also fail under cost, politics, logistics, and scale risk — the operator lived one of those failures ([LESSONS_MZ.md](LESSONS_MZ.md)).  
+Broader pattern (settler waves, mega-land deals, NGO tech drops, **theft of solar/pumps**): [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) · [SECURITY_THEFT.md](SECURITY_THEFT.md) · [SOURCES.md](SOURCES.md).
 
 **Charter rule:** impact claims use **local baselines**, not national averages alone.
 
@@ -192,6 +193,8 @@ Data rules: [DATA.md](DATA.md) · Consent: [CONSENT.md](CONSENT.md)
 | AI legal/agronomy exposure | **Freeze** until review |
 | Starlink hype / dependency | School-first; who pays month 13 written first |
 | Over-promising on return to community | Listen first; no free-kit promises |
+| **Crime / theft of panels, pumps, harvest** | First-class design: [SECURITY_THEFT.md](SECURITY_THEFT.md) — stake before steel, moveable kit, serials, annex, few units |
+| Copying failed large-farm models | [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) + modular/open + stop rules |
 | Doc volume vs field reality | NEXT board prioritizes outbound/field over new policy |
 
 ---
@@ -221,6 +224,9 @@ Trip ops ≠ unit capital: [TRIP_BUDGET.md](TRIP_BUDGET.md) vs [UNIT.md](UNIT.md
 | [CHARTER.md](CHARTER.md) | Binding vs aims |
 | [INTEGRITY.md](INTEGRITY.md) | Anti-fraud |
 | [LESSONS_MZ.md](LESSONS_MZ.md) | Why this model (prior failure) |
+| [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) | Why many tried before — failure modes map |
+| [SECURITY_THEFT.md](SECURITY_THEFT.md) | Crime / theft / asset control |
+| [SOURCES.md](SOURCES.md) | Citations (yield, failure waves, theft) |
 | [WHO.md](WHO.md) | Accountability |
 | [NEXT.md](NEXT.md) | Operator board |
 
@@ -231,6 +237,7 @@ Trip ops ≠ unit capital: [TRIP_BUDGET.md](TRIP_BUDGET.md) vs [UNIT.md](UNIT.md
 | [UNIT.md](UNIT.md) | BOM + cost bands |
 | [IRRIGATION.md](IRRIGATION.md) | Water options |
 | [ECONOMICS.md](ECONOMICS.md) | Illustrative economics |
+| [VALUE_AND_MONEY.md](VALUE_AND_MONEY.md) | Community deal + capital protection |
 | [SEASON.md](SEASON.md) | Crop calendar |
 | [AI_AGRONOMY.md](AI_AGRONOMY.md) | Advice design (frozen send) |
 | [PARTNERSHIPS.md](PARTNERSHIPS.md) | Community principles |

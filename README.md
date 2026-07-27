@@ -34,7 +34,7 @@ Funding, conflicts, corrections: **[WHO.md](WHO.md)**.
 
 ## Documents
 
-**Start here:** [**PLAN.md**](PLAN.md) (master open plan) · [SYSTEM.md](SYSTEM.md) · [LESSONS_MZ.md](LESSONS_MZ.md) · [NEXT.md](NEXT.md)
+**Start here:** [**PLAN.md**](PLAN.md) (master open plan) · [SYSTEM.md](SYSTEM.md) · [LESSONS_MZ.md](LESSONS_MZ.md) · [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) · [SECURITY_THEFT.md](SECURITY_THEFT.md) · [NEXT.md](NEXT.md)
 
 | File | Purpose |
 |------|--------|
@@ -42,6 +42,8 @@ Funding, conflicts, corrections: **[WHO.md](WHO.md)**.
 | [SYSTEM.md](SYSTEM.md) | Physical + Starlink + AI roles |
 | [CHARTER.md](CHARTER.md) | Binding process vs design aims |
 | [LESSONS_MZ.md](LESSONS_MZ.md) | Prior MZ farming failure → why modular/open |
+| [WHY_OTHERS_FAILED.md](WHY_OTHERS_FAILED.md) | **Why many tried before — failure modes** |
+| [SECURITY_THEFT.md](SECURITY_THEFT.md) | **Crime / theft / how we control assets** |
 | [INTEGRITY.md](INTEGRITY.md) | Anti-fraud (top policy) |
 | [WHO.md](WHO.md) | Accountability, funding, conflicts |
 | [UNIT.md](UNIT.md) | Modular unit BOM + cost bands |

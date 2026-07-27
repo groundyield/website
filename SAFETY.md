@@ -2,16 +2,17 @@
 
 **Status:** Operator checklist — not a guarantee of risk-free travel.  
 **Owner:** Jacques Theron  
-Related: [GROUND_TRIP.md](GROUND_TRIP.md) · [CONSENT.md](CONSENT.md) · [WHO.md](WHO.md)
+Related: [GROUND_TRIP.md](GROUND_TRIP.md) · [CONSENT.md](CONSENT.md) · [WHO.md](WHO.md) · [SECURITY_THEFT.md](SECURITY_THEFT.md)
 
 ---
 
 ## Principles
 
 1. **People over content** — no photo, quote, or scoop is worth coercion or danger.  
-2. **Local knowledge first** — ask hosts about roads, water, politics, health.  
+2. **Local knowledge first** — ask hosts about roads, water, politics, health, **theft patterns**.  
 3. **Redundancy** — offline copies of forms, IDs, contacts, and this checklist.  
-4. **Public honesty, private detail** — sensitive incidents can be summarized without endangering anyone.
+4. **Public honesty, private detail** — sensitive incidents can be summarized without endangering anyone.  
+5. **Kit security is not trip security** — personal safety (this file) is separate from **asset theft controls** ([SECURITY_THEFT.md](SECURITY_THEFT.md)).
 
 ---
 
@@ -91,7 +92,8 @@ Publish later: what was learned **without** endangering people.
 1. Safety first.  
 2. Private log (time, place, facts).  
 3. Public summary only when safe and useful.  
-4. Correct any published claim that no longer holds.
+4. Correct any published claim that no longer holds.  
+5. If **kit theft/vandalism**: follow [SECURITY_THEFT.md](SECURITY_THEFT.md) § Incident response (serials, leaders, no public suspect names).
 
 ---
 
