@@ -9,6 +9,12 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Field one-pager (offline EN+PT)
+
+- [field/GroundYield_Field_OnePager_EN_PT.pdf](field/GroundYield_Field_OnePager_EN_PT.pdf) — printable two-page handout for community/supplier first contact (no signal required).
+- Framed: local baseline (not national averages); planning cost band not an offer of payment; named accountability; “what we are not asking today.”
+- `updates.rss` kept in sync with this log (append-only mirror).
+
 ## 27 Jul 2026 — Irrigation options + live-verify script
 
 - [IRRIGATION.md](IRRIGATION.md): per-unit kit vs shared headworks (capital + governance).

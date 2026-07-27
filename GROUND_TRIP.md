@@ -51,6 +51,7 @@ When dates lock, replace *TBD* here and add a line under **Public log** the same
 - [ ] Safety and contingency plan
 - [x] Confirm notification path to operator (GitHub merge mail for PR #1 received 27 Jul 2026)
 - [ ] Spot-check direct mail to `team@groundyield.org` (partnership inbox)
+- [x] Print [field/GroundYield_Field_OnePager_EN_PT.pdf](field/GroundYield_Field_OnePager_EN_PT.pdf) (EN+PT offline handout)
 
 ---
 

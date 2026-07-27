@@ -52,6 +52,7 @@ Full funding rules, conflicts, and corrections policy: **[WHO.md](WHO.md)**.
 | [SOURCES.md](SOURCES.md) | Citations for public claims |
 | [UPDATES.md](UPDATES.md) | Changelog (source of truth) |
 | [GROUND_TRIP.md](GROUND_TRIP.md) | Trip checklist (SA → ZW → MZ) |
+| [field/](field/) | **Offline EN+PT one-pager PDF** for ground contact |
 | [DEPLOY.md](DEPLOY.md) | **How production is deployed (Git → Vercel)** |
 | [data/](data/) | CSV schemas + BOM tables |
 | [LICENSE](LICENSE) | MIT — open by design |

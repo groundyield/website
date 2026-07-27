@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 18:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Field one-pager PDF (EN+PT offline handout)</title>
+      <link>https://github.com/groundyield/website/blob/main/field/GroundYield_Field_OnePager_EN_PT.pdf</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-field-onepager</guid>
+      <pubDate>Mon, 27 Jul 2026 19:00:00 +0000</pubDate>
+      <description>Printable two-page EN+PT handout for ground contact without internet. Local baseline framing, planning cost band, named accountability, no ask for money on first meeting. field/</description>
+    </item>
     <item>
       <title>Irrigation options + live-verify script</title>
       <link>https://github.com/groundyield/website/blob/main/IRRIGATION.md</link>
