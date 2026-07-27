@@ -9,6 +9,12 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Local businesses contact list (desk)
+
+- **[field/LOCAL_CONTACTS.md](field/LOCAL_CONTACTS.md)** — walk/call list for Vilanculos (hardware, market agro, lodges/restaurants for offtake, extension), Inhambane, Maputo national, SA corridor.
+- First-15 walk-ins prioritized for week 1 on the ground.
+- All leads **H/secondary** — verify in person; quotes still zero until written prices land in SUPPLIERS.
+
 ## 27 Jul 2026 — Ground window next ~2 weeks + X field post pack
 
 - Operator states presence on the corridor within **the next ~2 weeks** (provisional **~27 Jul – 10 Aug 2026**; day-by-day still open).

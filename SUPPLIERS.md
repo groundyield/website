@@ -23,6 +23,8 @@ Truth rules match [GROUND_TRIP.md](GROUND_TRIP.md): fact / estimate / hearsay; u
 **Not prices.** Not endorsement. Not “available in Vilanculos.”  
 Use as **call list** on the trip / outreach. Close into quote tables only with a dated written quote.
 
+**Expanded local walk-in list (Vilanculos + corridor):** [field/LOCAL_CONTACTS.md](field/LOCAL_CONTACTS.md)
+
 ### Irrigation / solar water (SA + regional)
 
 | Lead (public) | Why relevant | Public entry | Region note | Status |

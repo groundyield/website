@@ -50,6 +50,7 @@ Offline pack: print [one-pager](field/GroundYield_Field_OnePager_EN_PT.pdf) + [f
 | X pack | [X_FIELD_2WEEKS.md](X_FIELD_2WEEKS.md) |
 | Day-1 thread | [X_THREAD_DAY1.md](X_THREAD_DAY1.md) |
 | Quote emails | [field/QUOTE_REQUESTS.md](field/QUOTE_REQUESTS.md) |
+| Local business list | [field/LOCAL_CONTACTS.md](field/LOCAL_CONTACTS.md) |
 | Contact log | [field/CONTACT_LOG.md](field/CONTACT_LOG.md) |
 | Registry | https://www.groundyield.org/units.html |
 

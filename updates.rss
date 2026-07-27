@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 02:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 03:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Local businesses contact list for Vilanculos trip</title>
+      <link>https://github.com/groundyield/website/blob/main/field/LOCAL_CONTACTS.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-local-contacts</guid>
+      <pubDate>Tue, 28 Jul 2026 03:15:00 +0000</pubDate>
+      <description>Desk list: hardware, agro-inputs, lodge/restaurant offtake, extension, Maputo national, SA corridor. First-15 walk-ins. Not quotes — verify in person.</description>
+    </item>
     <item>
       <title>Ground window next ~2 weeks + X field post pack</title>
       <link>https://github.com/groundyield/website/blob/main/X_FIELD_2WEEKS.md</link>

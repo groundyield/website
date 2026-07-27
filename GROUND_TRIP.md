@@ -70,6 +70,7 @@ Master index: **[field/FIELD_KIT.md](field/FIELD_KIT.md)**
 | [field/CONSENT_SCRIPT.md](field/CONSENT_SCRIPT.md) | Plain-language consent |
 | [field/POCKET_SCRIPTS.md](field/POCKET_SCRIPTS.md) | WhatsApp pocket copy |
 | [SUPPLIERS.md](SUPPLIERS.md) · [data/quotes-template.csv](data/quotes-template.csv) | Quote log |
+| [field/LOCAL_CONTACTS.md](field/LOCAL_CONTACTS.md) | Local businesses walk/call list |
 | [field/BUYER_INTERVIEW.md](field/BUYER_INTERVIEW.md) | Hotels / markets / traders |
 | [field/DAILY_LOG.md](field/DAILY_LOG.md) | Nightly public-safe log blocks |
 | [field/PACKING_LIST.md](field/PACKING_LIST.md) | What to bag |
