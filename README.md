@@ -20,9 +20,14 @@ Raising real yields on the ground. Transparent data. Community first.
 |------|--------|
 | [PLAN.md](PLAN.md) | Full public plan — problem, approach, phases |
 | [CHARTER.md](CHARTER.md) | Binding public commitments and Season 1 targets |
-| [UNIT.md](UNIT.md) | **Modular Unit v0 — BOM + cost model** |
+| [UNIT.md](UNIT.md) | Modular Unit v0 — BOM + cost bands |
+| [ECONOMICS.md](ECONOMICS.md) | Unit economics v0 — payback illustrations (not forecasts) |
+| [SEASON.md](SEASON.md) | Crop & season calendar for planning |
+| [AI_AGRONOMY.md](AI_AGRONOMY.md) | Phone/AI advice design — what it is and is not |
+| [PARTNERSHIPS.md](PARTNERSHIPS.md) | Community & land partnership principles |
 | [DATA.md](DATA.md) | What we measure and how we publish it |
 | [GROUND_TRIP.md](GROUND_TRIP.md) | Trip checklist (SA → ZW → MZ) |
+| [data/](data/) | CSV schemas + BOM tables |
 | [LICENSE](LICENSE) | MIT — open by design |
 
 ## What this is
@@ -48,7 +53,7 @@ Everything is published openly: design, costs, yields, incomes, and failures.
 ## Status
 
 **Foundation phase.**  
-Public identity, plan, charter, data standards, and first unit design (v0) are live.  
+Public identity, plan, charter, unit BOM, economics, season calendar, AI advice design, and partnership principles are live.  
 Next: ground trip (South Africa → Zimbabwe → Mozambique), land options, community engagement, baseline data, real supplier quotes.
 
 ---

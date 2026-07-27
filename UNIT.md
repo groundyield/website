@@ -148,3 +148,6 @@ That is how the model improves.
 
 **Status:** v0 — Foundation phase  
 **Next:** Field quotes + first unit design refinement after Vilanculos groundwork.
+
+**Machine-readable:** [`data/unit-bom-v0.csv`](data/unit-bom-v0.csv) · [`data/unit-cost-summary-v0.csv`](data/unit-cost-summary-v0.csv)  
+**Economics scenarios:** [ECONOMICS.md](ECONOMICS.md) · **Calendar:** [SEASON.md](SEASON.md) · **Advice:** [AI_AGRONOMY.md](AI_AGRONOMY.md)

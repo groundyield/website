@@ -1,0 +1,19 @@
+category,item,spec_notes,cost_usd_low,cost_usd_high,cost_type,module,version
+irrigation,solar_panels,0.8-1.5 kWp,400,900,capex,core,v0
+irrigation,pump_controller,surface or small submersible site-dependent,300,700,capex,core,v0
+irrigation,pipes_fittings_filters,main + distribution 0.25-0.5 ha,150,350,capex,core,v0
+irrigation,installation_labor,local,100,250,capex,core,v0
+crop_inputs,hybrid_improved_seed,maize or mixed 10-15 kg maize equivalent,25,60,opex_season,core,v0
+crop_inputs,fertilizer_microdose,NPK + urea micro-dosing,40,90,opex_season,core,v0
+crop_inputs,crop_protection,targeted as needed,15,40,opex_season,core,v0
+crop_inputs,labor_plant_weed,local rates,30,80,opex_season,core,v0
+storage,hermetic_bags,5-10 x 100 kg PICS or equivalent,15,30,capex,core,v0
+storage,drying_handling,local materials,10,25,capex,core,v0
+advice,phone_ai_advisory,WhatsApp/SMS/app layer per season,0,20,opex_season,core,v0
+advice,extension_training,local or shared visits,20,50,opex_season,core,v0
+poultry,birds_50_100,day-old or started broiler or dual-purpose,40,120,opex_cycle,optional_poultry,v0
+poultry,housing_feeders,local materials,80,200,capex,optional_poultry,v0
+poultry,feed_first_cycle,first cycle feed,60,150,opex_cycle,optional_poultry,v0
+poultry,vaccines_basics,basic animal health,15,40,opex_cycle,optional_poultry,v0
+goats,does_2_4_housing,local breeds preferred,150,400,capex,optional_goat,v0
+goats,feed_health_buffer,buffer for feed and health,40,100,opex_season,optional_goat,v0

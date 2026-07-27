@@ -1,0 +1,4 @@
+scenario,irrigation_usd,crop_inputs_usd,storage_usd,advice_usd,contingency_15pct_usd,total_year0_usd,notes,version
+low,950,110,25,20,165,1270,planning band from UNIT.md,v0
+mid,1500,180,40,40,265,2025,planning band from UNIT.md,v0
+high,2200,270,55,70,390,2985,planning band from UNIT.md,v0

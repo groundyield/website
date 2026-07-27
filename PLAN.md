@@ -22,6 +22,8 @@ Deploy standardized, modular farm units that close the yield gap with measurable
 - Hermetic storage (reduce post-harvest loss)
 - Optional poultry and goat modules for income diversification
 
+**Design & economics (public v0):** see [UNIT.md](UNIT.md) (BOM), [ECONOMICS.md](ECONOMICS.md) (payback illustrations), [SEASON.md](SEASON.md) (calendar), [AI_AGRONOMY.md](AI_AGRONOMY.md) (advice design), [PARTNERSHIPS.md](PARTNERSHIPS.md) (community rules).
+
 ### Design Principles
 1. **Modular** — start small, prove, then scale by adding units
 2. **Transparent** — no private reports, no hidden numbers
@@ -46,6 +48,7 @@ Deploy standardized, modular farm units that close the yield gap with measurable
 ### Phase 0 — Foundation (Current)
 - Public identity locked (website, GitHub, X)
 - Open plan published
+- Unit BOM, economics, season calendar, AI advice design published (v0)
 - Ground trip: South Africa → Zimbabwe → Mozambique
 - Land options, community engagement, baseline data collection
 
@@ -100,4 +103,5 @@ Next: land, community, baseline numbers.
 ---
 
 Last updated: 27 July 2026  
-Live updates: [groundyield.org](https://groundyield.org) · [@GroundYield](https://x.com/GroundYield)
+Live updates: [groundyield.org](https://groundyield.org) · [@GroundYield](https://x.com/GroundYield)  
+Docs: [UNIT](UNIT.md) · [ECONOMICS](ECONOMICS.md) · [SEASON](SEASON.md) · [AI](AI_AGRONOMY.md) · [PARTNERSHIPS](PARTNERSHIPS.md)

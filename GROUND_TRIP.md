@@ -69,8 +69,10 @@ This document is public. It will be updated with dates, contacts (as appropriate
 |-------------|----------|
 | Trip narrative + dates | This file + website Updates |
 | Baseline notes (anonymized as needed) | `data/` |
-| Supplier shortlist | New doc or section in PLAN |
-| Land / partnership options (non-sensitive) | PLAN or dedicated note |
+| Supplier shortlist + real quotes | Update `UNIT.md` + `data/unit-bom-v0.csv` |
+| Land / partnership options (non-sensitive) | [PARTNERSHIPS.md](PARTNERSHIPS.md) |
+| Validated crop calendar | [SEASON.md](SEASON.md) |
+| Economics with real prices | [ECONOMICS.md](ECONOMICS.md) |
 | Failures and false starts | Updates + this file |
 
 ---

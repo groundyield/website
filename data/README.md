@@ -17,15 +17,17 @@ See [DATA.md](../DATA.md) in the repo root:
 - Clear units and currency
 - Append updates; do not rewrite history silently
 
-## Planned Files
+## Files
 
 | File | Purpose |
 |------|---------|
 | `schema-baseline.csv` | Columns for pre-intervention baseline |
 | `schema-unit-season.csv` | Per-unit per-season inputs, yields, income |
+| `unit-bom-v0.csv` | Line-item BOM cost bands (from UNIT.md) |
+| `unit-cost-summary-v0.csv` | Low / mid / high Year-0 totals |
 | `baselines.csv` | Filled baseline rows (when collected) |
 | `units.csv` | Unit registry (IDs may be anonymized) |
-| `seasons/` | Season-by-season CSVs |
+| `seasons/` | Season-by-season CSVs (later) |
 
 ## Formats
 

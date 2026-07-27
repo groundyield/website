@@ -32,7 +32,12 @@ How GroundYield will publish numbers.
 No field data yet.  
 Foundation phase — baselines will be collected during and after the ground trip.
 
-When data exists it will appear here and on the website Updates section.
+**Planning tables (not field measurements):**
+- [`data/unit-bom-v0.csv`](data/unit-bom-v0.csv) — modular unit BOM bands
+- [`data/unit-cost-summary-v0.csv`](data/unit-cost-summary-v0.csv) — Year-0 low/mid/high totals
+- Narrative: [UNIT.md](UNIT.md), [ECONOMICS.md](ECONOMICS.md)
+
+When field data exists it will appear under `data/` and on the website Updates section.
 
 ---
 
