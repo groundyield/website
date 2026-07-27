@@ -12,6 +12,7 @@ Public checklist so we do not skip straight from docs to household dependency.
 | **G5 Advice live** | Sending agronomy WhatsApp | Freeze lifted in ADVICE_SCRIPTS (reviewer + date) |
 | **G6 Unit count** | “N units deployed” | N rows installed/active on /units.html + data/units.csv |
 
-**Current (27 Jul 2026):** G0 only. G1–G6 open.
+**Current (27 Jul 2026):** G0 only. G1–G6 open.  
+Desk leads for G2 call list: [SUPPLIERS.md](../SUPPLIERS.md) (not quotes yet).
 
-Related: [INTEGRITY.md](../INTEGRITY.md) · [GROUND_TRIP.md](../GROUND_TRIP.md) · [OUTREACH_EMAIL.md](OUTREACH_EMAIL.md)
+Related: [INTEGRITY.md](../INTEGRITY.md) · [GROUND_TRIP.md](../GROUND_TRIP.md) · [OUTREACH_EMAIL.md](OUTREACH_EMAIL.md) · [CONTACT_LOG.md](CONTACT_LOG.md)

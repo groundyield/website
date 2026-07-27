@@ -6,7 +6,14 @@
     <description>Public progress updates from the GroundYield modular farm pilot in Vilanculos, Mozambique.</description>
     <language>en</language>
     <atom:link href="https://www.groundyield.org/updates.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 01:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 01:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Asset re-verify, one-pager PDF fix, supplier desk leads</title>
+      <link>https://github.com/groundyield/website/blob/main/SUPPLIERS.md</link>
+      <guid isPermaLink="false">groundyield-2026-07-27-assets-pdf-suppliers</guid>
+      <pubDate>Tue, 28 Jul 2026 01:45:00 +0000</pubDate>
+      <description>OG/favicon/icons confirmed 200 + magic bytes. One-pager PDF was base64-corrupted — fixed to real PDF. live-verify checks binary magic. SUPPLIERS desk leads only (no prices).</description>
+    </item>
     <item>
       <title>Next board, day1.html essay page, PT launch, contact log</title>
       <link>https://www.groundyield.org/day1.html</link>

@@ -9,6 +9,13 @@ Newest first. Do not silently edit old entries — append corrections.
 
 ---
 
+## 27 Jul 2026 — Asset re-verify + PDF fix + supplier desk leads
+
+- **Assets re-checked with curl (not tool sandbox):** `/favicon.svg`, `/og-image.png`, `/apple-touch-icon.png`, `/icon-512.png` return HTTP 200, correct `Content-Type`, valid magic bytes, and **byte-match** repo files. The third “assets are 404” report appears to be a **false positive** from a fetch environment that mishandles binary bodies — not a production outage.
+- **Real bug fixed:** `field/GroundYield_Field_OnePager_EN_PT.pdf` had been stored/served as **base64 text** (`JVBER…`) instead of binary PDF. Decoded to valid `%PDF-1.4` (2 pages, extractable text). Forms PDF was already valid.
+- **`live-verify.sh` hardened:** checks Content-Type + magic bytes for PNG/PDF; fails if PDF body is base64.
+- **[SUPPLIERS.md](SUPPLIERS.md):** desk research **leads** (Futurepump, Lorentz, SEMOC, PICS, GrainPro, etc.) labeled H/secondary — **not quotes**, no prices. Call list for G2.
+
 ## 27 Jul 2026 — Next board, day1.html, PT launch, contact log
 
 - **[NEXT.md](NEXT.md)** — ordered human actions to unlock G1 (intro) and G2 (quote); success metrics for the week.
